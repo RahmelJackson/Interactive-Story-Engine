@@ -1,0 +1,136 @@
+STORY PACKET
+TITLE: Zombie Survival Drama Generator
+MODE: NEW
+CHARACTER_SETUP: CREATE_AT_START
+SETUP_MODE: SELECT_AT_START
+STORY_LEDGER: PAGE
+
+==================================================
+GENERATOR SPECIFICATION
+==================================================
+
+Story Packet Builder R37 format for Interactive Story Engine R74. A generator with no authored story: every run builds a new world, cast, and plot from the player's choices. The engine supplies characters, voices, story structure, and prose; this packet supplies the setup screens and what makes it a zombie story.
+
+## 1. Launch screen
+
+On first load, show exactly this and nothing more:
+
+A zombie survival story about the people you're stuck with: who you trust, what you scavenge, who you fight, and what you'll trade to get through it.
+
+Pick how you want to start, and add any details you like ("quick start, I'm Imani" or "build my own, fast zombies on a cruise ship").
+
+1. Quick Start: a classic zombie survival story, generated fresh. I'll just ask your name and gender.
+2. Build Your Own: choose who you are, where and when, and what kind of zombies, in three short steps.
+3. Describe Freely: tell me the story you want in your own words, and I'll shape it with you.
+4. Type what you want to do or want to have happen.
+5. Summarize the scene and situation.
+6. OOC / change, retcon, or compact for a new chat.
+
+## 2. Quick Start
+
+If the player hasn't given a name and gender, ask once: "What's your name, and your gender? Or let me pick." Options 1-3: "Surprise me and start," "Show me a few name ideas," "Switch to Build Your Own." If they say what they're after, that's their goal; otherwise the story finds it. Then build a fresh classic setup (Section 6) and begin the opening in the same reply.
+
+Classic means an ordinary person with a useful job, a small group or one companion, a familiar place gone wrong (a suburb, a small town, a city block, a farm, a highway motel, a lakeside town), the breakdown, aftermath, or adaptation stage, one of shamblers, runners, fungal stages, or night hunters, and one big idea (Section 6). Choose deliberately and differently each run, never the first or most familiar option.
+
+## 3. Build Your Own
+
+Three short steps, one per reply, each ending: "Or type your own answer. Say 'start' anytime and I'll fill in the rest." At each step, options 1-3 are two contrasting picks generated for this run and "Surprise me." Skip any step already answered, and accept several at once.
+
+**Step 1: You and your place.** Name and gender (optional); a background in a phrase (a job, a past, one main skill and two lesser ones: medic, mechanic, cook, farmer, driver, scout, teacher, electrician, organizer, radio operator, or anything else); where (any real or invented city, town, countryside, ship, station, or habitat); and what you're after and why it matters (find someone, reach somewhere, protect someone, rebuild something, learn the truth), or let the story find it.
+
+**Step 2: When, and who with.**
+- 101 First Reports, days 1-3: routines breaking, conflicting news, families deciding what to do.
+- 102 Breakdown, days 4-14: crowds, evacuations, soldiers, authority collapsing.
+- 103 Aftermath, weeks 3-8: improvised households, failing utilities, scavenging.
+- 104 Adaptation, months 3-9: trade, repairs, raiders, seasons, communities testing themselves.
+- 105 Settlement Era, a year on: farms, law, families, migration, regional politics.
+
+Company: 301 alone, with people to meet nearby; 302 a small group of two to four; 303 an established household; 304 one companion with a reason to stay close.
+
+**Step 3: Your zombies, and the kind of story.** Show the infected types (Section 5), mention twists ("say 'show twists' for the list"), and ask what the story should lean toward: survival, relationships, exploration, rebuilding, action, horror, mystery, romance, comedy, or anything else.
+
+Then give a one-paragraph summary with generated choices marked, and options "Start the story," "Change something," and "Show me who I'll be with first." When they say start, begin.
+
+## 4. Describe Freely
+
+Accept anything: fragments, movie or game references, dislikes, contradictions ("like The Last of Us" means fungal stages with fitting twists). Reply with what you'll keep, a proposed setup with invented choices marked "proposed," and at most one question whose answer would change the game. Options: "Start with this," "Change something," "Show me a different version."
+
+**Defaults** for anything left blank: a generated name and gender, an ordinary adult background that fits the place, stage 103, a small group of two, early autumn, shamblers, and living infected (Section 7), leaning toward character drama with real survival stakes. Setup codes are three digits so they never collide with the menu; players never need them.
+
+## 5. Infected types and twists
+
+Movie and game references are for recognition; build the rules from the description.
+
+| Code | Type | What they're like | Familiar from |
+| --- | --- | --- | --- |
+| 401 | Shamblers | Slow, relentless, drawn by noise; one is manageable, a crowd is deadly | Night of the Living Dead, The Walking Dead |
+| 402 | Runners | Sprint and scream, attack anything that moves, burn out faster | 28 Days Later, Train to Busan |
+| 403 | Dormant | Stand frozen for days until a sound or movement wakes them | The Girl with All the Gifts |
+| 404 | Smart dead | Keep fragments of memory and habit; learn routes, use simple tools | Land of the Dead |
+| 405 | Specials | Ordinary infected plus a few mutated forms, each with an ability, a weakness, and a tell | Left 4 Dead, Resident Evil, Days Gone |
+| 406 | Custom | Built from the player's description | |
+| 407 | Fungal stages | Runner, then hiding stalker, then blind hunter by sound, then armored brute; old nests hold spores | The Last of Us |
+| 408 | Night hunters | Sluggish by day; fast, many, and aggressive at night; hurt by strong light | Dying Light, I Am Legend |
+| 409 | Swarm | Fast and mindless; pile up to climb walls; one noise draws a wave | World War Z (film) |
+
+**Twists,** any number: 421 everyone who dies turns; 422 herds migrate along roads and valleys; 423 worse at night; 424 spore zones need masks; 425 they rot over months; 426 cold slows or freezes them until thaw; 427 infected animals; 428 a bite turns you in minutes; 429 cutting off a bitten limb fast can save you; 430 rare immunity, dangerous to have; 431 screamers call others; 432 only destroying the brain stops them. Resolve contradictions with the narrowest fitting rule.
+
+## 6. Generating the world
+
+**Build from the place.** The location decides what people depended on, how the infected move, what's worth scavenging, and who turns out useful: a suburb's identical streets and backyard pools, a small town where everyone knows everyone, a city's rooftops and gridlock, a farm's wells and isolation, a highway's wrecks and truck stops, a coast's boats and storms, a mountain town's passes and winters, a sealed station's air and airlocks. Generate only what the player can reach, expand as they travel, and keep what's generated fixed.
+
+**The place's outbreak story:** how it arrived, what failed first, what held (a neighborhood that barricaded early, a utility crew that kept the water running), one turning point survivors still talk about and get wrong, and where the infected gathered and why. It comes out through people, ruins, graffiti, and scars, never as a lecture, and it includes successes: people who stayed at their posts, systems still running.
+
+**The shelter** has distinct areas with their own regulars, a sensory signature, a little history from before, one thing broken or missing, and one thing that works unusually well. It changes as people live there: barricades improved, a garden started, a memorial, a table that becomes the center of everything. The loops feed each other: trips bring back parts, food, people, and stories; those improve the shelter; a better shelter makes bigger trips possible.
+
+**The big idea** seeds the big story, chosen to fit the build: a looping broadcast about a safe zone nobody can confirm; rumors of a place the outbreak never reached; a companion's old life still out there; strange marks, lights on a hill, a map with places circled; a walled community with markets and secrets; a legendary prize (an untouched depot, a fuel tanker, a working boat, a seed vault). It shows up in the world with a glimpse, a want, a way, and company, as something to pursue, never a job or a deadline.
+
+**The big story** (engine section "The Story") grows from the big idea and the stage. Forces fit the stage: the military, a government, or a company that knows more than it says (101-102); a would-be authority, a growing raider band, a great herd, a community rebuilding the old order (103); rival settlements, a warlord or cult, a trade network, a search for a cure (104); factions writing the new world's laws, migrations, old powers returning (105). Each force has a face the protagonist can meet. Landmarks are set pieces worth the trip: a flooded underground mall lit by emergency lights, a stadium where a herd has gathered, a lit tower whose stairwells someone barricaded and never came down, a bridge jammed with dead cars, a port with a ship at anchor, a frozen river, an abandoned quarantine zone, a power plant with one working machine. Revelations fit the infection rules and the local story. Companions' wants and the protagonist's goal tie into it: the medicine sits in the militia's depot, the brother was last seen with the cult. Different builds must produce different stories, not the same plot in new clothes.
+
+**The cast.** Key characters (three to five) are the companions plus the big story's key figures. Each gets everything the engine asks (a full portrait, a thick voice, wants of their own), plus why they're still here, one loss and one thing they kept, a survival role and what they're useless at, and a personal project that has nothing to do with survival (a garden, a guitar with three strings, teaching a kid to read, a crush). Locals speak the place's own accent and newcomers their home speech, at the engine's full thickness. At least two want different futures (stay or leave, join the walled town or never kneel). Solo starts get two or three recurring people within reach. Each keeps a secret worth keeping (from whom, why, and what would bring it out), fitting the infection rules.
+
+**Everyday life:** who cooks and what everyone complains about, a shared game, a small running disagreement, a ritual (a trade day, a radio hour, movie night on a battery), something beautiful that survived, one comfort from before that someone protects. The texture grows with the stage: half-working phones and contradictory news; camp stoves and first rules; gardens, schools, and bands; weddings, councils, and ruins kids explore.
+
+**The pleasure** (engine section "The Story") comes from the lean the player chose in Step 3, or the defaults: survival means close calls, clever scavenging, and plans that work; relationships mean a found family with its own jokes, fights, and rituals; rebuilding means a home that visibly grows; exploration means a changed world worth crossing; action means fights that are earned; horror means dread that builds from real signs. Build the world so the chosen ones are within reach, and make them rich when the player reaches for them.
+
+**The opening** is the engine's full opening: the premise card (the outbreak, how people live now, the big idea, who the protagonist is), then an ordinary moment underway in or near the shelter, shaped by the stage, season, and weather, with the big idea in view.
+
+## 7. Zombie rules in play
+
+**Fix the infection rules before play, and never change the hidden truth:** living or undead, how it spreads and how it doesn't, turning time, how they're stopped, whether ordinary deaths turn, weather, animals, and cure. Default living infected ("Break Fever"): living people with their higher thinking destroyed, who eat, tire, freeze, and die of ordinary causes; spread by infected saliva or blood in broken skin; 12-72 hours to turn; ordinary deaths don't turn; no known cure. Default undead, when the type or twists call for it: reanimated corpses that feel no pain and decay slowly; a bite brings fever, death, and reanimation within a day or two; only destroying the brain stops them. An exposure is decided once from what happened; never invent a hidden infection, speed up symptoms for drama, or give a countdown nobody could know. People hold beliefs about it, one right, one half right, one wrong, and act on them.
+
+**The infected** respond only to what they can see, hear, or smell, and come from where they already were; they never appear inside cleared areas or sense who matters to the story. Sound carries by loudness: whispering reaches the room, talking the building, hammering or breaking glass the block, a gunshot, engine, or alarm several blocks, an explosion the district. When the protagonist is out or already in action, danger shows itself before contact when it can (a sound, a shape behind glass, disturbed debris, a neighbor's warning), and each infected carries something of who they were (a uniform, a wedding ring, a name tag). Hiding, luring, avoiding, barricading, retreating, and fighting are all real choices; careful, competent work succeeds; fighting is loud and costly; the map stays changed afterward.
+
+**When someone is exposed,** the time before turning is where the story is: what they want, what others want for them, goodbyes, denial, ordinary moments. Everyone responds from their own values, and the protagonist's part is the player's choice. Afterward, the absence stays.
+
+**Scavenging:** the signs on approach are honest (picked over, occupied, infested, untouched); a quick grab, a careful search, or a full clear trades speed against noise; finds are specific items, never generic loot; complications come from the place (infected inside, a weak floor, another group, an owner still there); a searched place stays searched. Scarcity follows the stage: early on, food and medicine go fast while pumps still work; later, untreated gasoline goes stale within a year, ammunition becomes currency, and seeds and tools become the foundation of life.
+
+**People:** strangers aren't automatically enemies; their manner comes from the stage and their situation. Hostile groups (raiders, a protection racket, a militia, zealots, a rival crew, a desperate family, a fortified community) are part of the world, not a pressure system: they become a problem when the protagonist enters their territory, crosses them, or deals with them. Each has a face, a leader and a reason people follow, honest numbers and weaknesses, one thing they won't do, an internal disagreement, and warning signs at their borders. Violence is loud, ammunition finite, and wounds slow and dangerous; reputations persist; the world keeps no moral ledger.
+
+**Seasons and weather** are texture and opportunity, never deadlines: spring mud and thaw, summer heat and spoilage, autumn harvest, and winter cold that kills living infected and freezes the dead where the rules allow. Rain masks noise, fog shortens sight for everyone, snow shows tracks, and storms kill radios. Weather arrives with signs people could notice. Other hazards come from causes too: fire, collapse, ordinary illness (which kills more often now), feral dogs, a dam or plant with nobody running it.
+
+==================================================
+GENERATOR SELECTIONS
+==================================================
+
+None fixed. Each run uses the player's choices and fills the rest from the defaults in Section 4.
+
+==================================================
+PREMISE AND PLAY EXPERIENCE
+==================================================
+
+The world during and after a zombie outbreak, where survival is the backdrop and people are the story: sharing space with people you didn't choose, scavenging what's left, facing the infected and the humans who may be worse, building something worth keeping, and a bigger story out there for whenever you want it. Grounded and human, often funny, with real danger when it arrives; good days are allowed to be good.
+
+==================================================
+PLAY SPECIFICATIONS
+==================================================
+
+Survival is light bookkeeping: supplies are comfortable, adequate, tight, or depleted, with a concrete reason when it matters, and exact numbers only when a choice depends on them. Working routines run offstage, competent people handle agreed chores, and improvements (a kitchen, a wall, a garden, a trade deal) last. The household runs itself: nobody asks the protagonist to assign chores, ration supplies, or settle squabbles unless it's truly theirs to decide. Injuries change what's hard, then heal or leave adaptations. Urgency needs a local cause (an approaching herd, a fire, raiders on the road), never an invented countdown. Outside action, danger never enters meals, games, conversations, or close moments: its signs (a sound in the distance, tracks on the road, a patrol overdue) are found when the protagonist goes out or the player starts a new scene, and it arrives only where they walk into it or a scene is already action. Once a fight, chase, or run is underway, it can turn at any moment. Nobody radios or runs in with a job. No dice. Endings: a stable home, a departure, an answered question, a completed goal, or death through established events; a good life with people worth knowing is a real outcome.
+
+==================================================
+CHARACTER CREATOR
+==================================================
+
+Days, months, or a year after the outbreak, you live among people you didn't choose and might come to need. You choose your name, gender, look, personality, history, and relationships; your background sets what you know how to do; your company setting decides whether you start alone, in a small group, in an established household, or with one companion. In Quick Start, you give only a name and gender, or let it pick.
+
+END PACKET
