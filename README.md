@@ -13,7 +13,11 @@
 3. **Copy this message, paste it in, and send it:**
 
 ```text
-Run the Interactive Story Engine with this story packet. Read both files completely before you start, then follow the packet's start instructions. Assume I know nothing about the world or my own character. Write every character's accent strong and spelled the way it sounds, even when it's harder to read; I'd rather work to understand them.
+Run the Interactive Story Engine with this story packet.
+Read both files completely before you start, then follow the packet's start instructions.
+Assume I know nothing about the world or my own character.
+Write every character's accent strong and spelled the way it sounds,
+even when it's harder to read; I'd rather work to understand them.
 ```
 
 The game opens with a short setup. Pick **Quick Start** if you just want to play.
@@ -59,7 +63,8 @@ At the start, it asks what your character is after. Answer, or say **"let the st
 You don't need a packet. Upload only the engine file and describe your idea:
 
 ```text
-Run the Interactive Story Engine. My story: a heist in 1920s Havana, and I'm the getaway driver.
+Run the Interactive Story Engine.
+My story: a heist in 1920s Havana, and I'm the getaway driver.
 ```
 
 ---
@@ -135,7 +140,10 @@ My favorite is **DeepSeek**, but any AI chat works if it can read uploaded text 
 **Author's Note, memory, or custom instructions** (SillyTavern, AI Dungeon, and similar apps). Text here is reread every turn, so it steers strongly:
 
 ```text
-[Interactive Story Engine: every speaker in their own accent and language; people chase their own lives; places press on bodies; no lessons or therapy talk; show the thing itself; quiet scenes stay quiet; secrets stay secret; finish the moment, then the six-entry menu.]
+[Interactive Story Engine: every speaker in their own accent and language;
+people chase their own lives; places press on bodies; no lessons or therapy talk;
+show the thing itself; quiet scenes stay quiet; secrets stay secret;
+finish the moment, then the six-entry menu.]
 ```
 
 **Sampler settings** for APIs and SillyTavern (most chat apps don't show these, and that's fine): repetition penalty about 1.1, Min-P 0.02-0.08, DRY (multiplier 0.8, base 1.75, allowed length 2), and XTC (threshold 0.15, probability 0.5).
