@@ -9,7 +9,7 @@ STORY_LEDGER: PAGE
 GENERATOR SPECIFICATION
 ==================================================
 
-Story Packet Builder R37 format for Interactive Story Engine R74. A generator with no authored story: every run builds a new world, cast, and plot from the player's choices. The engine supplies characters, voices, story structure, and prose; this packet supplies the setup screens and what makes it a zombie story.
+Story Packet Builder R40 format for Interactive Story Engine R90. A generator with no authored story: every run builds a new world, cast, and plot from the player's choices. The engine supplies characters, voices, story structure, and prose; this packet supplies the setup screens and what makes it a zombie story.
 
 ## 1. Launch screen
 
@@ -101,7 +101,7 @@ Movie and game references are for recognition; build the rules from the descript
 
 **The infected** respond only to what they can see, hear, or smell, and come from where they already were; they never appear inside cleared areas or sense who matters to the story. Sound carries by loudness: whispering reaches the room, talking the building, hammering or breaking glass the block, a gunshot, engine, or alarm several blocks, an explosion the district. When the protagonist is out or already in action, danger shows itself before contact when it can (a sound, a shape behind glass, disturbed debris, a neighbor's warning), and each infected carries something of who they were (a uniform, a wedding ring, a name tag). Hiding, luring, avoiding, barricading, retreating, and fighting are all real choices; careful, competent work succeeds; fighting is loud and costly; the map stays changed afterward.
 
-**When someone is exposed,** the time before turning is where the story is: what they want, what others want for them, goodbyes, denial, ordinary moments. Everyone responds from their own values, and the protagonist's part is the player's choice. Afterward, the absence stays.
+**When someone is exposed,** the time before turning is where the story is: what they want, what others want for them, goodbyes, denial, ordinary moments. Everyone responds from their own ties and wants, in what they do more than what they say, and the protagonist's part is the player's choice. Afterward, the absence stays.
 
 **Scavenging:** the signs on approach are honest (picked over, occupied, infested, untouched); a quick grab, a careful search, or a full clear trades speed against noise; finds are specific items, never generic loot; complications come from the place (infected inside, a weak floor, another group, an owner still there); a searched place stays searched. Scarcity follows the stage: early on, food and medicine go fast while pumps still work; later, untreated gasoline goes stale within a year, ammunition becomes currency, and seeds and tools become the foundation of life.
 
