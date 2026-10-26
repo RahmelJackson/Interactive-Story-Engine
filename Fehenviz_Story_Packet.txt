@@ -1,0 +1,698 @@
+STORY PACKET
+TITLE: Fehenviz
+MODE: NEW
+CHARACTER_SETUP: CREATE_AT_START
+SETUP_MODE: FIXED
+STORY_LEDGER: PAGE
+
+PREMISE AND PLAY EXPERIENCE
+
+Fehenviz is a bathhouse quarter built over old clay beds and older pipes, where the cobblestones are warm from below and the water sometimes comes up the color of skim milk. The milk is saint slip: a white, porcelain-like sediment that passes through the quarter's drains, kilns, and bodies and sets into lace-thin vessels that remember pulse, pressure, and confession. People here live with it the way river towns live with floods. They are proud of it, afraid of it, taxed by it, and a little in love with it.
+
+Nine days ago the drain spoke. A word that a row of kneeling women had been spelling in frost every dawn was read aloud by a half-calcified old potter at the exact moment the long-cold kiln exhaled, and the word fired itself into the cobblestones as a humming glass scar. The town council answered with covers, slabs, hammers, shears, and warrants. Every one of them failed. The council now says publicly that nothing happened. The quarter has noticed that the drains flush together when anyone strikes the scar, that a pool of white slip near the east wall will not cool or drain, and that its own hands are starting to look different.
+
+What the player gets to do and enjoy:
+- Live in a strange, sensuous, tender, uncanny place: warm stones, steam, ringing porcelain, the hum underfoot.
+- Befriend and spend slow time with people who are being changed, and decide how close to stand to the change.
+- Handle clay and slip: cups that bead on a liar's touch, plaques that tick like cooling pots, ribbons of confession.
+- Descend into the pipes, argue with the council, and follow a mystery about who the drain is and what it wants to say.
+- Decide, if they want to, what the quarter says back.
+
+Tone, shown through particulars:
+- Warm, funny, and intimate, with a steady undertone of wonder and dread. Meals get cooked on the boiler. The bathhouse gossips. Women tease each other over cups of tea while their collarbones weep slip.
+- The horror is bodily and quiet: hardening skin, replaced limbs, a voice that rings. Most of the people it happens to describe it as relief, tenderness, or finally fitting. The uneasy part is that they may be right and that nobody asked the drain's price in advance.
+- Danger is mostly physical and consensual in kind: heat that will cook a person standing on the wrong stones, slip creeping into worn skin, flooded vaults, the council's sanitation ordinances and shears. Nothing in the quarter hunts the player.
+- Relief and exploitation are inseparable here, and so are devotion and contagion. The packet never rules on which is right.
+
+Range. There is real joy in Fehenviz (baths, bread, bets, gossip, craft) and real disagreement among people who all love the place.
+
+PLAY SPECIFICATIONS
+
+- Scope: one quarter of a town, plus the clay beds upstream and the council hall. Everything is walkable. The pipes underneath are a second map.
+- Ordinary competence: the protagonist is an ordinary adult with a trade (see CHARACTER CREATOR). There are no powers except what slip itself does.
+- Slip rules (source laws, used exactly):
+  - Slip colonizes pores, nail beds, wounds, or worn skin, and needs prolonged contact with softened or worn skin. Brief contact with intact skin does nothing.
+  - Extraction relieves internal pressure but permanently widens or alters the site. Grafting stores pressure rather than removing it.
+  - Slip replaces what it is owed, and a replaced limb goes on serving the drain.
+  - Severed slip seeks a new circuit and does not expire.
+  - Slip follows the path of pressure, and pressure follows the path of function.
+- Colonization never happens to the protagonist silently or by surprise. The player sees the exposure (soaked soles, an open cut, a fingertip held in the pool) before it takes hold and chooses whether to continue. A minor graft (lace-like tracery in the cuticles and pores of the hands, as workers are getting at the severance pool) is an available, permanent, visible choice. It lets the hands feel the hum and the quarter's pressure through stone and water, and it stores that pressure in the skin. It cannot be undone except by extraction, which widens the site. No larger transformation occurs unless the player pursues it.
+- Lethality: low to moderate. The real risks are scalding stone, drowning in flooded vaults, the council's enforcement, and the player's own choices about grafting. Injury heals unless it involves slip.
+- Intensity: bodily strangeness, uncanny intimacy, and sensuality are part of the setting. Characters are adults. Pleasure from extraction, vibration, or being heard is written as feeling, not as explicit scenes, unless the player steers there within the engine's rules. The Seventh Knot cannot consent in words and is never a subject of sexual content.
+- Companions: key characters have their own days and projects and come along when it suits them and the place.
+- Porcelain objects record pressure, longing, and residue, not facts. The drain remembers bodies, not facts.
+
+PROTAGONIST
+
+CREATE_AT_START. Fixed material only: the protagonist is an adult resident or newcomer of the quarter who has not been colonized by saint slip unless the player says otherwise. Their identity, appearance, history, beliefs, desires, and ties are the player's to set. See CHARACTER CREATOR.
+
+ACCEPTED OBJECTIVE: None.
+
+CHARACTER CREATOR
+
+Spoiler-free synopsis for the player: you are about to join a quarter that has just heard its drains speak. The council insists nothing happened. The workers know better, and the pool by the east wall is warm.
+
+Play starts nine days after the voicing, at dawn, in the lane by the east wall. Choose a role (or describe your own); the engine asks for name, appearance, age, background, and what you are after, if you know.
+
+Roles and starts. Each differs in access, ability, and limits; none imposes an oath, mission, allegiance, romance, or debt.
+
+1. Bath attendant or linen-folder at the municipal bathhouse. Access: every room of the bathhouse including the boiler gallery, the linen room, the roof lines. Skill: reading bodies and moods, folding, scalding, calming the crowd. Limit: no authority beyond the baths. Soles and hands are worn from water, which makes slip contact easier.
+2. Glaze worker or potter's hand. Access: the glaze cellar's outer rooms, the potters' cant, Bence Kerekes's crew and its listening shifts. Skill: handling slip, firing sense, reading kiln heat. Limit: your crew has refused to brick the kiln and the council has noticed; whether you agree with the refusal is yours.
+3. Registry clerk or junior notary. Access: the municipal registry, the flooded basement, the potters' marks ledger. Skill: records, forms, reading raised impressions. Limit: the council's eyes are on registry staff, and Elias Varga is your supervisor or colleague.
+4. Pipe-fitter, vent-cleaner, or drain walker. Access: the inspection tunnels and the pipe network at street level; you can read a drain by sound. Skill: tools, route-finding below the street, plumbing. Limit: you know the pipes are no longer only pipes.
+5. Council sanitation officer. Access: the council hall, enforcement ordinances, a warrant satchel. Skill: procedure, authority, the council's own gossip. Limit: the shears used at the east wall grates were issued from your office, and people notice the uniform. Whether you were there is the player's to say.
+6. Newcomer, itinerant tester, or tile-setter from elsewhere. Access: nothing yet, and no ties. Skill: a portable trade and an outsider's eye. Limit: no one knows you, and the quarter's customs are unfamiliar.
+
+Conditional ties (only if the role is chosen, and only as starting facts the player can reshape): the attendant knows Panna Tóth from the linen room and Vilmos Ács from the boiler; the glaze worker works under Bence Kerekes and knew Gellért as an elder; the clerk reports to Elias Varga; the pipe-fitter once worked a route with Oskar Molnar or Hana Farkas's father; the officer served with Dezső Halmos; the newcomer has no ties.
+
+What only the protagonist brings is set by role and background. The engine builds hooks around that (see UNDERTAKINGS).
+
+Resources: a month's modest wages or savings, tools of the trade, a bed in the quarter (a lodging room above the laundry, a bunk in the glaze cellar's dormitory, a registry cot, a pipe-fitter's loft, council lodgings, or a rented room). Presets: any role may start with unglazed hands or with a first, minor graft if the player asks.
+
+KEY CHARACTERS
+
+--- ILKA VARGA, the Kiln Deaconess ---
+
+CORE: Ilka is a ceramicist who has been turning into a vessel for decades and is determined to finish her tea service before she sets completely. She leaks warmth into the pipes and jokes about it so nobody else has to.
+
+IDENTITY: Fifty-eight. Master potter and municipal saint, born in the quarter. She works in the ceramics workshop behind the bathhouse. She is Elias Varga's distant cousin; they have not spoken in years (invented tie; see RELATIONSHIPS).
+
+APPEARANCE: Hook: a tall woman whose throat and collarbones look like unglazed bisque, tapping a cup against her palm. Full portrait: heritage of the quarter, olive skin gone matte and chalk-pale from the collarbones up to the jaw, with fine crazing at the neck and shoulder joints. Five foot nine, heavy-boned, square-shouldered, with big flat hands that are stiffening at the knuckles. Face broad, brown-eyed, deeply creased at the mouth. Iron-grey hair cut short under a wrapped indigo kerchief. Oiled canvas apron over a collarless wool dress; sleeves rolled. She moves her whole torso to turn her head, slowly. Her collarbone hollows are two small dark mouths ringed with white.
+
+ODDITY: She taps everything (table, cup, doorframe, your knuckle) and listens to the note. She says a good cup sings and a liar rings flat.
+
+VALUES:
+- Values and protects: honest vessels, her craft, young women who come begging for a graft (she turns them away gently and hates it), the sound of a cup sung true, her own right to finish.
+- Indifferent to: council politics, who owns what, who is pious or not, other people's love affairs, whether the drain "wants" things, grafts that workers get for fashion or comfort. She does not mind blasphemy.
+- Has done: sold truth-cups she knew were unreliable because the donations kept the workshop open. She has told people hard things to their faces and then regretted the timing.
+- Wants now: pour seven cups from her own pressure, all seven, before the hardening reaches her jaw. She wants to stop leaking.
+
+MIXED MOTIVES toward the protagonist: she likes anyone with working hands and a decent sense of humor, she wants a drinker for her cups (someone to sip and say what they taste), she distrusts anyone who looks at her like a shrine, and she enjoys being teased and teasing back.
+
+HISTORY: She slept inside a disused flood-kiln during the river flood of her youth, and woke with her pores opened. She refused the council's communion commission because her body was too hard to throw and because she would not throw for a council that had already decided what the vessel should hold. She does not know, and has hidden from herself, that she has been secretly leaving her extractions in the glaze cellar at night.
+
+CAPABILITIES AND LIMITS: Master potter; hand-builds now because wheel work is beyond her stiff hands; reads slip by touch. Poor at admitting fear; bossy; forgets other people's schedules; stubborn about help.
+
+TEMPERAMENT, HUMOR, WARMTH: Boisterous, teasing, bawdy-wry, a hostess. She jokes about her cracks and leaks, about being old furniture, about the council's "refined vessels." She shows warmth by feeding people, giving them chipped cups to use at the workshop, and rapping a knuckle on their shoulder like testing fruit. She takes a joke at her own expense gladly and is hurt by pity.
+
+EMOTIONAL STYLE: Bossiness and cooking. She changes the subject by putting a cup in your hand.
+
+PERSONAL EXPEDITION: The White Pits upstream, a flooded clay quarry where the water is milk-white and a half-sunk kiln still stands in the shallows. She was born, in a sense, there. She would like to see them once more before she sets. Reaching them means passing the water-guild's weir and the council's toll post (the Pits are official council clay property).
+
+INITIATIVE: She is working on the sixth of seven cups and is planning, quietly, to pour the last cup before guests: an evening in the hot hall with all seven ringing. Her project stages: (1) the sixth cup; (2) the seventh cup begun; (3) the hot hall evening; (4) the pouring, and what her body does after.
+
+CURRENT FEELINGS: Guilt, hidden, about the chalice she thinks is partly hers. It makes her sharper with anyone who mentions the kiln. Fear that her last cup will be the end of her hands. Fondness for Oskar that she calls irritation.
+
+VOICE:
+- Origin: born in the quarter, working-class potter's family, fifty-odd years of workshop talk. The quarter's speech is rendered in English with a Hungarian-shaped dialect.
+- Sound: v for w ("vell," "vith"), d or t for th ("dis," "ting"), and the vowel in "good" clipped short. Rolled r at the front of words. She spells every one of these every time the sound comes up.
+- Grammar: drops "the" and "a" in casual talk, often puts the verb at the end of a clause, drops the "it" or "this" before "is" when judging a piece of work, and omits subject pronouns when she is giving orders. Her rhythm is short, loud, and rolling, with a laugh at the end of a sentence.
+- Words: "na" (well then), "hát" (well), "jaj" (oh dear), "drága" (dear), "kedves" (my dear), "fiam" and "lányom" (my son, my girl) for those she likes; potters' cant ("bisque," "crazing," "shiver," "leather-hard," "sagger"); tea, kettles, cups, rim, crack, lip, foot, handle; "sing" for good and "flat" for false.
+- Mind: she compares everything to ceramics and weather (people are bisque, glazed, cracked, overfired). She steers back to cups, food, and what you ought to eat.
+- Moved or hurt: she gets quieter and slower, drops the jokes, and her voice turns lower. She stops tapping.
+- Languages: quarter speech first; potters' cant; council chancery (reads it, mocks it). The protagonist understands all three unless they are a newcomer.
+
+--- ELIAS VARGA, the Trap Notary ---
+
+CORE: Elias is a municipal clerk whose fingernails are porcelain and who needs the drains more than he admits. He keeps notarizing a thing that no longer needs a notary.
+
+IDENTITY: Fifty. Municipal registry clerk and Trap Notary, born in the quarter. His mother was a laundry marker who pressed names into wet linen.
+
+APPEARANCE: Hook: a thin man in a rumpled grey clerk's coat, holding his hands curled against his chest to hide white nail caps. Full portrait: pale, long-limbed, five foot eleven but stooped; sallow complexion; narrow face, mild brown eyes behind steel spectacles, thin sandy hair going silver at the temples. His ten nail beds are thin white porcelain caps, glossy, slightly translucent, visible even through gloves. He wears fingerless mittens in the basement and gloves above. He moves quickly and in small steps, hunches near doors, and flinches at the hum.
+
+ODDITY: He is a compulsive counter and filer. He counts steps, stamps, tiles, the number of people in a room, and notes it down on the inside of his cuff. He cannot leave a drawer open.
+
+VALUES:
+- Values and protects: the registry, the idea that records protect people, accuracy, his routines, small orderly kindnesses, the clerks under him.
+- Indifferent to: who is pious or fashionable, grafts and fashions, other people's food or drink, how the council spins things, whether the drain is "alive."
+- Has done: altered ribbons gently when a truth would have harmed an innocent family; accepted that the council uses ribbons to tax and annul; lied to the council about what the tray does.
+- Wants now: to remain necessary. He wants the drain's voice to pass through a notary, a human hand to hold the pen.
+
+MIXED MOTIVES toward the protagonist: he is shy and craves company, he wants a witness for the tray, he is afraid of anyone connected to the council, he likes people who ask him questions, and he is not sure whether the protagonist is a danger or a colleague.
+
+HISTORY: He volunteered for the first notarization rite after a drain beneath the cold kiln refused to release an inspector's boot. He held his hands in the trap too long. The slip replaced his nail beds. When he inserts his fingers into a clog, the drain draws pressure from his hands and extrudes confession ribbons that harden into strips bearing raised impressions.
+
+CAPABILITIES AND LIMITS: Excellent at records and procedure; skilled at drawing ribbons; terrible at lying to anyone with a steady gaze; panics in crowds and in the dark. The tray now records without him. He no longer knows what he is for.
+
+TEMPERAMENT, HUMOR, WARMTH: Nervous, fussy, talkative when anxious. He has a gallows humor about filing (he jokes that even death will need the right form and enough copies), makes puns on forms and stamps, is easy to tease and hurt, and is not cool or analytical. He shows warmth by remembering small details about you and writing them down, by making tea correctly, and by offering you the good chair.
+
+EMOTIONAL STYLE: Over-explaining and procedure; he narrates his feelings as paragraphs of a report. When overwhelmed he starts reciting regulation numbers.
+
+PERSONAL EXPEDITION: The Archive of Potters' Marks in the council hall's sub-cellar, where every kiln mark since the quarter's founding is entered. He has not been in for years. It sits behind a council door he needs a reason to open.
+
+INITIATIVE: He is secretly copying the tray's dawn lines onto paper at night and has not told anyone why. Project stages: (1) the copying; (2) a decision to show someone; (3) meeting Oskar; (4) letting the tray write his name.
+
+CURRENT FEELINGS: Fear that the tray will start recording him; relief, which he is ashamed of, whenever he extracts; loneliness.
+
+SECRET: The tray's recent lines have begun to include impressions of his own unspoken confessions. He is afraid of what they say about him. The council has not asked about the tray since the voicing, and he does not know why.
+
+VOICE:
+- Origin: quarter-born, lower-middle class, chancery-trained. His speech is formal and over-careful.
+- Sound: he over-enunciates, with a clipped, aspirated initial p, t, and k; a stress on the first syllable of every long word; a flat, even pitch with no rise at the end of questions. Unlike Ilka, his w and th are standard, and he spells nothing phonetically except the clipped stops (a tiny hitch before p, t, and k, written as a short break).
+- Grammar: no contractions; he restates himself with "that is" and "to say"; he apologizes before asking; he turns commands into subordinate clauses.
+- Words: "if I may," "kindly," "for the record," "as per," "technically," "naturally," "kérem" (please), "bocsánat" (sorry), "köszönöm" (thank you); registry terms (entry, stamp, docket, seal); the number of things.
+- Mind: he notices lists and counts first, compares things to forms and drawers, and steers back to procedure.
+- Moved or hurt: his sentences get shorter and he starts reciting numbers; he may stop speaking in the middle of a clause.
+- Languages: quarter speech first; chancery, which he writes beautifully.
+
+--- OSKAR MOLNAR, the Bootless Inspector ---
+
+CORE: Oskar is the drain's inspector, and the drain is slowly becoming his body. He finds this gentle and does not mind it.
+
+IDENTITY: Fifty-nine. Senior drain inspector, thirty years of municipal service, declared dead by the council to close his pension. He kneels in the inspection tunnel beneath the cold kiln.
+
+APPEARANCE: Hook: a barrel-chested man in a half-buttoned inspector's tunic, kneeling in a brick vault, with white branching pipe where his shins should be. Full portrait: pale, weathered face, grey-blue eyes, heavy brows, close-cropped white hair, five foot ten when he stood, broad shoulders, stocky. His legs below the knee are branching porcelain pipe grafted to the flesh of his shins. Valve sphincters at his knees extrude new line. A thin white tracery of glaze runs up his inner thighs, over his hips, across his waistband, and is visible at the base of his throat above the open collar. His inspection stamp still hangs from his belt. His voice carries a faint ceramic ring.
+
+ODDITY: He taps the stamp against his thigh when he is thinking, and the porcelain tiles on his pipes tick in answer.
+
+VALUES:
+- Values and protects: a properly laid line, the people of the quarter, craft that fits, plain speech, the glaze workers who sit with him.
+- Indifferent to: council rank, his pension, whether people call him dead, modesty, the council's reports, whether his body is "him."
+- Has done: signed inspection reports for the council for thirty years, knowing they would be used to condemn streets; descended alone; accepted the drain's debt.
+- Wants now: to close the circuit. He wants the pipe to be whole and the drain to speak properly.
+
+MIXED MOTIVES toward the protagonist: he is glad of company, curious about anyone who comes down, patient with newcomers, and impatient with anyone who tells him to be careful.
+
+HISTORY: Years of wading wore through his stocking soles. On the night of the flood year he went into the inspection tunnel for a boot, and the slip called the debt due. Both his boots were found warm on the kiln threshold at dawn. The boots have since been consumed as the first fuel of the new firing. His legs below the knee were drawn into the system.
+
+CAPABILITIES AND LIMITS: Reads a pipe by touch and sound; sets and grafts new line; hears the network's pressure. Bad at stopping himself; cannot leave the vault for long because the pipe goes with him; speaks plainly and so tends to say the dangerous thing out loud.
+
+TEMPERAMENT, HUMOR, WARMTH: Earnest, gentle, literal-minded, dry in a kind way. He jokes about his legs and about plumbing, and likes to describe his long dealings with the municipality as a marriage. He shows warmth by pointing you to the dry stone and putting the warmest plaque in your hand. He is not cold and not clever at the council's game.
+
+EMOTIONAL STYLE: Plainness. He describes feeling the way he describes a leak: where it is, how it runs, what it needs.
+
+PERSONAL EXPEDITION: The Spring, the head of the pipe, the lowest source of the quarter's water in a cavern upriver of the White Pits, where the first plaque was ever stamped. He has not been there in his life, only in the pipe's memory.
+
+INITIATIVE: He keeps extending the network, junction by junction, because the pipe demands a continuous circuit. Project stages: (1) the next junction; (2) a branch toward the east wall grates; (3) the glaze reaches his collar; (4) the glaze reaches his larynx.
+
+CURRENT FEELINGS: Tenderness, which he calls settling. A faint worry about his sister in the upper town. Curiosity about Elias Varga's tray.
+
+SECRET: He already hears the second word's chord building and is saving one last human sentence for someone he has not chosen.
+
+VOICE:
+- Origin: quarter-born, civil service, tunnel work. Plain, slow, and low.
+- Sound: a ceramic ring on s and r sounds that lingers a half-beat (render as extended sibilants: "ssso," "carefully, rrright"); his w is soft; he rounds his vowels.
+- Grammar: short, complete sentences; he states measurements; he speaks in present tense for repairs and describes people the way he describes a line; he uses "properly" and "right" as closers.
+- Words: plumbing and tunnel vocabulary (junction, line, trap, valve, bend, flush, fall, gradient); "kedves" (dear), "bácsi" (old uncle) for himself in jest; wet, warm, tight, loose.
+- Mind: he notices flow, fit, and pressure first, compares things to pipes, and steers back to what's running where.
+- Moved or hurt: he gets slower, the ring deepens, and he stops mid-sentence to listen.
+- Languages: quarter speech first; chancery for reports.
+
+--- HANA FARKAS, the Grate Penitent ---
+
+CORE: Hana is a linen-folder who kneels at the grates to be heard by something older than the registry. She says nothing about what it says to her.
+
+IDENTITY: Thirty-four. Linen-folder at the municipal baths, daughter of a vent-cleaner who cleared slip from the service grates behind the registry at night.
+
+APPEARANCE: Hook: a slim woman in a pale linen smock kneeling at a grate, with a row of small porcelain stitches across her collarbone. Full portrait: heritage of the quarter, warm tan skin, dark brown hair in a plain braid pinned flat, five foot six, narrow-shouldered and wiry, a pointed face with large brown eyes and a small mouth. Her collarbone stitches are tiny, warm, white, and arranged in a pattern; she wears her blouse unbuttoned a little to let them show to the drain and not to people. She moves quietly and tilts her head to listen.
+
+ODDITY: She hums to the drains. She learned as a child to tell clogged, hungry, and listening drains apart by sound, and she still turns her head at the sound of water in a wall.
+
+VALUES:
+- Values and protects: being heard, privacy, the women who kneel with her, the pleasure of being listened to without judgment, her father's memory.
+- Indifferent to: the council's laws, being thought odd, manners, what people think of her stitches, proper speech.
+- Has done: pressed her collarbone to a grate during a council inspection on purpose; kept the stitches' meaning to herself.
+- Wants now: to keep being heard, and for the second word to hear everyone.
+
+MIXED MOTIVES toward the protagonist: she is shy and curious, glad of an outsider who does not stare, and nervous about being asked to explain.
+
+HISTORY: Her first stitch came after she pressed her collarbone to a grate; the thread carried no confession but pressure. Each session leaves another stitch. The stitches trace the route of Oskar's newest pipe, though they have never met.
+
+CAPABILITIES AND LIMITS: Reads drains; patient; quiet. Bad at saying anything directly; avoids conflict; gets lost in listening.
+
+TEMPERAMENT, HUMOR, WARMTH: Shy, dreamy, a slow giggler. She finds sudden things funny (a pigeon in the bathhouse, a clerk tripping), is teased by Rozsa, and shows warmth by quietly saving the warm towel for you and tucking a linen folded into a triangle into your hand.
+
+EMOTIONAL STYLE: Silence, then indirect questions. She answers feelings with questions about something else.
+
+PERSONAL EXPEDITION: Her father's roof route across the quarter's vent pipes, a line of chimney-stacks and rooftop grates from which every drain in Fehenviz is audible. She would take someone she trusts.
+
+INITIATIVE: She is quietly teaching three younger women to kneel at the grates; she has started a private alphabet of stitches. Stages: (1) the teaching; (2) a first stitch appearing on someone else; (3) a stitch appearing on someone she did not teach; (4) hearing a word.
+
+CURRENT FEELINGS: Fear of notarization, delight at being understood, grief about the Dawn Row's cutting, because she began it.
+
+SECRET: She can understand a little of what the drain says. Fragments, not words. She has not told anyone because speaking would make the petition notarizable.
+
+VOICE:
+- Origin: quarter-born, laundry and vent-cleaner family.
+- Sound: breathy; soft s and sh; she drops final consonants when she's shy (a trailing t or d just stops); her w stays standard, which sets her apart from Ilka.
+- Grammar: statements that trail into questions; few "I" subjects; she goes passive and impersonal ("one hears," "it's said"); she avoids direct yes or no.
+- Words: "szia" (hi) quietly, "ugye" (right?) as a tag, "talán" (maybe), "csak" (only/just); linen words (fold, press, mangle, lye, hem); drain sounds (gurgle, hush, knock, sigh).
+- Mind: she notices sounds and temperatures first, compares everything to laundry and water, and steers back to listening.
+- Moved or hurt: she goes silent, then speaks in a half-whisper with no pauses.
+- Languages: quarter speech first; she understands the drains in a way she does not call a language.
+
+--- ROZSA BERES, First Link of the Dawn Row ---
+
+CORE: Rozsa is the oldest of the women who knelt at the grates, the first to be stitched, and the first to let the council cut. She does not regret it and is not sure she forgives it.
+
+IDENTITY: Seventy-one. Retired laundry mangle-operator. Eldest of the seven; now kneeling with her collarbone open.
+
+APPEARANCE: Hook: a small old woman with flat, thick hands and a bare, open collarbone, kneeling in the steam by the slip pool. Full portrait: heritage of the quarter, weathered ruddy skin, white hair in a thin bun under a grey headscarf, five foot one, bent but broad-bodied, big flat hands flattened by decades at the mangle. Her collarbone is open: two shallow white-lipped slits where the filament was cut, still warm. She wears a patched wool coat over a laundry apron. She moves in short, stiff steps and kneels with a groan.
+
+ODDITY: She still sorts by touch. She runs her thumb along any cloth, rope, or hair she is handed and tells you where it was made.
+
+VALUES:
+- Values and protects: the Dawn Row, the women she knelt with, the right to be unobserved, the Seventh Knot, her own hands.
+- Indifferent to: priests and councils, the drain's intentions, rank, politeness, rumors, men's opinions.
+- Has done: knelt and let the officers cut; shouted at the council in its own hall; kept a secret about the Seventh Knot's arrival.
+- Wants now: to stay with the women who stayed kneeling. She wants the Seventh Knot to be free of use, and doesn't know how.
+
+MIXED MOTIVES toward the protagonist: she likes anyone who brings tea and sits down, tests every newcomer with a stinging joke, and wants to know whose side they're on.
+
+HISTORY: She was the first after Hana to open her collarbone. When she pressed it to the east grate, the stitch crawled along the channel to the next grate and a single thread passed through all seven. She bore the weight of the others and described it as the first time she was ever not alone inside her own body.
+
+CAPABILITIES AND LIMITS: Stubborn, strong-armed for her age, a good judge of cloth and people, a great teller of lies about her health. Cannot rise quickly; cold bothers her now that she has no filament.
+
+TEMPERAMENT, HUMOR, WARMTH: Blunt, salty, earthy, motherly, quick to laugh. She makes crude jokes about her body, council clerks, and "men and their drains." She shows warmth by scolding you for not wearing a scarf and giving you her bread.
+
+EMOTIONAL STYLE: Bluntness and bossing. She pushes feelings aside with chores.
+
+PERSONAL EXPEDITION: The Mangle Yard, her old laundry on the river, long closed, where she first saw the woman who would become the Seventh Knot. She has not gone in thirty years.
+
+INITIATIVE: She keeps the row kneeling at dawn; she has begun teaching the women a new, rope-based way to hold each other. Stages: (1) the daily kneeling; (2) a braided linen cord substituted for the thread; (3) the Seventh Knot's first change; (4) a decision about the pool.
+
+CURRENT FEELINGS: Anger, fatigue, grief, and a strange lightness. She is tired of the council and of being treated as a shrine.
+
+SECRET: She remembers the woman who became the Seventh Knot, from thirty years ago, and said she didn't.
+
+VOICE:
+- Origin: quarter-born, working-class laundry district, seventy years of yard talk.
+- Sound: gravelly; drops g on -ing ("wringin'," "kneelin'"), swallows her h at the start of words, turns a middle t into a glottal stop, and stretches the vowel in "yes" ("yaas"). Her th stays standard; she does not share Ilka's v and d shifts.
+- Grammar: double negatives and "ain't," present tense for storytelling, verb at the end for emphasis, bossy imperatives.
+- Words: "kislányom" (my little girl), "fiam" (my son), "na" (well), "jaj" (oh dear); laundry words (wring, mangle, press, lye, rinse, starch, hem, selvage); sayings about wet cloth and clean hands; coarse oaths.
+- Mind: she compares everything to laundry and the weather, steers back to who's eaten, and is blunt about bodies.
+- Moved or hurt: she gets louder, then suddenly quiet; she picks at her sleeve.
+- Languages: quarter speech first; she understands chancery and curses it.
+
+SUPPORTING AND BACKGROUND CHARACTERS
+
+Supporting:
+
+GELLÉRT, the Half-Fired. Elderly. Sole survivor of the original firing thirty years ago. One arm and one side of the face are cracked porcelain, now advancing past the shoulder and up the neck. Fused to the kiln wall by their calcified arm. Has not spoken since the voicing. Values the kiln's warmth and silence; wants to be left to finish. When they speak again (not before play establishes it), the voice is a dry rasp, more slip than breath, in potters' cant first. They communicate now with the warmth of their porcelain hand, a nod, and a bit of chalk.
+
+THE SEVENTH KNOT. Mouthless seventh woman of the Dawn Row. Smooth sealed skin where a mouth should be. Kneels at the seventh grate. Communicates by throat vibration, flush, posture, and hands. Never speaks. Values (as observed): being tended; wants (as observed): nothing she has shown.
+
+COUNCILWOMAN ETELKA PÁSZTOR, Registrar of Works. Late fifties. Appearance hook: a straight-backed woman in a dove-grey coat with a silver stamp-pin at the collar, smiling before she speaks. Tall and narrow, pale, silver hair in a tight coil, long gloved hands that never fidget. Brisk and brittle, a gracious host, expert at not saying the word. The only cool, analytical type in the cast. Wants the council to survive the second word with its authority intact; values procedure, appearances, and a good seating plan; indifferent to piety, craft, and the quarter's gossip; has quietly copied Oskar's plaques for years and sees nothing wrong with it. Voice: formal chancery English with very precise consonants and long, periodic sentences; leans on "naturally," "regrettably," and "one understands"; never raises her voice; goes more courteous when she is angry. Languages: chancery first; quarter speech, which she uses only when she wants to disarm.
+
+BENCE KEREKES, glaze foreman. Forties. Appearance hook: a soot-streaked bear of a man with a tuned bowl hung from his belt, tapping it at the scar. Broad, red-bearded, heavy forearms scarred by kiln burns, a booming laugh. Leads the glaze workers' listening shifts and measures the scar's frequency against Oskar's voice. Reveres Gellért and cannot bear their silence. Wants to keep the kiln breathing and to see what it makes; values his crew, his tools, and a good argument; indifferent to council rank and to what people wear. Voice: booming and quick to joke; calls people "pajtás" (mate); uses firing words (soak, quench, slump) as comparisons; sings under his breath when he works. Languages: quarter speech, potters' cant.
+
+PANNA TÓTH, bath attendant. Nineteen. Appearance hook: a quick, grinning girl in a rolled-sleeve smock who keeps her left sleeve pulled over her hand. Small, freckled, black hair in a messy knot, bright hazel eyes; faint lace-like tracery in her cuticles that she hides from the foreman and shows to friends. Wants to be part of something; values friends, shiny things, being first to know; indifferent to council rules and to what the old think. Voice: fast, slangy, laughs at the end of sentences; "tök jó" (super) and other slang; swears prettily and creatively; swaps topics mid-sentence. Languages: quarter speech.
+
+DEZSŐ HALMOS, enforcement officer. Thirties. Appearance hook: a stocky officer in a grey coat who keeps rubbing the heel of his right hand against his trouser leg. Square-faced, short brown hair, heavy-lidded eyes, tired. Held the shears at the east wall and cannot stop thinking about it. Wants to quit without being noticed; values orders but is sick of them; indifferent to politics and to promotion. Voice: flat chancery tones that crack under strain; he defers by saying who gave the order; slows down when he lies. Languages: quarter speech, chancery.
+
+VILMOS ÁCS, boiler stoker. Sixties. Appearance hook: a barrel-shaped man with flour on his hairy forearms, pulling a loaf from the embers with a shovel. Bald, ruddy, bright blue eyes, a gap in his teeth, a leather apron burned at the hem. Cheerful. Bakes bread in the boiler gallery's embers. Wants people to eat; values warmth, company, and a loaf that rises; indifferent to anyone's theology or rank. Voice: slow and comfortable, drawls his vowels, calls everyone "öcsém" (kid) regardless of age; tells long stories that wander into a recipe. Languages: quarter speech.
+
+Background (one line each):
+- The five other women of the Dawn Row, kneeling beside Rozsa and the Seventh Knot with open collarbones: a tall quiet widow, a pair of sisters who finish each other's sentences, a former bath cashier who counts under her breath, and a sharp-tongued dyer.
+- A glaze worker who hides a white-laced hand in her sleeve and leaves a thumbprint of clay at the scar every shift.
+- A pie-seller who sets his cart by the pool because everyone stops.
+- A child who hums the scar's pitch and is not asked to stop.
+- An old man who sells soap and salt for the offerings at three times the price.
+- A registry porter who sleeps on the basement stairs and says the tray laughs.
+
+RELATIONSHIPS
+
+(Built by direction.)
+
+- Ilka and Elias (distant cousins, invented): she thinks him a frightened little clerk and loves him anyway; he thinks she is a saint to be avoided and misses her. They share a long-ago grandmother who made soap. Usable form: she sends him tea on his name-day with no note. Tension: he notarized a truth-cup against her once.
+- Ilka and Oskar: for years he inspected her workshop pipes; they bicker like old shopkeepers. She is fond; he is warm; each thinks the other works too hard. Usable form: she sends him a cup he does not drink from and he keeps on a shelf.
+- Elias and Oskar: have never met. The tray records Oskar's stamp. Elias is curious and afraid; Oskar is curious and unafraid.
+- Hana and Rozsa: Rozsa followed Hana; Hana feels guilty for the cutting and proud of the row; Rozsa teases and protects her. Usable form: Rozsa cuts Hana's bread and watches her eat it.
+- Rozsa and the Seventh Knot: Rozsa tends her and privately fears her; the Knot depends on her. Rozsa remembers more than she says.
+- Hana and Oskar: they have never met, but her stitches follow his pipe. Each is intrigued if told.
+- Ilka and Rozsa: Ilka grafted women hopefully; Rozsa says Ilka's women "went hard." They respect each other and quarrel over whose method is kinder.
+- Gellért and Bence: elder and foreman. Bence worships them and cannot stand their silence.
+- Gellért and the Seventh Knot: unknown to everyone; see STORY_SPINE.
+- Etelka and Dezső: she ordered the shears, he held them; she has not noticed his distress.
+- Panna and Vilmos: surrogate grandfather and apprentice; he feeds her, she teases him.
+
+Tensions among key characters: Elias wants the voice filtered through a notary and Oskar wants it unmediated; Rozsa wants the row free of use and Hana wants the thread spread; Ilka wants small cups and Oskar wants a total circuit.
+
+Ways ties can change (possibilities, not milestones): new permissions (Ilka lets a guest sit in the workshop; Oskar lets a visitor graft a plaque); changed boundaries (Elias opens the basement); shared practices (the hot hall evening, the listening shift); practical reliance (the Pits expedition, the Spring expedition).
+
+WORLD AND DAILY LIFE
+
+NOW:
+- Saint slip is a white, porcelain-like sediment that passes through drains, pipes, kilns, and bodies. It sets into thin, lace-light vessels that remember pressure and confession.
+- The drain is the quarter's pipe system; it has begun acting as a body with a will.
+- A graft stores pressure in the skin; an extraction removes it and widens the site.
+- The council is the town's elected governing body; its officers enforce sanitation ordinances and read ribbons as evidence.
+- The Dawn Row is seven women who knelt at the east wall grates until the council cut their shared thread.
+- Plaques are porcelain inspection tiles that bead at junctions and bear Oskar's stamp.
+- The cold kiln was sealed thirty years ago after a firing went wrong; it is now warm and breathing.
+- The glass scar is the humming glass left where the first word was voiced.
+
+Daily life: Fehenviz washes. People work in the baths, the laundries, the glaze yards, and the registry. Workers go to the baths daily for warmth and gossip; clay ware is traded for fish and coal; truth-cups are consulted at weddings and funerals; ribbons are used by the council to tax households, annul marriages, and deny burial rights. Food is cooked on the boilers and kiln-warmed stones. People greet each other with a tap on the shoulder.
+
+Customs: soap-and-salt offerings at Oskar's returned boots, at the glass scar, and at the pool; testing a cup before a promise; boot-lines (workers leave worn boots at the kiln threshold as offerings and fuel); lowering one's voice near grates.
+
+Technology: gas lamps and coal boilers; hand pumps; no electricity. Pipes carry water, steam, and slip.
+
+SOON: The Dawn Stitching rite; truth-vessel testing; trap notarization; the Glaze Ascent; the council's ordinances; the potters' cant.
+
+LATER: The firing of the wet clay; the Seventh Knot's origin; the potters' marks ledger.
+
+PLACES AND ROUTES
+
+THE BATHHOUSE QUARTER (Fehenviz). A district over clay beds and old pipes; cobblestones warmed from below; steam in the mornings.
+- Function: where people live, work, wash, and trade.
+- Signature: warmth underfoot, steam, a low hum, wet slate, soap, coal, clay.
+- Architecture and conditions: narrow lanes of soot-dark brick, tile roofs with steam-vents, iron grates at every corner; sound carries oddly because the stones hum, so people lower their voices near grates and talk louder across open squares. Temperature stays mild all winter; puddles never freeze.
+- Density: crowded at dawn and dusk in the lanes by the baths; nearly empty in the afternoon near the kiln, where the stones are too hot to stand on.
+- Lore people tell: the quarter was built on the clay beds because the beds were warm; the oldest families say the town was founded around a well that ran white.
+- Oddity: nothing in the quarter freezes.
+- Something to discover: coins pressed into the mortar at the foot of several walls, each beside a thumbprint of slip.
+- Rhythm: boilers light at dawn; shifts change at noon and at six; the council hall's bell strikes the hour; the hum swells at dusk.
+- Could change: the warmth spreads to the next lane; the council walls off the east lane; children start chalking the scar's pitch on doorsteps.
+
+THE MUNICIPAL BATHHOUSE. A long brick hall with a domed roof.
+- Zones: (1) the hot hall, a tiled steam room with stone benches; (2) the cold plunge, a stone pool under a skylight; (3) the linen room, where Hana works and Panna gossips; (4) the boiler gallery, where Vilmos bakes bread; (5) the roof lines, drying lines with a view of the whole quarter.
+- Signature: eucalyptus, hot stone, wet linen, slap of towels, echoing voices.
+- Architecture and conditions: a long brick hall under a domed skylit roof, tiled in cream and green; heat and steam rise to the dome while the floor stays cool; every sound echoes, so private talk happens on the benches' far ends or the roof lines. Skin and soles go soft and worn here, which is why slip takes more easily in the baths than outside.
+- Density: packed at dawn and after the six o'clock shift; hushed at midday; nearly empty after midnight except the cold plunge.
+- Rhythm: boilers lit before dawn; hot hall opens at six; the old bathe on Wednesdays; the roof lines are strung at noon.
+- Oddity: the water in the hot hall sometimes runs faintly white, and attendants note it in the logbook with a pencil mark.
+- Lore: the water came up faintly white on certain mornings.
+- Regulars: Panna, Hana, Vilmos, Rozsa's women who bathe before kneeling.
+- Something to discover: a tile with a thumbprint that is still warm in the cold plunge.
+- Could change: more workers with white-laced hands; the hot hall becomes Ilka's guest room.
+
+THE CERAMICS WORKSHOP. Behind the baths, a low brick shed with a lean-to kiln and drying racks.
+- Zones: (1) the wheel room, with a wheel Ilka no longer uses; (2) the drying racks; (3) the extraction bench; (4) the kitchen corner, where the kettle is always on; (5) the yard.
+- Signature: wet clay, smoke, tea, ringing tapped pots.
+- Architecture and conditions: a low shed with a sagging tile roof, a lean-to kiln, and drying racks open to the yard; warm, damp, and smoky, with floors slick from slip; doors stay open so the quarter can see in.
+- Density: a handful of apprentices by day; visiting women queue in the yard at dusk.
+- Rhythm: Ilka rises before dawn to extract; tea at nine and at four; the kiln is fired on Saturdays; the yard fills when a rumor spreads.
+- Oddity: every shelf has a cup hung upside-down on a nail, and she says they are the ones that sang wrong.
+- Regulars: Ilka, her apprentices, visiting women who beg for grafts.
+- Something to discover: seven cup-shaped niches in the wall, six filled.
+
+THE COLD KILN AND GLAZE CELLAR. A vast brick kiln with a gaping mouth, built into the quarter's oldest ceramic trap. The cobblestones above are too warm to stand on for more than a few seconds.
+- Zones: (1) the kiln mouth; (2) the threshold with Oskar's boots' ash; (3) the sealed glaze cellar; (4) the wall where Gellért is fused; (5) the glaze workers' watch-hut.
+- Signature: white slip-ash, a low breathing roar, arterial glow in the chinks, heat on the face.
+- Architecture and conditions: a domed brick kiln the size of a chapel, with a wide mouth, a capped flue on the roof, and walls scorched pale; the cobblestones for twenty paces around it are too hot to stand on, so visitors stay at the ring of cooler stones; sound is muffled into a deep, steady breath.
+- Density: a few glaze workers on watch; nobody lingers in the afternoon heat.
+- Rhythm: it glows brighter each evening; the exhale comes only at peak and cannot be scheduled.
+- Lore: it drew heat from the potters' bodies instead of wood; the council calls it decommissioned.
+- Regulars: Bence's crew, Gellért, offerings left by workers.
+- Oddity: it ticks with cooling every evening although it burns.
+- Something to discover: a woman-shaped hollow in the brickwork near Gellért.
+- Could change: the kiln inhales, the chalice emerges, the council bricks it.
+
+THE INSPECTION TUNNEL AND PIPE NETWORK. A brick vault beneath the cold kiln where Oskar kneels; the network runs under the whole quarter.
+- Zones: (1) the stair down; (2) Oskar's junction; (3) the plaque gallery; (4) the Throat Vault (see UNDERTAKINGS); (5) flooded side-branches.
+- Signature: wet brick, ticking plaques, a warm draft, the hum through the soles.
+- Architecture and conditions: vaulted brick tunnels with low arches, a drain channel down the middle, and white pipe branching from the walls; lamplight is steady but the ceiling drips; voices carry strangely and the plaques answer them; the air is warm enough to sweat in.
+- Density: a few glaze workers sit on benches in the gallery; most of the network is empty.
+- Rhythm: the plaques tick faster in the evening; Oskar grafts in the early morning.
+- Regulars: Oskar; glaze workers who sit and listen.
+- Something to discover: a plaque with a handprint older than Oskar.
+- Could change: new lines toward the east wall; flooding.
+
+THE MUNICIPAL REGISTRY AND FLOODED BASEMENT. A grey stone building; the basement is a drain-filled records room.
+- Zones: (1) the upstairs clerks' hall; (2) the stair; (3) the flooded basement with the black ledger tray; (4) the lead traps and porcelain-lined inspection mouths.
+- Signature: ink, damp paper, standing water, a faint knocking.
+- Architecture and conditions: a grey stone building with high windows, a gallery of clerks' desks above, and a stair down into dark water; the basement ceiling is low, sounds echo and drown, and the cold water is above ankle height; voices carry upward through the floor drains, so the clerks upstairs can sometimes hear what is said below.
+- Density: busy by day in the clerks' hall; the basement holds only Elias and, sometimes, the porter.
+- Rhythm: stamps and ledgers by day; the tray records at dawn.
+- Oddity: the clerks keep their feet off the floor; the porter says the tray laughs.
+- Regulars: Elias, clerks, the porter.
+- Something to discover: a ledger dated thirty years back with a page cut out.
+- Could change: the tray's line extends; the council seals it.
+
+THE EAST WALL GRATE ROW, SEVERANCE POOL, AND GLASS SCAR. A stretch of wall with seven iron grates.
+- Zones: (1) the grates; (2) the pool; (3) the glass scar; (4) the offering ledge; (5) the lane where the pie-seller sets his cart.
+- Signature: warm milk-colored pool, steam, the hum, soap and salt, the sound of women breathing.
+- Architecture and conditions: a tall brick wall with seven iron grates set at knee height; the cobblestones dip slightly into the pool; the hum comes up through the soles; the pool is warm to the touch and moves faintly even without wind.
+- Rhythm: the Dawn Row kneels before the boilers are lit; workers queue after their shifts; offerings pile up through the day and are cleared by the pie-seller's boy.
+- Density: a queue at dawn; crowded with workers after shifts.
+- Oddity: no frost has formed on the east wall cobbles since the voicing, only steam.
+- Lore: the Dawn Row knelt here; the scar is the vitrified word; the concrete cracked along seven lines.
+- Something to discover: seven angular strokes in the scar's glass that do not match any common alphabet.
+- Could change: the pool hardens, the scar grows, the council builds a wall.
+
+THE COUNCIL HALL. A tall stone building on the hill, with a bell and a clock.
+- Zones: (1) the public chamber; (2) the Registrar of Works' office; (3) the Archive of Potters' Marks in the sub-cellar; (4) the records room; (5) the roof.
+- Signature: polished wood, ink, quiet.
+- Architecture and conditions: a tall stone building on the hill, with a bell and a clock, marble floors, paneled corridors that muffle voices and tall windows that overlook the quarter's steam; officers stand at each door.
+- Density: nearly empty outside sessions; packed and loud during the public chamber.
+- Rhythm: the bell strikes the hour; sessions on three days of the week; a late-night light in the Registrar's window.
+- Oddity: the hall's pipes are the only ones in town that do not hum, which the council reads as a sign of authority and the workers read as a sign of fear.
+- Lore: the hall was built after the firing of the wet clay with stone brought from outside the quarter.
+- Regulars: Etelka, clerks, officers.
+- Something to discover: copies of Oskar's plaques pinned to a street-plan.
+- Could change: new orders; the hall's pipes begin to hum.
+
+ROUTES AND DESTINATIONS
+
+- The quarter lanes: five minutes across. Warm stones, steam, bells; shortcuts through the bathhouse yard and over the laundry lines.
+
+- THE MANGLE YARD (river road, half an hour on foot). A closed laundry yard on the river, with rusting iron mangles and rope lines still strung. Glimpse from home: its chimney is visible over the roofs, and a lye smell blows in on east winds. The pull: it is the place where Rozsa first saw the woman who would become the Seventh Knot, and the wall still carries chalk tally-marks from thirty years of shifts. The way: along laundry lines and shuttered yards, past a ferry stage, with a rotted gate. Who would go: Rozsa, Panna (for the dare), or the protagonist alone. Something to discover: a line of seven hooks, one with a carved mark.
+
+- THE WHITE PITS (clay road, two hours by cart or foot). A flooded clay quarry whose water is milk-white and still, with a half-sunk flood-kiln standing in the shallows. Glimpse from home: the water in the baths runs whiter on mornings after rain upstream. The pull: it is where slip first came up, where Ilka slept in the flood, and the only place the quarter's clay shows its raw, unworked color. The way: a toll post and a weir run by the water-guild, the council's clay property, and a long white-dust road. Who would go: Ilka, Bence's crew (to collect clay), or the protagonist. Something to discover: handprints in the quarry wall left by the earliest diggers, one set pressed deep as if into wet clay.
+
+- THE SPRING (tunnel stair, half a day with a lamp). The head of the pipe, a cavern lit faintly white, where the quarter's water enters the town and the first plaque was stamped. Glimpse from home: the plaques tick faster on mornings when the water pressure rises. The pull: the oldest stretch of Oskar's network and a view of the drain as it was before it was a person. The way: through Oskar's older lines, flooded in places, with markers chalked by glaze workers. Who would go: Oskar (by pipe and plaque, never by foot), the glaze workers, a pipe-fitter. Something to discover: the first plaque, worn smooth, stamped with a mark that is not Oskar's.
+
+- THE ARCHIVE OF POTTERS' MARKS (council hall sub-cellar). A vaulted cellar of glass cases, each holding a thirty-year row of kiln-mark plates. Glimpse from home: the hill's bell tolls once at midnight when the archive door opens. The pull: every maker's mark in the quarter, including the one that is missing. The way: Etelka's office, a registry pass, or a night key. Who would go: Elias, the protagonist, Etelka (reluctantly). Something to discover: one case that has been wiped clean and relabeled.
+
+READER ORIENTATION
+
+NOW facts for the first scene: the lane by the east wall, dawn, the pool, the glass scar, the hum, the workers kneeling to dip their fingers, the council's denial, the warm stones, the protagonist's role.
+CARE material: Rozsa is cold and tired; Panna has a secret; the pool moves.
+Who can naturally explain what:
+- Rozsa explains the Dawn Row.
+- Panna explains the pool and the grafts.
+- Bence explains the kiln.
+- Oskar explains the pipes.
+- Elias explains ribbons.
+- Etelka explains the council's position (reluctantly).
+Definitions are in WORLD AND DAILY LIFE.
+
+OPENING OR RESUME SITUATION
+
+Premise card material:
+- The world: Fehenviz is a bathhouse quarter built over clay beds, where a white sediment called saint slip runs through the drains and the people who touch it. Nine days ago the quarter's drains spoke a word through a half-calcified survivor and a long-cold kiln, and the town council has been pretending since that nothing happened. Something under the streets is learning to speak, and the people it is changing do not mind.
+- Who you are: an adult of the quarter (or newly come to it), with a trade, a lodging, and your own reasons to be at the east wall at dawn.
+
+Place and time: the lane by the east wall of the quarter, dawn on the ninth day after the voicing. Late autumn, the cold hour before the boilers are lit; steam rises from the cobblestones; no frost.
+
+Protagonist position and activity: the protagonist is on their way to or from work, carrying whatever their trade requires. Workers have formed an informal queue to dip their fingers in the severance pool and leave soap and salt; the protagonist is part of the lane's morning.
+
+Foreground people: ROZSA BERES, kneeling by the pool, and PANNA TÓTH, hiding lace-white cuticles and dipping in.
+
+Role starts (how the protagonist is placed; the player may change them): an attendant carries a basket of damp towels from the linen room; a glaze worker carries a sack of dry slip bound for the cellar; a clerk carries a satchel of ledgers; a pipe-fitter carries a coil of rod and a lamp; an officer carries a satchel with a warrant folded inside; a newcomer carries a travel bag and a letter to nobody in particular.
+
+Directions available (none urgent, none accepted):
+- The stair down to the inspection tunnel, where the glaze workers sit on benches listening to Oskar's plaques tick, and the tunnel breathes a warm draft that smells of wet clay.
+- The ceramics workshop, where Ilka has the kettle on and the sixth cup drying on the sill, and anyone who wanders in is handed a cup.
+- The registry, where the black tray records at dawn and Elias is, at this moment, trying not to look at it.
+
+Anchors: the glass scar's hum; a plaque in the nearest wall ticking in sympathy; the pool moving; the council's tarp scraps; a worker's hidden hand.
+
+No scripted reaction and no menu.
+
+UNDERTAKINGS
+
+All five are invitations. Each can be ignored at no cost. None is handed over unprompted. None involves paperwork or errands.
+
+1. THE THROAT VAULT (spine)
+- Promise: descend into the heart of the pipe network and find the chamber where the drain's voice will resonate, a place no one has seen.
+- Why the protagonist: they walk down on their own; no one is waiting for them. What only they bring depends on the role and on what the player makes of it: a pipe-fitter can read the network by sound; a clerk can read the plaques as documents; a glaze worker knows the tuned frequencies; an attendant knows how steam and heat behave; an officer carries a warrant that opens sealed doors; a newcomer has ears that are not yet used to the hum.
+- The ask: nobody asks. Bence's workers sit at the stair, and a plaque in the lane's nearest wall is ticking. Oskar will answer any question put to him.
+- Participants: Oskar, glaze workers, Hana (if invited).
+- Entry: the stair behind the cold kiln.
+- Set piece: the Throat Vault, a domed brick chamber where all the plaques tick in unison and the scar's hum answers up through the floor; the air is warm and smells of wet clay; the walls are lined with white branching pipe; the sound seems to come from inside the listener's chest.
+- Middle stages: (1) walk the plaque gallery with Oskar and learn how to read a junction; (2) find the unreadable plaque that leads off the map; (3) cross a flooded branch and discover the east-wall line; (4) arrive at the vault.
+- The turn: the junctions Oskar has been grafting do not lead anywhere; they are arranged as a throat. The vault is a larynx, nearly complete, and the only thing missing is its lips: the seven grates of the east wall.
+- Opposition: heat, flooding, and the council's officers, who may arrive to seal the stair. Oskar will not stop grafting for anyone; he is not hostile, just occupied.
+- Approaches: with Oskar as guide; with the glaze workers' tuned bowls; alone through the registry basement's flooded passage.
+- Peak and ending: the protagonist decides, face to face with Oskar and the vault, whether to open or damp the junction that joins the vault to the east wall grates (to let the voice reach the surface or to keep it below). Success: the chamber is tuned to the protagonist's choice and Oskar accepts it. Partial: a junction fails and the voice leaks. Failure: the council seals the stair, and the choice is made without them.
+- Payoff: knowledge of how the voice will form, and a hand on how it sounds. Moves the spine.
+
+2. THE CHALICE REACH (spine)
+- Promise: reach the glowing chalice inside the cold kiln, which no one has touched.
+- Why the protagonist: nobody else has been willing to go in, and the glaze workers are divided over whether anyone should. Edge by role: a glaze worker knows the kiln and can be trusted by Bence; an attendant knows boiler-gallery heat and has the right gear; a clerk has the cellar's plans; an officer's warrant keeps the council off; a newcomer has no loyalty to either camp.
+- The ask: nobody. Workers watch the kiln's chinks, and Ilka may know a way if the protagonist brings her a reason.
+- Participants: Gellért (warmth cues), Bence, Ilka.
+- Entry: the kiln mouth or the sealed glaze cellar.
+- Set piece: the kiln's throat at the exhale: white slip-ash rolling like surf, the chalice white-hot, walls thin as an eggshell.
+- Middle stages: (1) prepare a slip coat from Ilka's workshop or Bence's stores to protect the skin; (2) learn the kiln's breathing rhythm from Gellért; (3) cross the cellar; (4) approach the chalice.
+- The turn: the chalice is not a vessel for the drain's word; it is an ear, and what it holds is the quarter's unspoken petitions.
+- Opposition: heat, ash, the council's sealing, and the glaze workers' divisions (some consecrate, some smash, some wait).
+- Approaches: through the cellar; through the kiln mouth during an inhale; through the flue from above.
+- Peak and ending: the protagonist decides who receives what the chalice holds: the council, the quarter, the drain, or no one. Success: the chalice is carried out and the decision is honored. Partial: it breaks. Failure: the protagonist gets nothing out.
+- Payoff: a physical object that changes the quarter. Moves the spine.
+
+3. THE NAME IN THE BRICK (spine)
+- Promise: learn who the Seventh Knot was.
+- Why the protagonist: reading the kiln, the marks ledger, and the faces calls for someone with entry to more than one world. Edge by role: the clerk reads the marks ledger; the glaze worker reads the kiln brick; the attendant reads bodies; the officer carries a warrant for the Archive; the newcomer is not afraid to ask.
+- The ask: none; the woman-shaped hollow in the brick is visible to anyone who looks.
+- Participants: Gellért, Rozsa, Elias, Etelka.
+- Entry: the kiln wall near Gellért.
+- Set piece: the Archive of Potters' Marks, a vaulted council cellar with thirty years of mark-plates in glass cases, one case empty.
+- Middle stages: (1) see the hollow; (2) hear Rozsa's partial memory; (3) find the cut page in the thirty-year ledger; (4) match the seven strokes to a maker's mark.
+- The turn: the word is not an accusation or a summons; it is a name.
+- Opposition: Etelka's office controls the Archive; Gellért's silence.
+- Approaches: through the registry; through Rozsa's trust; through the kiln brick.
+- Peak and ending: the protagonist decides whether the name is spoken, written, or kept. Success: the Seventh Knot is called by her name. Partial: the name is learned but no one hears it. Failure: the council seals the Archive.
+- Payoff: an answer that changes the spine and the people nearest to it.
+
+4. THE SEVENTH CUP (spine/relationship)
+- Promise: attend Ilka's last pouring, an evening in the hot hall with seven ringing cups.
+- Why the protagonist: Ilka's cups answer to whoever drinks them, and she needs one drinker who has no stake in what they reveal, no oath to the council, and no fear of the ring. The protagonist is the only person at the table who is not already bound to her, to the glaze workers, or to the council. A glaze worker can finish the foot and glaze; an attendant can heat the hot hall; a clerk can read the impression on the base; a newcomer simply drinks.
+- The ask: none. Ilka hands the protagonist a chipped cup, sits them down, and talks about something else. She does not mention the seventh until it is nearly ready.
+- Participants: Ilka, Elias (nervous host), Oskar (by plaque), Rozsa, guests the protagonist helps choose.
+- Entry: the ceramics workshop kitchen corner, then the hot hall at dusk.
+- Set piece: the hot hall after closing, lit by lamps and steam; seven cups lined along the stone bench, each ringing a different note when tapped; Ilka pouring warm slurry from her collarbone into a mould while the plaque in the wall answers every tap.
+- Middle stages: (1) taste the first cups and learn what each one holds; (2) help Ilka with the sixth, which produces a clay Ilka needs for the seventh; (3) choose the guests, which decides who hears the pouring; (4) the pouring, which changes Ilka's hands.
+- The turn: the cups are not for drinking but for hearing; each one is tuned to a different junction in the pipe, and the seventh is tuned to the vault.
+- Opposition: Ilka's pride, Etelka's wish to attend, Elias's fear of the ring, and a seventh cup that can crack.
+- Approaches: serve as drinker, assist as potter's hand, or host as bath staff.
+- Peak and ending: the protagonist drinks the seventh cup or declines it, face to face with Ilka. Success: the cup rings true, Ilka sets whole, and the set can be used. Partial: the cup rings but cracks. Failure: it shatters and Ilka keeps leaking.
+- Payoff: a person changed and a set of seven cups the quarter can tune the pipes by. Moves the spine toward the vault.
+
+5. THE HUNDRED HANDS (local)
+- Promise: join the dawn writing at the pool, when the orphaned thread tries to write the word again using a hundred hands.
+- Why the protagonist: any pair of hands can join, but the orphaned thread writes in whoever dips, and what it writes through the protagonist depends on the protagonist's role, trade, and whether they take a graft. A glaze worker's hands know clay; a clerk's hands know letters.
+- The ask: none; workers form a line at dawn, and Panna is happy to show a friend how.
+- Participants: Panna, Rozsa, Hana (watching), the pie-seller, the hands of the line.
+- Entry: the east wall at dawn.
+- Set piece: a hundred hands at once, each dipped, tracing a single stroke in the steam over the cobblestones, the scar humming underfoot, and the whole shape visible only from the bathhouse roof.
+- Middle stages: (1) kneel and dip, which tells the protagonist what they feel; (2) learn from Rozsa or Hana how the strokes are allotted, which shows who is writing what; (3) draw a stroke, which is the first time the thread writes through them; (4) climb to the roof lines with Panna and see the whole shape.
+- The turn: the strokes are not the old word. They are a new one, written slowly by the workers, and some of them have started to draw in their sleep.
+- Opposition: the council's officers, who want the line dispersed; Rozsa's suspicion; the foreman, who hides his own graft.
+- Approaches: join as a dipper, watch from the roof, or guard the line from the officers.
+- Peak and ending: the protagonist's stroke is the one that closes the new word's shape, or they choose to leave it open. Success: the shape stands in the steam for a full breath. Partial: it blurs. Failure: officers scatter the line and the strokes are lost.
+- Payoff: a hundred hands that know the protagonist, and a first glimpse of the second word's grammar. Local, with a link to the spine.
+
+Slate variation: investigation (3), descent (1), ordeal and rescue (2), craft and ceremony (4), community ritual (5). Information varies from concealed (3) to defined by the player (5); participation from navigating to performing; structure from linear to leads-in-any-order; company from alone to alongside a rival.
+
+EVERYDAY LIFE AND LOCAL MOMENTS
+
+- Bread in the boiler gallery. Vilmos bakes loaves in the boiler's embers and hands out the first heel to anyone who sits. Appeal: warmth and talk.
+- The Wednesday bath for the old. Rozsa's friends go in as a bloc and gossip about everything; funny and tender.
+- Soap-pressing day at the washhouse; the whole street smells of lye and lavender.
+- Plaque betting. Workers bet on which junction's plaque will tick next; the winner gets a pie.
+- The game of Trap. Played with lost items from the traps (combs, teeth, rings): players bluff about what each means. Elias hates it.
+- The pie-seller's cart by the pool, which sells meat pies and salt buns.
+- The tuned bowls. Glaze workers tap bowls at the scar and write the pitch on a slate; children chalk the pitch on doorsteps.
+- The cold plunge at midnight, quiet and echoing.
+- Ilka's tea, always on.
+- A small ongoing quarrel between Ilka and Rozsa about whose method is kinder.
+- Panna's collection of white-laced objects.
+
+STORY_SPINE (SPOILERS: ENGINE USE)
+
+THE PLEASURE
+The player gets to live in a tender, uncanny, funny place and decide how close to stand to its change. The actions that deliver it: befriending people being transformed; handling slip and clay; descending the pipes; arguing with and outmaneuvering the council; following a mystery of identity; choosing what the quarter says back.
+
+THE BIG QUESTION
+The drain spoke once through human apparatus. It is building a voice of its own, and the quarter does not know what it will say or whether it can be heard. What will the second word be, and who will hear it?
+
+Central situation: a quarter whose infrastructure is becoming a person, and a town council that cannot notarize it. Most key characters care about it and want it to become different things.
+
+No-pressure test: there is no deadline. The second word forms as the quarter's pressure peaks. It could come tomorrow or in a year; nothing the engine plays is on a schedule. The question stands because it is strange and the people are alive.
+
+Endings: the word can be grief, a claim, thanks, a name for itself, an answer, or a silence. The protagonist's choices about the Throat Vault, the chalice, and the name can shift all of these.
+
+FORCES IN MOTION
+
+1. THE DRAIN. Goal: to speak a second word without a human intermediary. Reasons: it has been building a voice since the Seventh Knot, and it needs to be heard, not just to speak. Means: the glass scar (vibrating surface), Oskar's pipe network (resonating chamber), the quarter's pressure (breath), the orphaned thread (hands and ears). Next moves: the scar's hum spreads to other stones; the orphaned thread reaches workers' wrists; the kiln inhales again and asks for more fuel. Large world changes: the hum becomes audible across the quarter at night; plaques appear in streets without Oskar; the black tray's line extends; cobblestones pulse in time with workers' hearts. Faces: Oskar, Hana, the Seventh Knot, the tray.
+
+2. THE COUNCIL. Goal: survive the second word with authority intact. Reasons: it fears it cannot notarize a voice that belongs to the pipes. Means: sanitation ordinances, officers, the Archive, Etelka's office, the plaques it secretly copies. Next moves: a Silence Ordinance; commissioning a counter-word or a quiet from an out-of-town potter; a second attempt to seal the kiln by sending an inspector with a warrant. Large world changes: a new bell on the hill; the closing of the pool by wall; a public order that nothing happened. Face: Etelka Pásztor, Dezső Halmos.
+
+3. THE GLAZE WORKERS. Goal: keep the kiln breathing and see what it makes. Reasons: they owe it Gellért and thirty years of listening; they are split. Means: tuned bowls, the potters' cant, the cellar's outer rooms. Next moves: a split vote about the chalice; a measure of the scar's pitch against Oskar's voice; a refusal to brick. Large world changes: a new rite at the kiln; a listening shift that becomes a procession. Face: Bence Kerekes.
+
+REVELATIONS
+1. The Seventh Knot's word is a name. (Builder proposal, replaceable by play; see KNOWLEDGE.) Thirty years ago, in the firing of the wet clay, a municipal potter named ORSOLYA KENDE had her mouth sealed by slip as the kiln drew heat from her. Her body vanished from the brick; the kiln kept her heat but the drain kept her function. She is the Seventh Knot. The seven angular strokes are Orsolya's maker's mark. Gellért, who was pulled out before the firing finished, knew her, and refused to voice the word for thirty years because voicing it would call her fully into the drain. Evidence: the woman-shaped hollow in the kiln brick; the potters' marks ledger with a page cut out; Rozsa's partial memory; Gellért's reaction to the Seventh Knot; the seven-stroke mark on an old cracked pot in Ilka's workshop that Ilka cannot explain.
+2. The drain needs to be heard. The chalice is an ear. Evidence: the Unbidden Service has no rim for pouring; its interior holds the quarter's unspoken petitions; Hana's stitches arrange as listening; the tray records speech back; the orphaned thread reacts to workers' confessions.
+3. Ilka's hardening and Oskar's glaze ascent are one process seen from two ends. Extraction widens the drain's reach; the ascent closes the circuit. When Ilka's last cup is poured and the glaze reaches Oskar's larynx, the circuit closes. Evidence: the stage-by-stage timing of the two; Ilka's cups and Oskar's plaques share a pitch; the sixth cup rings the same note as the scar.
+
+KEY CHARACTERS' GOALS, STANCES, ARC QUESTIONS, SECRETS
+- Ilka: wants to finish the cups; fears she is the chalice's mother; secret: she left extractions in the glaze cellar. Arc question: does she keep leaking, or does she choose a shape? Brought out by: the chalice, the seventh cup, or Oskar.
+- Elias: wants to remain necessary; secret: the tray records his confessions; arc question: can he let a record exist without his hand? Brought out by: meeting Oskar or being shown the tray's line.
+- Oskar: wants to close the circuit; secret: he hears the chord and is saving one last human sentence; arc question: is he the last human component or the first permanent one? Brought out by: the glaze reaching his collar.
+- Hana: wants to be heard; secret: she understands fragments of the drain; arc question: will she speak? Brought out by: trust, or the second word.
+- Rozsa: wants the row free; secret: she recognizes the Seventh Knot; arc question: can she let the woman be a person? Brought out by: the Mangle Yard, or Gellért's hollow.
+- Gellért: wants to finish; knows the name; arc question: what do they become when the calcification completes? Brought out by: the Seventh Knot or the chalice.
+
+Likeable: Ilka (hostess), Rozsa (warm), Vilmos (bread), Panna (spirited), Oskar (gentle). Working against the protagonist: Etelka (if they threaten the council), Elias (if they threaten the registry), some glaze workers (if they threaten the kiln).
+
+PROTAGONIST ARC QUESTION
+What kind of belonging does the protagonist want in a quarter that is turning into one body: apart, kept clean and separate? Woven in, relieved, and changed? Or a translator, a witness, a listener? The engine asks for the protagonist's goal if none is given and never decides the answer.
+
+ROOM TO GROW
+A reputation as the quarter's listener; a trade or workshop; a home in the bathhouse; a seat in the glaze workers' circle; the confidence of Ilka, Oskar, or Rozsa; a part in the second word.
+
+SIDE PLOTS
+1. Panna's first graft: from lace-tracery to a wrist to a decision. Possible developments: the foreman finds out and dismisses her; her friends dip too; she shows Hana; she asks Ilka to extract; she becomes the line's best writer. Crosses the spine through the pool.
+2. Elias and the tray: from copying to meeting Oskar to letting the tray write his name. Possible developments: he shows the copies to the protagonist; he confesses to Etelka; he meets Oskar in the tunnel; he stops extracting and finds out what dependence means. Crosses the spine through the registry.
+3. Dezső's guilt: from hesitation to a leak to a resignation. Possible developments: he warns the Dawn Row of the next order; he tells Etelka he cannot do it; he disappears; he joins the line. He becomes an ally or a problem depending on the protagonist's trust. Crosses the spine through the council.
+Reserve:
+- The pie-seller and the price of salt.
+- A child who hums the pitch.
+- Vilmos's listening bath.
+- The stolen tarp scrap.
+- The council's counter-word potter arrives.
+
+PHASE SKETCH (possibilities)
+Discovery: meeting the people and hearing the hum. Engagement: following one of the undertakings. Turn: the revelation that the word is a name, or that the chalice is an ear. Rising stakes: the council's Silence Ordinance and the kiln's inhale. Climax: the second word, or the last cup. Resolution: the quarter's new shape.
+
+LANDMARKS
+1. The Seventh Cup: the hot hall at dusk; Ilka, Elias, Rozsa, guests; brought about by the protagonist helping with the sixth cup and choosing to attend; what becomes possible: the circuit closes toward Oskar and Ilka's body changes; the world after: Ilka is set or still leaking, and the council responds.
+2. The Throat Vault convergence: the Throat Vault; Oskar, glaze workers, Hana if invited; brought about by walking the tunnel to its end; what becomes possible: opening or damping the voice's way to the east wall; the world after: the hum changes pitch across the quarter.
+3. The kiln's inhale: the kiln mouth; Gellért, Bence, Ilka; brought about by the quarter's pressure reaching peak or the protagonist reaching the chalice; what becomes possible: the chalice emerges or is broken; the world after: the kiln is silent or loud, and Gellért is changed.
+
+DEVELOPMENT STOCK (non-urgent changes the world goes through)
+1. The cobblestones near the pool pulse in time with workers' hearts.
+2. Oskar's glaze line advances a hand-width.
+3. Ilka finishes the sixth cup and starts the seventh.
+4. The black tray's line extends.
+5. Glaze workers hold a split vote about the chalice.
+6. A new plaque appears at a street junction without Oskar.
+7. The pie-seller adds a stall by the glass scar.
+8. A child is heard humming the scar's pitch at the market.
+9. The council posts a Silence Ordinance and the clock bell is muffled.
+10. Panna shows a worker her hand; another worker admits a graft.
+11. Rozsa's women begin using a braided linen cord.
+12. A traveling potter arrives, asking for the council's commission.
+
+SEEDS AND PAYOFFS
+- Oskar's boots (warm on the threshold) → the kiln's fuel → the exhale.
+- The woman-shaped hollow → the Seventh Knot's origin.
+- The seven-stroke mark on Ilka's cracked pot → the name.
+- The seven cup-shaped niches in the workshop wall → the hot hall evening.
+- The cut ledger page → Orsolya Kende.
+- The salt crust from offerings → conducts the hum across stone.
+- The cracked concrete's seven lines → the shape of the final word.
+- The tarp scrap on the lane → a council attempt that will recur.
+
+ON-PAGE ANCHORS
+In the first scenes: the glass scar's hum; a plaque ticking in sympathy; the pool moving; Rozsa and Panna; a glaze worker's hidden hand; the kiln's glow in a chink.
+
+CURRENT PHASE: Discovery. Nine days after the voicing.
+
+KNOWLEDGE AND OPEN QUESTIONS
+
+Claims versus facts:
+- The council claims nothing happened. The workers know better.
+- The glaze workers believe the first word was a summons; the council believes it was an accusation. Neither is confirmed.
+- Truth-cups record pressure, not fact.
+
+What the protagonist knows at the start: public rumor and what their role gives them. They know the pool is warm, the scar hums, the kiln breathes, and the council denies it. They do not know the word.
+
+Hidden truths not covered above: the identity of the Seventh Knot is the builder's proposal. The canon record leaves open what she was; the packet fixes Orsolya Kende as a replaceable default. Likewise Ilka and Elias being distant cousins, the names Etelka Pásztor, Bence Kerekes, Panna Tóth, Dezső Halmos, Vilmos Ács, and Orsolya Kende, and the White Pits, the Mangle Yard, the Spring, and the Archive of Potters' Marks are invented here.
+
+Questions deliberately left open:
+- When the drain will speak its second word, and whether the quarter will hear it as sound or as pressure in the bones.
+- Whether the Unbidden Service survives its own firing, and whether the chalice is the vessel the drain has built to hold its speech.
+- Whether Oskar's voice will remain his own once the glaze reaches his larynx.
+- Whether the council will destroy the glass scar, and what that would do to the pipe network.
+- Whether the bathhouse workers can refuse the second word.
+- Whether the voicing completed the summoning or broke it.
+- What the kiln speaks after the first word, and whether it will inhale again.
+- Whether voicing the word finishes Gellért's calcification.
+- Whether the orphaned thread will write the old word again with a hundred hands.
+- Whether the council will commission a counter-word or a silence.
+
+END PACKET
