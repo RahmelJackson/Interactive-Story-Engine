@@ -8,7 +8,7 @@
 
 ## Quick start
 
-1. **Download two files:** [Interactive_Story_Engine_R74.txt](Interactive_Story_Engine_R74.txt) (the rules) and [Zombie_Generator_Packet.txt](Zombie_Generator_Packet.txt) (a zombie survival story). To get everything at once, click **Code → Download ZIP** at the top of this page.
+1. **Download two files:** [Interactive_Story_Engine_R90.txt](Interactive_Story_Engine_R90.txt) (the rules) and [Zombie_Generator_Packet.txt](Zombie_Generator_Packet.txt) (a zombie survival story). To get everything at once, click **Code → Download ZIP** at the top of this page.
 2. **Open a new chat** in your AI app and upload both files.
 3. **Copy this message, paste it in, and send it:**
 
@@ -53,6 +53,7 @@ At the start, it asks what your character is after. Answer, or say **"let the st
 
 - **Fix a bad reply right away.** Regenerate or edit it. Mistakes left in the chat get copied.
 - **Write as your character.** "I lean on the bar and ask her name" works better than "describe the bar."
+- **Skip the slow parts.** Type `skip to tonight` or `skip a week` and the story jumps straight into something happening. Your open mysteries and missions wait for you.
 - **Type `OOC: refresh`** when things start slipping (weaker accents, a missing menu, repeated lines). It rereads the rules.
 - **Start fresh when a game feels flat.** A compact (below) carries your story into a new chat at full strength.
 
@@ -73,7 +74,7 @@ My story: a heist in 1920s Havana, and I'm the getaway driver.
 
 A packet saves a world so you can replay it or share it.
 
-1. Open a new chat and upload [Story_Packet_Builder_R37.txt](Story_Packet_Builder_R37.txt).
+1. Open a new chat and upload [Story_Packet_Builder_R40.txt](Story_Packet_Builder_R40.txt).
 2. Send: `Run the story packet builder.`
 3. Build it step by step, describe your idea, or import something you already have (a story, a CYOA, screenshots).
 4. Say **finalize** to get the finished packet, and save it as a `.txt` file.
@@ -103,7 +104,10 @@ The end of the compact holds hidden plot notes for the AI. Skip that part if you
 | The menu disappeared | `OOC: show the menu.` |
 | Accents, descriptions, or the writing got weaker | `OOC: refresh` |
 | It did something you didn't choose for your character | `OOC: undo that. My character wouldn't do that.` |
-| Someone keeps interrupting a quiet scene, or offering you jobs | `OOC: no interruptions or job offers. Let this scene play out.` |
+| It wraps up the scene or skips ahead before you're done | `OOC: I decide when a scene ends. Stay here.` |
+| Something happens "suddenly," or someone keeps interrupting, offering you jobs, or asking for your help | `OOC: nothing arrives out of nowhere, and no job offers or favors. Let me do what I want.` |
+| Characters lecture you, gang up on you, or always win the argument | `OOC: no verdicts. My choices stand, and I can win an argument.` |
+| Characters ramble or say things that make no sense | `OOC: short lines, each with a clear point.` |
 | It's repeating itself or losing track | Compact and continue in a new chat (see above). |
 
 <details>
@@ -112,7 +116,9 @@ The end of the compact holds hidden plot notes for the AI. Skip that part if you
 | Problem | Send this |
 | --- | --- |
 | The narration switched to "you," or into someone else's head | `OOC: close third person through my character.` |
-| Characters tell you what you feel, or lecture you | `OOC: nobody tells my character what to feel or what to learn.` |
+| Characters tell you what you feel or what you should learn | `OOC: nobody tells my character what to feel or what to learn.` |
+| Everything turns into a negotiation or a meeting | `OOC: skip the meeting. A yes or a no, then let me do it.` |
+| Nothing is happening, or missions feel like paperwork | `OOC: show me what's going on around here. Something I can step into.` |
 | Secrets come out too easily, or characters know things they shouldn't | `OOC: they keep that secret unless I find proof or earn it.` |
 | The narration explains what every moment means | `OOC: show, don't explain. Trust me to get it.` |
 | Replies stop mid-moment, or always end on a question | `OOC: finish the moment before you stop.` |
@@ -126,7 +132,7 @@ The end of the compact holds hidden plot notes for the AI. Skip that part if you
 
 ## Which AI should I use?
 
-My favorite is **DeepSeek**, but any AI chat works if it can read uploaded text files (or long pasted text) and handle long conversations. The rules and a packet take up about 18,000 tokens before you start, so choose a model with a large context window. If one struggles, try another.
+My favorite is **DeepSeek**, but any AI chat works if it can read uploaded text files (or long pasted text) and handle long conversations. The rules and a packet take up about 13,000 tokens before you start, so choose a model with a large context window. Smaller or "fast" models sometimes drop the menu or the accents; if `OOC: show the menu.` and `OOC: refresh` don't fix it, try a stronger model.
 
 <details>
 <summary><b>Advanced: extra controls</b></summary>
@@ -134,16 +140,16 @@ My favorite is **DeepSeek**, but any AI chat works if it can read uploaded text 
 **A quick reminder** you can add to any turn when things slip:
 
 ```text
-(OOC: write every accent out, nobody tells me what I feel, fresh options, full menu.)
+(OOC: write every accent out, no verdicts on my choices, options are things to do, full menu.)
 ```
 
 **Author's Note, memory, or custom instructions** (SillyTavern, AI Dungeon, and similar apps). Text here is reread every turn, so it steers strongly:
 
 ```text
 [Interactive Story Engine: every speaker in their own accent and language;
-people chase their own lives; places press on bodies; no lessons or therapy talk;
-show the thing itself; quiet scenes stay quiet; secrets stay secret;
-finish the moment, then the six-entry menu.]
+people chase their own lives; my choices stand, with no verdicts, lessons, or therapy talk;
+deeds, not meetings or haggling; places press on bodies; show the thing itself;
+quiet scenes stay quiet; secrets stay secret; finish the moment, then the six-entry menu.]
 ```
 
 **Sampler settings** for APIs and SillyTavern (most chat apps don't show these, and that's fine): repetition penalty about 1.1, Min-P 0.02-0.08, DRY (multiplier 0.8, base 1.75, allowed length 2), and XTC (threshold 0.15, probability 0.5).
@@ -156,9 +162,9 @@ finish the moment, then the six-entry menu.]
 
 | File | What it's for |
 | --- | --- |
-| [Interactive_Story_Engine_R74.txt](Interactive_Story_Engine_R74.txt) | The rules that run every story. Always upload this one. |
+| [Interactive_Story_Engine_R90.txt](Interactive_Story_Engine_R90.txt) | The rules that run every story. Always upload this one. |
 | [Zombie_Generator_Packet.txt](Zombie_Generator_Packet.txt) | A ready-to-play zombie survival story, different every time. |
-| [Story_Packet_Builder_R37.txt](Story_Packet_Builder_R37.txt) | A helper for making your own story packets. |
+| [Story_Packet_Builder_R40.txt](Story_Packet_Builder_R40.txt) | A helper for making your own story packets. |
 
 To download one file, open it and click the download button (↓) at the top right.
 
