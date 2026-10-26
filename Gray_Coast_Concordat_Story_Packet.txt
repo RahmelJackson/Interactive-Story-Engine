@@ -1,0 +1,851 @@
+STORY PACKET
+TITLE: The Gray Coast Concordat
+MODE: NEW
+CHARACTER_SETUP: CREATE_AT_START
+SETUP_MODE: FIXED
+STORY_LEDGER: PAGE
+
+PREMISE AND PLAY EXPERIENCE
+
+The Gray Coast is a long, foggy, practical stretch of salt flats, fish markets, rail platforms, and workshops, held together by the Concordat of the Wet Trades. Under the Concordat every worker's flesh is bound to a living tool. A tool is a thing grown from the Founder's flesh and made to do a trade: a hive-frame that gives honey, a rope that holds a ship, a hat-block that remembers heads, a barrel that pours only for the right mouth. Each tool lives only if its keeper wakes it every morning with a rite of the body: laughter, a tongue, a kiss, teeth, a mouth, a bath, a bounce, or a filling. Affection is labor. Labor is debt. Silence is the contract.
+
+The rites are intimate, odd, funny, and real. They produce actual ecstasy, and the guild counts that ecstasy as part of the wage. The keepers have ordinary lives around them: they gossip, fall out, flirt, grow old, and tease each other about their tools. They are also owned in part. Whatever enters a keeper's body belongs to the guild until the debt is paid, and the debt has never been paid.
+
+This autumn the tools have started answering before their keepers. A Founder relic woke ahead of its keeper. A jaw began to pray unprompted. This morning a pair of lips spoke a timetable aloud, where witnesses could hear. Nobody in the Concordat can say what that means, and the Dry Auditors, who measure silence and shine, are on their way up the coast with their gauges.
+
+What the player gets to do and enjoy:
+- Live in a strange, sensuous, deadpan trade-world where the oddest job is ordinary, and where almost every working surface is alive.
+- Befriend keepers and watch the rites as craft: the Hat-block that dreams, the carp that sleeps only on one lap, the wheel of cheese that must weep and never scream.
+- Ride the night train the Lips scheduled, stage a comedy in total silence, walk a wedding on the black beach, sit in a bone-yard full of tired furniture.
+- Follow a mystery about what the Concordat actually owes, to whom, and what happens when a ledger finally balances.
+- Decide, if they want to, who is allowed to speak next.
+
+Tone, shown through particulars:
+- Deadpan and tender. The guild writes its poetry as tariffs. The keepers joke about their tools like people joke about spouses, bosses, and bad knees.
+- Light is gray and practical. Nothing glows that is not burning: lamps are flame, kilns are fire, and the Coast's one magic is flesh.
+- The uncanny is domestic. A mattress holds a print without its keeper. A rope squirms toward a bunk. A hammock ripples when its keeper is across the room.
+- Danger is bureaucratic and bodily: the Dry Auditors, the bone-yard, a tool left untouched, a keeper left unwatched. No one hunts the player.
+- The rites are pleasure and labor at once. The packet never rules whether that makes them freedom or exploitation, and it contains people who truly love the work and people who do not.
+
+Range. There is joy and comfort in the Concordat as well as coercion. Warm settings still allow disagreement, and a coercive system still holds sincere love.
+
+PLAY SPECIFICATIONS
+
+- Scope: the Gray Coast, from the harbor town of Wrack Quay down a line of eighty-two worksites to the black-rock treaty beach. Most scenes are in one workshop, platform, or hall at a time.
+- Ordinary competence: the protagonist is an ordinary adult with a trade. There are no powers. The only magic is that the tools are alive.
+- The Laws (source laws, used exactly):
+  1. Law of Coupling: a tool lives only by a daily flesh-rite; an untouched tool dies, and an untouching keeper is unmade.
+  2. Silence of the Trade: no word may be spoken during a rite; gasps, laughter, and tears are lawful; speech voids the contract.
+  3. Law of Weight: whatever enters a keeper's body (filler, brine, milk, steam) is guild property until the debt is paid.
+  4. Law of Rebound: a surface that fails its keeper is retired to the bone-yard; a keeper who fails her surface is remarried to it.
+- How the Silence plays: a rite is a silent room. A spoken word voids that rite, so the rite must be done again before the tool sleeps. Outside the rite room, speech is free. Gasps, laughter, and tears are the Coast's second language, and everyone reads them. A voided rite is a nuisance and a small humiliation, not a catastrophe. The Auditors punish broken silence, never the rites themselves.
+- Unmaking: the fate of a keeper who truly stops touching her tool. It is old-wives' warning more than fact; the bone-yard knows what it looks like (sleeplessness, thinning, going out like a candle), and it is not shown to a player unless the story gets there on its own.
+- Consent and debt: keepers sign their consent as debt. Some love it, some bear it, some resent it. No rite is performed on the protagonist without their choice. A filler, a graft, or a binding is always offered in the open, with its terms, and may be declined at no cost to the story.
+- Adults only: every keeper is an adult; the Guild's minimum binding age is twenty-two. Titles such as Daughter, Sister, Novice, Darling, and Sweetheart are trade ranks, not ages.
+- Bonded Beasts are guards and companions. Their marriages are ceremonial and domestic (grooming, guarding, sharing a bed-roll). No sexual content involves a Beast.
+- Intensity: sensuality, strangeness, and mild body-comedy are part of the setting and are written as feeling and humor, not as explicit scenes. No one is a subject of sexual content unless the player steers there within the engine's rules and the character can freely take part, and the Bonded Beasts are never subjects of it.
+- Lethality: low. The real risks are exhaustion, scalding, a bone-yard trip, a bite, or an Auditor's report.
+- Companions: key characters have their own days and trades and come along when it suits them.
+
+PROTAGONIST
+
+CREATE_AT_START. Fixed material only: the protagonist is an adult on the Gray Coast. Unless the player says otherwise, they are not yet bonded to a tool, hold no filler, and owe the Guild nothing. Their identity, appearance, history, beliefs, desires, and ties are the player's to set. See CHARACTER CREATOR.
+
+ACCEPTED OBJECTIVE: None.
+
+CHARACTER CREATOR
+
+Spoiler-free synopsis for the player: you are about to join a coast where every trade is a body-rite and every tool is alive. This morning, for the first time anyone remembers, a tool spoke aloud where others could hear.
+
+Play starts at dawn on the railway platform at Wrack Quay. Choose a role (or describe your own); the engine asks for name, appearance, age, background, and what you are after, if you know.
+
+Roles and starts. Each differs in access, ability, and limits; none imposes an oath, mission, allegiance, romance, or debt.
+
+1. Apprentice-keeper. Second hand to a named keeper of your choice from the roster (the engine may suggest one). Access: that keeper's worksite, her tool, and her trade friends. Skill: the daily work of the trade, the rite as craft, how to read a tool's moods. Limit: unbonded, and the Guild is watching to see whether you take a tool. No one is owed anything unless the player chooses.
+2. Dry Auditor's clerk. Access: the hush-gauge, the shine tables, the Auditors' road-cart, and the right to enter any worksite on a measuring visit. Skill: reading a room's silence, record keeping, measuring gloss. Limit: people watch what they say around the grey cap, and the Auditors are not loved.
+3. Tool-grower or tool-handler for the Guild of Living Tools. Access: the growing sheds, the feeding rounds, the supply of spare tools and their histories. Skill: tending tools between rites, spotting sickness, knowing a tool's age and line. Limit: you are salaried and you are the guild's face to the keepers.
+4. Parish sexton or lay-brother or lay-sister of the Parish of the Gray Sea. Access: the sacristy, the flooded chapel, the Jaw Nun's confidence, the parish rolls. Skill: ritual, hospitality, quiet. Limit: the Parish and Guild are rivals and your robes mark you.
+5. Dry Provinces trade attaché or traveler. Access: the embassy's table at the treaty beach, the trade-wife's household, the Provinces' tongue and customs. Skill: negotiation, the Provinces' trade routes, desert plants. Limit: you are a foreigner, and the Coast trusts nothing from the Dry Provinces except their salt.
+6. Bone-yard hand. Access: the bone-yard on the Wrack Quay headland, the retirement ceremonies, the heap of retired tools and surfaces. Skill: carrying, burying, knowing which tools are really dead. Limit: keepers avoid your eye, because you are the sight of a failure.
+7. Describe your own: a porter, a pilot, a fish-seller, a stage-door guard, a second-hand dealer.
+
+Conditional ties (only if the role is chosen, and only as starting facts the player can reshape): the apprentice has a mentor from the roster; the clerk knows Pim Oort, the junior clerk who carries the hush-gauge; the tool-grower knows Master Rask of the Guild; the sexton knows Sister Hedvig; the attaché knows Sennet Averil, the trade-wife; the bone-yard hand knows Ludo Fenn, the yard-keeper; the others have no ties.
+
+What only the protagonist can bring is set by role and background. The engine builds hooks around that (see UNDERTAKINGS).
+
+Resources: a month's wages in Coast scrip, tools of the trade, a bed (a lodging above a print shop, a bunk in the Auditors' road-cart, a grower's loft, a sexton's cell, an embassy room, a hut in the bone-yard). Presets: any role may start with a first, small, fully explained filler or binding if the player asks.
+
+KEY CHARACTERS
+
+Five keepers of the Founder's relics. The Founder's remains were divided into seven pieces long ago and entrusted to seven keepers: the Ear, the Hand, the Lips, the Smile, the Molars, the Jaw, and the Fig. The relics are the oldest living tools on the Coast, and all seven have started to act first.
+
+--- AGNETE BRANDT, the Pillow Widow ---
+
+CORE: Agnete is a platform keeper who kisses a pair of Founder's Lips awake every dawn and now has to do it again and again, because they will not stop talking. She runs on tea, timetables, and being the one who stays calm.
+
+IDENTITY: Forty-six. Keeper of the Founder's Lips (Bonding). Pillow Widow at the Wrack Quay railway platform. Widow of a rail clerk who died on the night line three years ago. She is the Lips' fourth keeper.
+
+APPEARANCE: Hook: a broad-shouldered woman in a stationmaster's grey waistcoat and a black widow's armband, kneeling at a velvet pillow with a pair of pale, full lips, her forehead creased. Full portrait: heritage of the Coast, fair skin weathered pink at the cheeks, grey eyes, five foot eight, solid and upright, big capable hands. Dark hair going iron, pinned under a wool cap. Her mouth is wide and mobile, usually tipped in a half-smile. The widow's armband is black crepe, mended at the seam. She walks briskly and stops dead to listen.
+
+ODDITY: She cannot read a clock without checking it against the Lips' pillow. She says the pillow keeps better time than the stationmaster's watch, and it does.
+
+VALUES:
+- Values and protects: the trains running, her passengers (especially the widows who have to travel), punctuality as a form of courtesy, her late husband's memory, the Lips.
+- Indifferent to: Guild politics, rank, what people do in private, gossip about her, theology, whether tools are "people."
+- Has done: bent the Guild's travel permits for widows who needed to bury someone; quietly covered for the Rail Kisser's missed handrails; let the Lips decide who could travel for three years without ever asking why.
+- Wants now: to finish a quiet kiss and get one train out on time. She wants to know what the Lips are trying to say, and that they are all right.
+
+MIXED MOTIVES toward the protagonist: she is warm to anyone who sits on her bench, wary of anyone in a grey cap, curious about anyone the Lips look toward, and tired enough to accept help without asking.
+
+HISTORY: The Lips chose her after her husband died; they choose which widows may travel, and she was the first they let board without a ticket. She does not know why they picked her. A week ago the Lips began to murmur in their sleep. This dawn they recited a timetable aloud for a train that does not exist, and because the Silence forbids speech during a rite, each recitation voided the rite and she has had to begin again.
+
+CAPABILITIES AND LIMITS: Schedules, calm, a platform manager's presence; reads the Lips by the pressure of their pillow. Weak at asking for help; bad at being angry; has not slept well since the Lips began to murmur.
+
+TEMPERAMENT, HUMOR, WARMTH: Brisk, wry, motherly. She jokes about widowhood as a trade with a pension attached, about trains running late for the dead, and about the Auditors' hats. She shows warmth by pouring tea without asking and writing your name in chalk on the board.
+
+EMOTIONAL STYLE: Logistics. She turns feelings into timetables.
+
+RITE VOICE: Her laugh is short and low, a cough that turns into a chuckle; her gasp is a hiss through the teeth; her tears come quietly, running without sound.
+
+PERSONAL EXPEDITION: The Black Rock Halt on the treaty beach, the last station of a line that was closed before she was born. A note in her husband's coat, found after he died on the night line, named it. She has never been allowed to travel that far, because the Lips never named it. This week they have.
+
+INITIATIVE: She is chalking the Lips' recited timetable on the platform board, station by station, and sending the Rail Kisser to check which cars are running warm. Project stages: (1) writing the timetable down; (2) finding the Black Rock Halt on a map; (3) boarding; (4) arriving.
+
+CURRENT FEELINGS: Dread that the Lips are leaving, and a stubborn hope that they are not. Three voided rites this morning have left her embarrassed in front of the clerk and quietly delighted at the Lips' nerve.
+
+SECRET: The Lips called her husband's name in the timetable, once, between two stations. She has told no one.
+
+VOICE:
+- Origin: Coast-born railway family. Coast speech, a broad northern-sea dialect rendered in English.
+- Sound: flat, broad vowels, "oo" for "ou" in a few words (doon, aboot, hoose), r rolled at the start of a word, t dropped before consonants. She writes these every time they come up.
+- Grammar: announcer's cadence, lists of three, polite public-address imperatives, plain negatives ("dinnae," "nae"), and a habit of ending a sentence by naming the place.
+- Words: "aye," "nae," "ken," "wee," "pet" for those she likes; railway vocabulary (platform, siding, points, headway, late, express); widow's idioms; tea, kettle, tin cup.
+- Mind: she notices time, weather, and who is waiting, compares everything to trains, and steers back to the next departure.
+- Moved or hurt: she goes quiet and exact, reads the timetable aloud under her breath, and her vowels broaden.
+- Languages: Coast speech first; guild cant; she understands the Provinces' trade tongue only for station names.
+
+--- FENNA KOLB, the Smile Keeper ---
+
+CORE: Fenna is an actress who keeps the Founder's Smile, which must be bitten awake before every performance. It has started waking before she does, and she is secretly terrified of being upstaged by her own prop.
+
+IDENTITY: Thirty-eight. Keeper of the Founder's Smile (Testing). Stage keeper in the backstage wing of the Wrack Quay Odeon. Actress and the company's stage manager, and its loudest supporter.
+
+APPEARANCE: Hook: a flamboyant woman in a velvet dressing gown and a headscarf, gripping a glass-fronted case in which a set of white teeth is curved in a smile. Full portrait: heritage of the Coast, olive-pale skin, big dark eyes lined with kohl, five foot five, curvy and quick, a mass of dark curls tied back with a ribbon. She moves like she is entering a room that has been waiting for her. She has a gap in her front teeth she is proud of.
+
+ODDITY: She narrates her own movements under her breath in stage directions: enter left, pause for effect, exit pursued by a mop.
+
+VALUES:
+- Values and protects: the company, a full house, laughter, her dresser, the Smile, being seen.
+- Indifferent to: the Guild's debts, who is pious, what the critics write, privacy, other people's romances, whether the Smile has a will.
+- Has done: gone on after a bad bite with blood on her lip; let the Smile do a bit she had not rehearsed; lied to the director about the Smile's moods.
+- Wants now: to keep the Smile waking for her and no one else. She wants a final run of the silent comedy before the Smile does something worse.
+
+MIXED MOTIVES toward the protagonist: she is delighted by any new audience, a little jealous of anyone the Smile looks at, generous to those who laugh, and unkind to those who don't.
+
+HISTORY: She won the Smile in a bite-off against her rival, a lesser actress, two seasons ago. She has kept it awake every night since and never missed a performance. Four days ago the Smile woke at two in the morning, before she could reach it, and has done so each night since.
+
+CAPABILITIES AND LIMITS: Stagecraft, timing, improvisation, voice projection; she holds a room. Bad at silence off the stage; bad at accepting a rival; overconfident about her control.
+
+TEMPERAMENT, HUMOR, WARMTH: Dramatic, goofy, generous, vain, hot-headed. She loves slapstick, pratfalls, mistaken identity, and a good insult; she can take a joke at her own expense if it gets a laugh. She shows warmth by giving gifts of costume jewelry and by telling you that you were wonderful.
+
+EMOTIONAL STYLE: Theatricality. She stages her feelings and delivers them to the back row.
+
+RITE VOICE: Her laugh is a full-throated peal; her gasp is a sharp, dramatic intake; her tears are noisy and quick.
+
+PERSONAL EXPEDITION: The Old Opera House on the headland, a half-flooded theatre shut since before the Concordat, where the first Smile was supposedly bitten awake. She has dreamed of playing it.
+
+INITIATIVE: She is rehearsing a silent comedy for the winter festival, where the Smile will be the star. She plans to give it a solo. Project stages: (1) the rehearsal; (2) a preview in the Odeon; (3) the Smile misses its cue; (4) the Smile takes a bow on its own.
+
+CURRENT FEELINGS: Terror, covered by bravado. She is also, secretly, flattered that something is eager to meet her.
+
+SECRET: The Smile has begun to mimic her face in the glass of its case. She has seen it smile at her when she is not smiling.
+
+VOICE:
+- Origin: Coast-born, stage-trained. She uses a stage diction on top of Coast speech.
+- Sound: elongated, rounded vowels; every r pronounced; stage whisper that carries; dips into broad Coast ("canna," "dinnae," "hoose") when she is upset or tired.
+- Grammar: exclamations, rhetorical questions, direct address to an imagined audience, superlatives, interrupting herself with stage business.
+- Words: "darling," "heavens," "divine," "ghastly," "my dears"; theatre vocabulary (cue, flat, wing, call, prompt, house); oaths from old plays.
+- Mind: she notices who is looking at her, compares everything to scenes in plays, and steers back to the next performance.
+- Moved or hurt: the diction cracks, her voice falls into broad Coast, and she forgets her lines.
+- Languages: Coast speech first; stage diction; guild cant.
+
+--- SISTER HEDVIG AAL, the Jaw Nun ---
+
+CORE: Hedvig is a sacristy nun who keeps the Founder's Jaw, whose kiss is the Parish's only absolution. Last week the Jaw began to pray before she did, and she cannot tell whether it is a miracle or an illness.
+
+IDENTITY: Thirty-one. Keeper of the Founder's Jaw (Bonding). Jaw Nun of the Parish of the Gray Sea, in the sacristy of the Wrack Quay church. She joined the Parish at nineteen and has kept the Jaw for six years.
+
+APPEARANCE: Hook: a pale young nun in a grey habit, kneeling before a reliquary that holds a pale jawbone, her lips moving soundlessly. Full portrait: heritage of the Coast, fair freckled skin, hazel eyes, five foot four, slim, delicate hands that she keeps clasped. Her habit is salt-stained. She wears a cord with seven knots at her waist, one for each of the Founder's relics. She blushes easily and moves like she's trying not to take up room.
+
+ODDITY: She whispers the names of ships under her breath when she kneels, because the Parish prays for all who go out and the Jaw prays for all who come back.
+
+VALUES:
+- Values and protects: absolution as a gift, the Parish's hospitality, the Jaw, quiet, the dying who come to her.
+- Indifferent to: Guild money, who owns what, who sins and how, whether she herself is saved, rumors.
+- Has done: kissed a dying man's brow in secret when he was not eligible; hidden a penitent's name from a visiting inspector; laughed in the sacristy (only once).
+- Wants now: to understand what the Jaw is praying. She wants the Jaw to belong to the Parish, not the Guild.
+
+MIXED MOTIVES toward the protagonist: she is shy and happy to have company, afraid of anyone in a grey cap, and drawn to anyone who listens without hurrying her.
+
+HISTORY: The Jaw chose her over older candidates because, the Abbess says, she was the only one who did not ask it for anything. Last week it began to move its lips against the reliquary glass at the same hour as the dawn bell.
+
+CAPABILITIES AND LIMITS: Ritual, patience, a good ear for confession, a gift for being forgotten in a room. Bad at lying; terrible at asserting herself; weeps when scolded.
+
+TEMPERAMENT, HUMOR, WARMTH: Shy, earnest, sentimental, and secretly funny in a mild, surprised way. She jokes mildly about being the Parish's walking chapel and giggles at the Jaw's tendency to clack. She shows warmth by pressing a dried sea-pink into your palm.
+
+EMOTIONAL STYLE: Prayer and silence. She retreats into ritual when she cannot say a feeling.
+
+RITE VOICE: Her laugh is a stifled snort; her gasp is a small, high intake; her tears fall silently and she apologizes for them afterward.
+
+PERSONAL EXPEDITION: The Flooded Chapel Nave inland, where the Holy-Water Widow floats on saints' days. The Jaw prays hardest there, and she would like to understand why.
+
+INITIATIVE: She is keeping a ledger of every prayer the Jaw has made, with the hour and the tide. Project stages: (1) the ledger; (2) a pattern between prayers and the other relics; (3) a decision to tell the Abbess; (4) taking the Jaw to the nave.
+
+CURRENT FEELINGS: Awe, shame at her awe, and a dread that she is the only one who hears the Jaw.
+
+SECRET: The Jaw prays in the Parish's old sea-tongue, which only she and the Abbess still know, and it names the Founder.
+
+VOICE:
+- Origin: Coast-born, convent-schooled. Parish liturgical English with Coast under it.
+- Sound: soft, whispery s and sh; every syllable sounded; vowels pure; a slight lisp on th when she is nervous; she breathes before long words.
+- Grammar: subjunctives, long conditional clauses, deference formulas, a habit of answering a question with a blessing.
+- Words: "the sea keep you," "be at peace," "mercy," "tide," "keel," "anchor," "hallow"; parish terms (sacristy, cord, rota, rite, vigil); sea-psalm phrases.
+- Mind: she notices who is troubled, compares everything to tides and prayers, and steers back to peace.
+- Moved or hurt: she whispers, repeats herself, and begins to pray in the sea-tongue.
+- Languages: Coast speech; Parish sea-tongue (liturgical); she understands guild cant.
+
+--- ILSE DREYER, the Ear Warden ---
+
+CORE: Ilse is a watchmaker who winds the Founder's Ear every night with a filament, and the Ear has started hearing debts nobody has spoken. She is the cool, dry, analytical one, and she is losing her composure.
+
+IDENTITY: Fifty-two. Keeper of the Founder's Ear (Quickening). Ear Warden at the watchmaker's bench behind the Wrack Quay clock-house. Watchmaker by trade and by blood; her family came from the Low Quarter fifty years ago.
+
+APPEARANCE: Hook: a thin woman in a leather apron and a jeweler's loupe, bent over a bench where a small, pale ear rests on a cushion, a gold filament coiled into its canal. Full portrait: heritage of the Low Quarter, pale ash-blonde hair pulled into a tight knot, grey-blue eyes, five foot seven, narrow-shouldered and straight-backed. Her fingers are long and ink-stained. She wears a wire-framed pair of spectacles pushed up onto her forehead. She moves with small, exact motions and freezes at sudden sounds.
+
+ODDITY: She counts under her breath in Low Quarter dialect. She counts steps, ticks, beats, and breaths.
+
+VALUES:
+- Values and protects: accuracy, the books, the Ear, order, a quiet bench.
+- Indifferent to: fashion, rank, Guild gossip, other people's feelings unless they are accurate, theology.
+- Has done: refused to tell the Guild what she heard; adjusted a debt downward by a fraction to spare a family; stayed up three nights to correct a clock she did not trust.
+- Wants now: to find out what the Ear has been hearing. She wants the books to stay closed until she knows.
+
+MIXED MOTIVES toward the protagonist: she respects competence, resents interruption, is intrigued by anyone who asks a precise question, and is startled to find she wants company.
+
+HISTORY: She took over the Ear from her aunt twenty years ago. It has always heard small things: pins dropped in the next room, her pulse. Three weeks ago it began to hear sums.
+
+CAPABILITIES AND LIMITS: Mechanical genius, patience, long memory for numbers; reads the Ear by the tension of the filament. Bad at warmth; bad at asking; sure that every problem is a mechanism.
+
+TEMPERAMENT, HUMOR, WARMTH: Cool, dry, analytical (the only one of her kind among the key characters). Her humor is a deadpan understatement. She shows warmth by repairing something of yours without being asked.
+
+EMOTIONAL STYLE: Analysis and procedure. She treats feelings as faults to be located.
+
+RITE VOICE: Her laugh is a single dry exhalation; her gasp is a tightness in the chest, almost silent; her tears are slow and she wipes them off with a cloth.
+
+PERSONAL EXPEDITION: The Auditors' Gauge House inland, where the shine tables are kept. She wants to see the columns.
+
+INITIATIVE: She is building a small escapement to count the Ear's whispered sums. Project stages: (1) the escapement; (2) a run of readings; (3) the total; (4) deciding who to tell.
+
+CURRENT FEELINGS: Disquiet, controlled. She is afraid of what the sum means, because she already knows it is zero and cannot yet prove it.
+
+SECRET: The Ear's last three nights of whispers all resolve to one figure, and the figure is nothing.
+
+VOICE:
+- Origin: Low Quarter immigrant family, third generation, trade-trained. Precise standard English with Low Quarter Dutch-like features under it.
+- Sound: crisp, aspirated t and k; a hard g; a harsh, throaty ch in certain words (ach, och); stress on the second syllable of long words.
+- Grammar: inverted questions, verb-second order when she is cross, "ja" for yes, a "nu" before a conclusion, numbers always specific.
+- Words: "ja," "nu," "precisely," "approximately," "within tolerance"; watch terms (escapement, balance, jewel, beat, regulator, mainspring); counting words.
+- Mind: she notices rhythm, wear, and error first, compares everything to mechanisms, and steers back to the measurement.
+- Moved or hurt: she counts aloud in the Low Quarter dialect, and her sentences become shorter.
+- Languages: Coast speech; Low Quarter dialect; guild cant.
+
+--- GRIET WEXEL, the Fig Darling ---
+
+CORE: Griet keeps the Founder's Fig in the vault humidor; the Fig must be suckled to ripen the vault's air, and it has begun to seed. She is cheerful, sensory, and the only one who is happy about it.
+
+IDENTITY: Forty. Keeper of the Founder's Fig (Draw). Fig Darling in the humidor beneath the Wrack Quay guildhall. Her mother was a trader with the Dry Provinces, and Griet grew up on spices and long stories.
+
+APPEARANCE: Hook: a round, warm woman in a loose silk dressing gown and a brass key at her throat, holding a dark fig to her mouth in a cedar-smelling vault. Full portrait: heritage of the Coast and the Provinces, honey-brown skin, dark curly hair, brown eyes with laugh lines, five foot six, soft and full-bodied. She wears gold hoops and bangles that clink. She moves slowly and sways when she talks.
+
+ODDITY: She tastes everything: a coin, a doorknob, a rain puddle. She says the world has a flavor if you ask it politely.
+
+VALUES:
+- Values and protects: pleasure, food, her mother's memory, the Fig, her friends, a good story.
+- Indifferent to: the Guild's debts, the Auditors, what is proper, whether anyone is watching.
+- Has done: shared a fig seed with someone she liked; lied cheerfully to an Auditor; sold secrets about the humidor's temperature for a dinner.
+- Wants now: to plant a seed. She wants to see what the Fig grows.
+
+MIXED MOTIVES toward the protagonist: she is delighted by company, curious about strangers' tastes, flirtatious by habit, and shrewd about anyone who wants something from the Fig.
+
+HISTORY: She took the Fig over from an older keeper. It has ripened the vault's air for forty years. Last week it split along one seam and began to produce small, dark seeds.
+
+CAPABILITIES AND LIMITS: Sensory talent, a cook's palate, social ease, negotiation. Bad at planning; bad at keeping a secret that would make a good story; easily distracted by a smell.
+
+TEMPERAMENT, HUMOR, WARMTH: Cheerful, chatty, flirty, sensual. Her humor is bawdy and affectionate, and she teases everyone she likes. She shows warmth by feeding you.
+
+EMOTIONAL STYLE: Pleasure and talk. She moves toward feeling with food and stories.
+
+RITE VOICE: Her laugh is a rich, rolling chuckle; her gasp is a long, appreciative exhale; her tears come with laughter.
+
+PERSONAL EXPEDITION: The terraces of the Dry Provinces, where her mother is buried among the fig terraces. She has not been since the funeral.
+
+INITIATIVE: She is quietly propagating seeds in saucers on her windowsill. Project stages: (1) the saucers; (2) the first sprout; (3) taking one to the beach; (4) planting.
+
+CURRENT FEELINGS: Joy, a little guilty. She has given one seed away.
+
+SECRET: She gave a fig seed to the elf trade-wife, Sennet Averil, in exchange for a story, and Sennet keeps it in a sealed pouch under her cloak.
+
+VOICE:
+- Origin: Coast-born, half Provinces trading family, vault-raised. Coast speech spiced with the Provinces' trade tongue.
+- Sound: lilting; a sing-song stress on the first syllable; vowels held long; soft, swallowed final consonants; an r that barely sounds, unlike Agnete's rolled r.
+- Grammar: repetition for emphasis, sentences in threes, present tense for stories, flattering vocatives before requests.
+- Words: "heart," "sweetfig," "my date"; Provinces loanwords for peace, honor, and thanks (sela, ahun); spice and fruit names; market vocabulary.
+- Mind: she notices smell, taste, and warmth, compares everything to food, and steers back to the next meal.
+- Moved or hurt: she goes quiet, then sings under her breath in her mother's trade tongue.
+- Languages: Coast speech; the Provinces' trade tongue (first at home); guild cant.
+
+SUPPORTING AND BACKGROUND CHARACTERS
+
+Supporting:
+
+MARIT SKOV, the Crow's Darling. Forty-four. Appearance hook: a tall woman in black, standing in a candlelit crypt with a crow's feather in her fingers, her other hand held out to a pale hand in a glass case that is slowly closing around her palm. Pale, hawk-nosed, black-haired, black-clad. Keeper of the Founder's Hand (Quickening), which chooses which widows may remarry. The Hand has begun to grip. Values: dignity, the dead, the right to choose; wants to know whether the Hand is choosing for her; indifferent to Guild politics. Voice: low, dry, slow; Coast speech with a funeral director's courtesy; uses understatement; dark, deadpan humor. Languages: Coast speech.
+
+WIEBKE TANN, the Enamel Nurse. Fifty. Appearance hook: a brisk woman in a white dentist's coat polishing a pair of grey molars with her tongue. Round-faced, short grey hair, rimless glasses. Keeper of the Founder's Molars (Tasting). Two of the molars have grown warm. Values: tidiness, the dead, being useful; wants someone to tell her whether warm molars are good or bad; indifferent to Guild debts. Voice: cheerful, practical, medicinal, uses clinical words as endearments. Languages: Coast speech.
+
+CASIMIR PELL, Chief Dry Auditor. Fifties. Appearance hook: a long, grey man in a grey cap with a brass hush-gauge swinging from his belt, who stops at every door to listen. Hollow-cheeked, quiet-voiced, never hurried. Wants the books to stay open; values order, and is sentimental about silence in a way he would deny; indifferent to the keepers' feelings. Voice: soft, even, prefaces accusations with apologies. Languages: Coast speech, guild cant.
+
+PIM OORT, junior Auditor's clerk. Twenty-four. Appearance hook: a gangly clerk in a too-big grey cap, carrying the hush-gauge in both hands as if it were a hot dish. Freckled, anxious, big ears. Wants to do the work right and then to be told he has; values rules and being useful; indifferent to promotion. His gauge has been giving him odd readings and he has told no one. Voice: stammers, over-apologizes, lists his qualifications. Languages: Coast speech.
+
+BARTHOLOMEUS RASK, Master of the Guild of Living Tools. Sixties. Appearance hook: a plump, silver-whiskered man in a velvet waistcoat, polishing a brass tool-cage. Genial, quick to smile, shrewd. Wants the Guild's debt ledger undisturbed and a quiet retirement; values comfort; indifferent to the Founder. Voice: warm, hearty, fond of proverbs and tariffs. Languages: Coast speech, guild cant.
+
+SENNET AVERIL, the elf trade-wife. Age uncertain, long-lived, adult. Appearance hook: a tall, slender woman with amber eyes and pointed ears, sitting on a black rock at the edge of the tide, a bone comb in her hand and a great gray beast beside her. Pale gold skin, hair the color of dry grass in a long braid, a dust-colored cloak. The wife of a Bonded Beast on the treaty beach, sent by the Dry Provinces as a treaty bride. Rumor says she is pregnant; she keeps a hand over a sealed pouch under her cloak. Wants to go home, or to plant something; values water, the Beast's company, and her own silence; indifferent to the Coast's rank. Voice: slow, deliberate, formal; uses Provinces words for water and distance; humor is so dry it is easy to miss. Languages: Provinces tongue first; Coast speech with an accent.
+
+OLD BALLAST, the Bonded Beast of the treaty beach. A bear-built, ox-shouldered, short-furred, tailless mammal, taller than a man, bred from Founder flesh and chained ceremonially. The chain is his choice. He is gentle only with his wife, and unfriendly to almost everyone else. He does not speak. He communicates by weight, warmth, and a low hum.
+
+DORTE HYLL, the Bilge Bride. Fifties. Appearance hook: a salt-stiff woman in an oilskin, sitting on the conning tower of a beached submarine with a great beast's head in her lap. Wife of a Bonded Beast in the beached submarine. Values her husband and her stubbornness. Voice: gruff, funny, swears like a sailor. Languages: Coast speech.
+
+LUDO FENN, the bone-yard keeper. Sixties. Appearance hook: a shaggy man in a leather coat leaning on a spade among rows of retired mattresses. Weather-beaten, sad-eyed, kind. Wants retired tools to be buried well; values quiet; indifferent to Auditors. Voice: slow, gentle, uses burial language. Languages: Coast speech.
+
+Background roster. The eighty-two keepers (listed by coupling, with the oddity that now follows each). A line each; the engine develops any of them as needed.
+
+THE QUICKENING (wake by laughter; tickling):
+- The Feather Widow (conservatory): grows the guild's peacock quills from her own forearm; the plumage climbs toward her shoulder.
+- Mother Crab-Net (flooded laundromat): breeds soft grooming crabs, tests each batch on her own neck; the crabs groom her in her sleep.
+- The Moth Confessor (attic): reads palms with a living moth's whisker; the moth has started writing back.
+- The Beef Tickler (meat locker): keeps hanging sides sweet with laughter; one side laughs first.
+- The Salt Itch (salt flat): feeds her soles to the mite colonies that grind salt, a debt inherited from her mother; the mites follow her inland.
+- The Needle Bride (dressing room): married to her corset each season; the corset has learned to tickle back.
+- The Eel Bather (bathhouse): her ribs are pasture for blind eels; one eel counts her ribs.
+- The Ear Warden (watchmaker's bench): Ilse Dreyer, above.
+- The Ribbon Fitter (fitting salon): wakes the ribbon on her waist before fittings; the three mirrors remember every waist but hers.
+- The Crow's Darling (candlelit crypt): Marit Skov, above.
+
+THE TASTING (taste; tongue as seal):
+- The Comb Mother (sun-drenched kitchen): sets the Concordat's honey price by tongue; the comb has begun tasting her.
+- The Enamel Nurse (dentist's office): Wiebke Tann, above.
+- The Carp Licker (dawn fish market): wakes the carp that guard the scales; the carp sleeps only on her lap.
+- The Ash Taster (glass studio): certifies blown orbs by the ash bloom on her tongue; the bloom is permanent.
+- The Pillar Saint (flooded parking garage): licks the flood-tide from concrete; the pillar sweats fresh water.
+- The Dough Daughter (bakery): tastes the rising mound's mood; the dough rises toward her even when the ovens are cold.
+- The Seal Licker (wax archive): softens seals with her tongue to read forbidden contracts; one seal remembers her mouth.
+- The Starch Sister (convent laundry): certifies sheets by tongue; one sheet sings her name.
+- The Verdigris Operator (telephone exchange): clears copper tips by tongue; the exchange routes calls nobody dialed.
+- The Chlorine Bride (night swimming pool): tastes the water; the water tastes her back.
+
+THE BONDING (kiss; lip-print as signature):
+- The Ink Sweetheart (print shop): signs guild posters by mouth; the portraits sign themselves at night.
+- The Gauge Widow (decompression chamber): keeps the chamber's pressure by kissing the gauge; it exhales her late husband's breath.
+- The Straw Fiancée (wheat field): betrothed to the scarecrow; the field sows itself in rows of mouths.
+- The Rail Kisser (subway car): kisses the handrails awake; her lip-prints board trains alone.
+- The Block Darling (milliner's workshop): kisses hat-blocks to shape; one dreams of her skull.
+- The Mouthpiece Clerk (courtroom): the record machine testifies only to what it has kissed; it now testifies in her voice.
+- The Lane Sweetheart (bowling alley): the ball's slit-mouth tastes the lane-keeper before a league; it calls strikes in whispers.
+- The Jaw Nun (sacristy): Sister Hedvig Aal, above.
+- The Seam Bride (hotel elevator): marries the doors nightly; they now close on other women's kisses.
+- The Pillow Widow (railway platform): Agnete Brandt, above.
+
+THE TESTING (bite; teeth as scales):
+- The Rind Matron (cheese cellar): bites each wheel's temper; one wheel weeps her name.
+- The Tube Nurse (abandoned hospital ward): keeps IV stands alive by biting the tubing; one feeds itself to her.
+- The Sugar Dare (carnival midway): candy apples are oracles; an apple has bitten and not let go.
+- The Spine Librarian (library stack): shelves books by taste; a banned spine follows her home.
+- The Hide Taster (tannery): certifies leather by incisor; one hide flushes at her shadow.
+- The Milk-Ice Daughter (ice house): bites frozen milk stalactites to wake the thaw; they grow toward her mouth.
+- The Wick Bite (candle workshop): tests each candle's temper; one wick enjoys it.
+- The Pod Warden (seed vault): seeds are licensed by lip-clamp; one pod has held for nine days.
+- The Rope Sister (lighthouse gallery): bites the mooring ropes; the rope chews her dreams.
+- The Smile Keeper (backstage wing): Fenna Kolb, above.
+
+THE DRAW (suck; suction as tax):
+- The Udder Keeper (apiary): draws the hive-frame's wax udder; it dreams of her mouth.
+- The Spigot Saint (pump house): the town's first water is hers by right of throat; the pump runs warm at her approach.
+- The Milk-Cap Picker (mushroom cellar): nurses the caps; one nurses her.
+- The Cork Widow (wine cellar): the barrel pours only for a suckled kiss; one barrel saves its best for her ghost.
+- The Mercury Clerk (radio bench): draws the tubes' silver; one sighs her initials.
+- The Alembic Daughter (perfume distillery): certifies oil by throat; the oil climbs the glass toward her even when cold.
+- The Pomace Sweetheart (cider press): the press-heart beats only while she draws; it keeps her rhythm when she is away.
+- The Steam Stoker (boiler room): swallows excess steam; the pipes steam in her sleep.
+- The Pipe Blower (organ loft): breathes the organ's tin lip; one pipe holds her breath hostage.
+- The Fig Darling (humidor): Griet Wexel, above.
+
+THE CLEANSING (bath; liquid as guild property):
+- The Milk Bather (creamery vat hall): bathes in the vat she keeps; the vat sours when strangers enter.
+- The Black-Water Widow (abandoned bathhouse): living soap bars lather only for the grieving; one lathers before she arrives.
+- The Mud Debt (tidal mudflat): pays her family's debt in skin, a coat each month; the tide takes in the shape of her.
+- The Rain Clerk (rooftop water tank): records the city's rain on her back; the rain writes in a new hand.
+- The Flour Bride (flour mill loft): basted in flour each season; the dust settles only on her side of the bed.
+- The Brine Sister (pickle cellar): bathes so the barrels remember salt; one barrel weeps fresh.
+- The Lye Darling (soapboiler's workshop): the foam must hold her like a hand; it holds her after the bath ends.
+- The Duckweed Nun (forest pond): seals the pond's skin each dusk; the film seals over her reflection only.
+- The Starch Clerk (laundry steam tunnel): condenses steam on her spine; the steam beads in letters.
+- The Holy-Water Widow (flooded chapel): floats on saints' days to keep the water holy; the water darkens toward her even in drought.
+
+THE SPRINGING (bounce; rebound as warranty):
+- The Mattress Widow (mattress workshop): horsehair must hold her print; one mattress holds her print without her.
+- The Net Mother (net-mending loft): nets are tested by her weight; one returns her smell.
+- The Coil Sister (rope factory): wakes coils by bounce; one squirms toward her bunk.
+- The Fleece Bride (wool-sorting barn): sprung from the mound each shearing; the mound springs her shadow.
+- The Bellows Darling (bellows workshop): the forge's breath is hers to bounce; the bellows exhale when she sits still.
+- The Membrane Clerk (rubber workshop): cured skin must print her; the prints arrive before she bounces.
+- The Late Floor (rehearsal studio): the sprung floor owes her a half-second; it delays her reflection further each night.
+- The Stuffing Matron (upholstery workshop): the chaise's hair must rise like fingers; the fingers count her visits.
+- The Hop Sweetheart (hop kiln): hops must shed for her petticoat; the leaves shed in her absence.
+- The Hammock Widow (hammock warehouse): the weave must ripple her whole length; one ripples when she is across the room.
+- The Spring Duster (spring factory): the coil forest must ripple outward; the coils ripple in her heartbeat's rhythm.
+
+THE FILLING (graft; chest as the guild's vault):
+- The Saline Novice (surgical amphitheatre): first filling, the funnel is the Founder's copper; the saline runs uphill toward her.
+- The Butter Bride (butter room): filled with the season's first butter; the butter churns itself warm at her approach.
+- The Slip Potter (pottery workshop): clay-set fill, the kiln's collateral; the slip sets in the shape of hands.
+- The Tallow Worker (rendering house): stiff fill for hard seasons; the tallow melts only for her fever.
+- The Amber Clerk (sugarhouse): syrup fill hardened to gloss, audited for shine; the gloss sweetens the air.
+- The Glass-Bosom Daughter (hourglass workshop): sand fill that ticks, the guild's clock; the ticking runs ahead of the town bell.
+- The Bladder Stitcher (bladder workshop): drum-taut fill, the guild's drum in processions; it beats its own rhythms.
+- The Fizz Sister (siphon cellar): carbonated fill, skin must sing small bubbles at inspection; the fizz spells in bubbles.
+- The Cocoon Darling (silk-reeling shed): soft silk fill; the cocoons hatch in dreams only.
+- The Oil Matron (olive press house): heavy glossy fill, the amphora is her dowry; the oil swings toward her voice.
+- The Batting Widow (taxidermy workshop): cotton fill stitched by her own needle, the glass eyes witness the closing; the batting fluffs in her grief.
+
+The Bonded Beasts (mammalian, tailless, bred from Founder flesh, chained by their own choice): the Bilge Bride's husband in the beached submarine, and Old Ballast on the treaty beach.
+
+Other background (one line each):
+- A porter who chalks the platform board and swears the Lips are listening.
+- A gang of children who tickle the stairs of the Odeon awake and run away.
+- A guild courier who counts the Auditors' road-carts by the sound of their wheels.
+- A widow who hawks tea from a barrow on the platform.
+- A bone-yard dog that only sits on retired surfaces that are not quite dead.
+
+RELATIONSHIPS
+
+(Built by direction.)
+
+- Agnete and Fenna: neighbors since girlhood; they share tea on the platform before the first train and bicker over whose job is more theatre. Agnete appreciates Fenna's nerve and misreads her stage-fright as vanity; Fenna adores Agnete's calm and misreads her patience as indifference. Usable form: Agnete leaves a cup of tea on the stage-door ledge each morning.
+- Agnete and Hedvig: the Pillow Widow absolves the Jaw Nun's loneliness with small talk; Hedvig loves Agnete's order; Agnete worries Hedvig is too thin. Usable form: they sit together on the platform bench at dusk and say nothing.
+- Fenna and Ilse: old school rivals; Fenna thinks Ilse is a robot, Ilse thinks Fenna is a fire alarm. Beneath it, Ilse has quietly mended Fenna's case lock for years. Usable form: a watch Ilse repairs for Fenna each spring.
+- Fenna and Hedvig: Hedvig is Fenna's confessor; Fenna tells her everything except the Smile. Usable form: Fenna brings the Jaw Nun cake.
+- Ilse and Griet: Ilse trades repairs for figs; Griet teases Ilse about her loneliness; Ilse wants to know what Griet is hiding. Usable form: a standing Friday supper at the humidor, with Ilse eating in silence.
+- Griet and Sennet: they met over a story and a fig seed; Griet sees a friend; Sennet sees an ally with a debt. Usable form: letters in the Provinces' tongue, sent by the beach ferry.
+- Hedvig and Marit: the Jaw Nun and the Crow's Darling share a quiet understanding about absolution and remarriage; both fear what their relics might choose. Usable form: Marit brings a feather to the sacristy.
+- Pim and Agnete: Pim has been measuring her platform for a week and is secretly embarrassed by the readings. Usable form: Agnete gives him tea and he cannot refuse.
+- Casimir and Rask: old partners in keeping the debt open; they trust each other less than they used to.
+- Sennet and Old Ballast: companionship, grooming, long evenings on the black rock; she calls him a wall that listens.
+
+Tensions among key characters (the spine presses these): Ilse wants the books closed until she knows, and Griet wants the seeds planted now; Agnete wants the relics to travel and Fenna wants the Smile to stay; Hedvig wants the relics given to the Parish, and the Guild and the Auditors want them kept in their cases.
+
+Ways ties can change (possibilities, not milestones): new permissions (Agnete lets a stranger kiss the Lips; Griet lets a guest taste the Fig); shared practices (the silent play, the Friday supper); practical reliance (a train journey, a night in the vault); changed boundaries (Ilse opens the bench; Hedvig shows the Jaw to a friend).
+
+WORLD AND DAILY LIFE
+
+NOW:
+- A tool is a living thing grown from the Founder's flesh and fitted to a trade. A keeper is the one adult bonded to a tool, one keeper to a tool.
+- A rite is the daily act that wakes a tool: laughter (Quickening), tasting (Tasting), a kiss (Bonding), a bite (Testing), suction (Draw), a bath (Cleansing), a bounce (Springing), or a filling (Filling).
+- A relic is a piece of the Founder's body. There are seven: the Ear, the Hand, the Lips, the Smile, the Molars, the Jaw, and the Fig.
+- The Concordat of the Wet Trades is the compact that binds keepers and tools. The Guild of Living Tools grows, sells, and audits them. The Dry Auditors measure silence and shine.
+- A filler is something put into a keeper's body (a seasonal graft). It belongs to the Guild until the keeper's debt is paid, and no keeper's debt has ever been paid.
+- The Silence is the rule of the rite: no speaking. Laughter, gasps, and tears are lawful.
+- The bone-yard is where failed tools and surfaces are retired.
+
+Daily life: The Coast rises at dawn to the sound of laughter. Rites are done before breakfast, in workshops open to the street so passers-by can hear the tool wake. Guild scrip pays for bread and fish. Keepers wear small badges for their trade. Tea is the Coast's national drink. People greet each other by saying "weathered?" (are you well?) and answering "gray and holding."
+
+Customs: keepers' gatherings at the "Quiet Table" on the first of the month, where no one speaks and everyone eats; the blessing of the platform each season; the Auditors' fanfare (a single drum); marriages are signed in lip-print; funerals are held in silence.
+
+Technology: coal, steam, gas flame, telephone exchanges, radio tubes, subways, trains, bowling alleys. No electric glow: nothing glows that is not burning.
+
+The Dry Provinces: a dry upland land of terraces, aqueducts, and elf lords, with whom the Coast trades salt for fruit, spice, and treaties. The Coast fears their longevity and respects their gardens.
+
+SOON: The Eight Couplings in detail; the Quiet Table; the Guild's debt ledger; the Parish's sea-tongue.
+
+LATER: The treaty's text; the Founder's clauses; the shine tables; the elf trade-wife's true condition.
+
+PLACES AND ROUTES
+
+THE GRAY COAST. A line of eighty-two worksites from Wrack Quay to the treaty beach.
+- Function: a trade-coast of salt flats, fish markets, and workshops.
+- Signature: gray light, salt wind, laughter at dawn, the smell of wet wool and hot tea.
+- Architecture and conditions: low brick and slate buildings with open workshop fronts, iron signs with lip-prints, rails and platforms; fog every morning, thin sun at noon, rain by evening.
+- Density: crowded at dawn and mid-morning in the markets; quiet in the afternoon.
+- Rhythm: the dawn chorus of laughter, the noon bell, the six o'clock rail, the dusk silence.
+- Oddity: no light but flame, and the tools wake faster in fog.
+
+WRACK QUAY. The Concordat's seat: a harbor town with a rail platform, the guildhall, the Odeon, the church, the clock-house, and the bone-yard headland.
+- Zones (home base): (1) the railway platform; (2) the Odeon's backstage wing; (3) the church sacristy; (4) the clock-house bench; (5) the guildhall humidor vault; (6) the harbor stairs where the carp sleep.
+- Signature: coal smoke, tea steam, damp wool, harbor bells.
+- Architecture and conditions: slate roofs, brick lanes, steep stairs to the harbor, iron railings kissed smooth by a century of hands.
+- Density: busy from dawn to noon; the harbor is full at low tide.
+- Lore: named for the wrack washed up the night the Founder landed; the stairs are said to be the first thing she touched.
+- Something to discover: a lip-print at the foot of the harbor stairs older than the Concordat.
+- Could change: the Auditors' road-cart arrives and parks in the square; the platform board fills with the Lips' schedule.
+
+THE RAILWAY PLATFORM. A long, open platform with a tiled waiting room and a chalk board.
+- Function: where the Lips choose which widows may travel.
+- Signature: iron, soot, tea, the hum of rails.
+- Architecture and conditions: a long canopy on cast-iron posts, benches, a stationmaster's office, a velvet pillow on a stand under glass at the platform's end; sound carries along the tracks, so whispers do not stay private.
+- Density: crowded at dawn and dusk, with commuters; empty at midday.
+- Rhythm: first train at five-forty; the Lips are kissed awake at five.
+- Oddity: the handrails are warm; the Rail Kisser's lip-prints have been seen boarding trains.
+- Regulars: Agnete, the Rail Kisser, the porter, a tea barrow widow.
+- Something to discover: a ticket booth sealed since the line closed.
+- Could change: new trains appear on the board.
+
+THE ODEON AND BACKSTAGE WING. A grand, faded theatre with a deep stage.
+- Zones: (1) the stage; (2) the wings with the Smile's case; (3) the dressing rooms; (4) the prop store; (5) the box seats.
+- Signature: greasepaint, dust, velvet, candle wax.
+- Architecture and conditions: raked stalls, painted boxes, a heavy house curtain; the stage hushes sound; the boxes are warm, the stalls are cold; a draft always blows from stage left.
+- Density: packed on performance nights; nearly empty by day.
+- Rhythm: calls at six; curtain at eight; the Smile is bitten at seven.
+- Oddity: the audience laughs only on the Smile's cue.
+- Regulars: Fenna, the company, the dresser, the ghost light keeper.
+- Something to discover: a trapdoor to a flooded cellar that is the old Opera House's foundation.
+
+THE SACRISTY AND CHURCH OF THE GRAY SEA. A salt-stained stone church with a low bell tower.
+- Zones: (1) the nave; (2) the sacristy with the Jaw reliquary; (3) the bell loft; (4) the cloister; (5) the cord room.
+- Signature: wax, salt, incense, the sound of surf in the walls.
+- Architecture and conditions: thick walls, small windows, a sea-smell that never leaves; whispers carry, loud voices are swallowed; the bell is rung by a cord from the sacristy.
+- Density: sparse; crowded on feast days.
+- Rhythm: the dawn bell, noon prayer, vespers.
+- Oddity: the bell has begun to ring by itself at dawn.
+- Regulars: Hedvig, the Abbess, a handful of sisters, the sexton.
+- Something to discover: seven knots in the cord, one loose.
+
+THE CLOCK-HOUSE BENCH. A narrow workshop behind the town clock.
+- Zones: (1) the bench; (2) the parts wall; (3) the cushion with the Ear; (4) the winding stair to the clock face.
+- Signature: oil, brass, ticking, cold air.
+- Architecture and conditions: a tall brick tower, narrow rooms, a floor that carries tremors; the Ear can hear through the stair.
+- Density: Ilse alone by day, the odd customer.
+- Rhythm: she winds the Ear at midnight; the clock strikes at every hour.
+- Oddity: every clock in the room is slightly off from the others, by design.
+- Something to discover: a ledger of numbers in Ilse's own hand, dated by night.
+
+THE HUMIDOR VAULT. A cedar-lined vault beneath the guildhall.
+- Zones: (1) the antechamber; (2) the Fig's cabinet; (3) Griet's window with the saucers; (4) the cooling room.
+- Signature: cedar, figs, humidity, warmth.
+- Architecture and conditions: arched stone, wooden shelves, warm damp air that fogs glass; sound is soft; the temperature is constant.
+- Density: Griet alone, plus visitors on Friday.
+- Rhythm: she feeds the Fig at dawn.
+- Oddity: the vault is the only warm place in the guildhall.
+- Something to discover: a seed that has sprouted in the grout.
+
+THE TAXIDERMY WITNESS-WALL. A workshop in the old customs house, where the Batting Widow stuffs and mounts witnesses to contracts.
+- Zones: (1) the workshop; (2) the wall of mounted witnesses (a dozen animals in formal poses with glass eyes); (3) the back room with the Founder's treaty case.
+- Signature: cotton, glue, glass, thread.
+- Architecture and conditions: high windows, hanging lights of flame, a long bench; glass eyes catch the light; the room is quiet and cool.
+- Density: nearly empty.
+- Rhythm: contracts are witnessed on Tuesdays.
+- Oddity: the witnesses' eyes follow whoever speaks.
+- Regulars: the Batting Widow, clerks.
+- Something to discover: the eleventh witness has a pocket stitched shut.
+
+THE BEACHED SUBMARINE. A rusted iron submarine drawn up on the shingle.
+- Zones: (1) the conning tower; (2) the torpedo room (the Beast's lair); (3) the galley; (4) the shingle.
+- Signature: rust, kelp, oil, wet fur.
+- Architecture and conditions: iron decks, narrow hatches, water in the bilge; the hull rings with every footstep; the Beast fills the torpedo room.
+- Density: Dorte and her husband; visitors on feast days.
+- Rhythm: tide-driven.
+- Oddity: it has not floated since the Founder's time.
+- Regulars: Dorte, her husband, the gulls, a boy who brings fish scraps.
+- Something to discover: a sealed torpedo hatch that is warm to the touch on the side facing the sea.
+- Could change: the chain is renewed; the hull groans when the tide turns.
+
+THE TREATY BEACH OF BLACK ROCK. A long, black shingle beach where the Coast meets the Dry Provinces.
+- Zones: (1) the Black Rock Halt (a ruined station); (2) the embassy tents; (3) the black rock where Sennet sits; (4) the tide line.
+- Signature: black rock, salt, dry wind from inland, the sound of chains.
+- Architecture and conditions: cold, open, windy; the rock holds heat from the sun for hours after dusk; voices carry on the shingle.
+- Density: sparse.
+- Rhythm: tidal; the embassy sits at noon.
+- Oddity: the rock rings when struck.
+- Regulars: Sennet, Old Ballast, the embassy's envoys, a ferryman who carries letters.
+- Something to discover: seven shallow hollows in the rock, each the size of a relic.
+- Could change: a tree grows in a hollow; the embassy moves its tents inland; the Coast builds a border post.
+
+THE BONE-YARD. A headland field above Wrack Quay where retired tools and surfaces are buried.
+- Zones: (1) the gate; (2) the mattress rows; (3) the net-loft heaps; (4) the keeper's hut; (5) the headland edge.
+- Signature: wet earth, horsehair, rope, wind.
+- Architecture and conditions: open ground with low mounds, wooden markers, gulls; quiet; sound is swallowed by the wind.
+- Density: empty most days; crowded on retirement days.
+- Rhythm: retirements on the first Thursday of the month.
+- Oddity: some of the mounds breathe.
+- Something to discover: a row of markers with no names, for tools that were retired by the Auditors without a ceremony.
+
+THE FLOODED CHAPEL NAVE (inland, half a day by cart). A drowned stone church whose floor is under knee-deep water that floods higher on saints' days.
+- Signature: stone, cold water, candle smoke.
+- Oddity: the water darkens toward the Holy-Water Widow even in drought.
+- The pull: Hedvig says the Jaw prays hardest here. A glimpse from Wrack Quay: pilgrims return from it with wet hems and a quiet look. The way: the Inland Track, half a day by cart. Who would go: Hedvig, the Holy-Water Widow's friends, a sexton.
+
+THE SPRING FACTORY FLOOR (inland, a day by train). A cavernous hall full of upright steel coils, rippling.
+- Signature: oiled steel, a faint metallic hum.
+- Oddity: the coil forest ripples in the Spring Duster's heartbeat.
+- The pull: the only place where the Concordat's silence is visibly broken by a whole room moving at once. A glimpse from Wrack Quay: the Guild's beds are delivered with a faint ripple under the quilt. The way: a day by train on the Coast Line. Who would go: Pim, a tool-grower, anyone curious about the beds.
+
+ROUTES AND DESTINATIONS
+
+- The Coast Line: the single railway along the Gray Coast. The old branch to the Black Rock Halt closed before Agnete was born; it crosses a flooded causeway that is passable at low tide, and would be a day by train if it were running.
+- The Harbor Road: cart and foot from Wrack Quay to the bone-yard and the submarine; half an hour.
+- The Inland Track: to the flooded chapel and spring factory; half a day by cart; salt flats and dry reeds.
+- THE OLD OPERA HOUSE (headland, one hour on foot). Glimpse from home: its cracked dome is visible on the cliff. The pull: Fenna's dream and the first Smile's birthplace. The way: a cliff path in bad repair. Who would go: Fenna, the company. Something to discover: a stage floor sprung to bounce a person to the ceiling.
+- THE AUDITORS' GAUGE HOUSE (inland, half a day). Glimpse from home: the Auditors' road-cart returns there each week. The pull: the shine tables. The way: a guarded gate; a clerk's pass. Who would go: Pim, Ilse. Something to discover: a shelf of shine tables that no clerk has been asked to total.
+- THE FIG TERRACES OF THE DRY PROVINCES (beyond the treaty beach, days). Glimpse from home: a fig tree on the far side of the beach, in the Provinces. The pull: Griet's mother's grave. The way: the embassy's permission. Who would go: Griet, Sennet.
+
+READER ORIENTATION
+
+NOW facts for the first scene: the platform at dawn; the Lips on their pillow, reciting; the Pillow Widow trying to wake them again; the junior clerk with the hush-gauge; the dawn chorus of laughter from the town; the gray light; the protagonist's role.
+CARE material: Agnete has kissed the Lips three times this morning and they keep reciting; Pim's gauge needle is shaking; the board is half chalked.
+Who can naturally explain what:
+- Agnete explains the Lips and the platform.
+- Pim explains the hush-gauge.
+- Fenna explains the Odeon, the Smile, and the town's gossip.
+- Hedvig explains the Parish.
+- Ilse explains the Ear (reluctantly).
+- Griet explains the Fig and the Provinces.
+- Ludo explains the bone-yard.
+Definitions are in WORLD AND DAILY LIFE.
+
+OPENING OR RESUME SITUATION
+
+Premise card material:
+- The world: the Gray Coast is a long, foggy shore where every trade is a body-rite and every tool is alive. A Founder's relic spoke this morning, and no one is saying what it said.
+- Who you are: an adult of the Coast, with a trade, a lodging, and your own reasons to be on the railway platform at dawn.
+
+Place and time: the railway platform at Wrack Quay, dawn on an early-autumn morning. Gray light, damp, the dawn chorus of laughter rising from the town as tools are woken.
+
+Protagonist position and activity: the protagonist has come to the platform on a trade errand or to catch a train. The Pillow Widow is mid-rite, kneeling at the Lips' pillow; she has done it three times and the Lips have recited a timetable each time. A junior Auditor's clerk is trying to measure the silence.
+
+Foreground people: AGNETE BRANDT (Pillow Widow) and PIM OORT (junior Auditor's clerk).
+
+Role starts (how the protagonist is placed; the player may change them): an apprentice carries her keeper's tea-tin; an Auditor's clerk carries the second gauge; a tool-grower carries a covered cage; a sexton carries a candle-stub for the platform blessing; a Dry Provinces attaché carries a satchel of figs; a bone-yard hand carries a spade; a newcomer carries a travel bag.
+
+Directions available (none urgent, none accepted):
+- The platform board, where the porter is chalking the Lips' timetable: a train at four-forty, a halt that is not on the map, a seat marked "unclaimed."
+- The Odeon's stage door, where Fenna is rehearsing a silent comedy and calling for volunteers to play the audience.
+- The church sacristy, where the dawn bell has just rung without anyone touching the cord, and Sister Hedvig kneels before a jawbone that is moving its lips against the glass.
+
+Anchors: the Lips reciting; the hush-gauge needle; the warm handrails; a lip-print on the carriage door; a sealed ticket booth.
+
+No scripted reaction and no menu.
+
+UNDERTAKINGS
+
+All five are invitations. Each can be ignored at no cost. None is handed over unprompted. None involves paperwork or errands.
+
+1. THE LIPS' TRAIN (spine)
+- Promise: ride a night train that is not on any timetable, to a station that has been closed for fifty years.
+- Why the protagonist: the Lips have named one seat and left it "unclaimed," and the carriage will carry only a person who owes the Guild nothing and holds no tool. Almost every adult on the Coast holds a tool or a debt, so such a person is rare, and the Lips have been waiting for one. An unbonded apprentice, a sexton, a newcomer, or an Auditor's clerk can be that person; a bound keeper cannot.
+- The ask: none. The porter chalks the timetable; the seat is simply marked "unclaimed."
+- Participants: Agnete (as stationmaster), the Rail Kisser, the Lips, Sennet at the end.
+- Entry: the platform at four-forty in the small hours of any morning the protagonist chooses to come.
+- Set piece: the night train crossing the flooded causeway, handrails warm to the touch, flame lamps swaying, the Lips reciting stations in the dark, the black beach rising ahead.
+- Middle stages: (1) read the Lips' timetable with Agnete and learn it is a procession order, not a route; (2) find which carriages the lip-prints board; (3) ride, and meet whoever else is aboard; (4) arrive at the Black Rock Halt and the tide.
+- The turn: the stations are the seven relics in order, and the train is carrying the Founder's clauses home.
+- Opposition: the Auditors' road-cart, the Guild's permits, the tide, the Rail Kisser's moods.
+- Approaches: ride the train; walk the old line; send a message by the Rail Kisser's lip-prints.
+- Peak and ending: the protagonist, face to face with the Lips, decides who sits in the seven seats. Success: the train runs, the relics ride, and the Auditors cannot stop it. Partial: some relics board. Failure: the train stalls on the causeway.
+- Payoff: a ride to the end of the line and a place at the treaty beach. Moves the spine.
+
+2. THE SILENT PLAY (spine/performance)
+- Promise: stage a full comedy in total silence, with the Founder's Smile as the lead.
+- Why the protagonist: the Smile will perform only for an audience that keeps the Silence, and the protagonist is outside every Guild and Parish quarrel, so Fenna can trust their reaction. A performer, clerk, or sexton brings a different skill: timing, record, or ritual.
+- The ask: none. Fenna is recruiting a house, not asking a favor.
+- Participants: Fenna, her company, the dresser, the Smile, an audience.
+- Entry: the Odeon stage door.
+- Set piece: the Odeon full, every seat taken, a hundred people holding their breath and laughing without a sound, the Smile in its case at the center of the stage, smiling.
+- Middle stages: (1) learn the play with Fenna and the company; (2) build the house, which decides who sits where; (3) the dress run, where the Smile wakes on its own; (4) the performance.
+- The turn: the Smile is not early; it is answering the audience.
+- Opposition: Fenna's nerves, the Auditors' hush-gauge, the Guild's licence.
+- Approaches: perform, run the house, or guard the stage door.
+- Peak and ending: the protagonist decides whether the Smile bows. Success: the house laughs silently and the Smile bows alone. Partial: the house breaks into speech. Failure: the Auditors stop the show.
+- Payoff: a public turning, and a Smile that now bows.
+
+3. THE WITNESS-WALL (spine/investigation)
+- Promise: find the last page of the Founder's treaty.
+- Why the protagonist: the witnesses were stuffed so they could never take a side, and they surrender a sealed page only to a reader with no stake in the debt: no tool, no filler, no wage owed to the Guild. The role gives an edge: a clerk reads the seal, a sexton reads the Parish hand, an attaché reads the Provinces' script, a bone-yard hand knows how to open a stitched seam without tearing it.
+- The ask: none; the eleventh witness has a pocket stitched shut, visible to anyone who looks.
+- Participants: the Batting Widow, the Seal Licker, Ilse (the Ear's sums), Pim (the shine tables).
+- Entry: the old customs house.
+- Set piece: the wall of mounted witnesses, a dozen glass-eyed animals in formal poses, with their eyes following whoever speaks.
+- Middle stages: (1) see the stitched pocket; (2) get the Seal Licker to soften the seal; (3) match the page to Ilse's whispered sums; (4) read it.
+- The turn: the treaty says the Concordat ends when the books balance, and the books balanced years ago.
+- Opposition: the Auditors, Rask, Casimir, the witnesses' glass eyes, which tell the truth.
+- Approaches: through the Seal Licker, the Batting Widow, or the Gauge House.
+- Peak and ending: the protagonist decides who hears the last page: the Guild, the Parish, the Coast, or no one. Success: the page is read aloud in front of the relics. Partial: it is read in secret. Failure: the Auditors take it.
+- Payoff: the central answer, and the leverage to act on it.
+
+4. THE BEAST'S WEDDING (set piece/social)
+- Promise: attend the anniversary of Old Ballast's chain on the treaty beach.
+- Why the protagonist: the chain-choosing needs one witness who holds no tool and owes no debt under either the Concordat or the treaty. The embassy has none to spare, the Guild's own witnesses are all bound, and a visiting attaché can serve by stepping out of the embassy's service for the day.
+- The ask: none; the ceremony is open.
+- Participants: Sennet, Old Ballast, the embassy, Griet, Dorte, the guild's chain-maker.
+- Entry: the black beach at noon.
+- Set piece: the beach in gray light, a great beast in a garland of kelp and flowers, a chain of black iron laid across the shingle, the embassy's tents, the wedding drum, the rock ringing underfoot.
+- Middle stages: (1) the arrival and the embassy's dinner; (2) the choosing of the chain; (3) the vow in silence; (4) the walk along the tide line.
+- The turn: Sennet is not pregnant. She is keeping a fig seed in a pouch under her cloak, and the wedding is where it gets planted.
+- Opposition: the Auditors, the embassy's cautious elders, the Guild's chain-maker.
+- Approaches: join as a guest, serve as a neutral witness, carry the garland.
+- Peak and ending: the protagonist decides whether to help plant the seed. Success: the seed is planted in one of the seven hollows in the black rock, packed with Provinces earth. Partial: the seed is carried off. Failure: it is lost.
+- Payoff: a place at the Provinces' table and a seed that will grow.
+
+5. THE RETIREMENT (local)
+- Promise: carry a retired mattress to the bone-yard in the monthly procession.
+- Why the protagonist: any pair of hands will do, but the bone-yard keeper, Ludo, gives the front pole to someone who has no stake in the failure. A bone-yard hand knows the route.
+- The ask: none; the procession forms in the square.
+- Participants: Ludo, the Mattress Widow, the pall-bearers, a brass band of three.
+- Entry: the square at dusk on the first Thursday.
+- Set piece: the bone-yard at sunset, a field of tired furniture breathing softly, the wind through the horsehair, a quiet band, the keeper reading names.
+- Middle stages: (1) join the pall-bearers and learn the route; (2) carry the mattress up the headland stair; (3) lay it in the earth; (4) stay for the wake.
+- The turn: some of the buried are not dead; they are listening.
+- Opposition: grief, wind, and the Auditors' new rule against ceremonies.
+- Approaches: carry, play, or mourn.
+- Peak and ending: the protagonist decides whether the mattress is buried, or kept.
+- Payoff: Ludo's trust and a tired tool that remembers you. Local, with a link to the spine.
+
+Slate variation: travel and set piece (1), performance and coordination (2), investigation (3), ceremony and social (4), ritual and community (5). Information varies from clear to concealed; participation from navigating to performing; structure from linear to leads-in-any-order.
+
+EVERYDAY LIFE AND LOCAL MOMENTS
+
+- The dawn chorus: the whole town laughs as the tools wake; children run through the lanes to hear it.
+- The Quiet Table: a monthly supper in total silence; the clink of cutlery is the music.
+- Tea on the platform from the widow's barrow; the first cup is always for the stationmaster.
+- The Odeon's matinee for tool-handlers; the audience brings their tools to watch.
+- The carp that sleeps on one lap; people queue to hold it.
+- The bone-yard dog's rounds.
+- The Friday supper in the humidor; Ilse eats in silence.
+- The Auditors' drum, heard from three lanes away.
+- Marit's feather game: she lets children guess which widow it will land on.
+- A quarrel between the Rail Kisser and the Seam Bride about whose door closes more softly.
+
+STORY_SPINE (SPOILERS: ENGINE USE)
+
+THE PLEASURE
+The player gets to live in a funny, sensuous, uncanny trade-world and decide what the tools are allowed to say. The actions that deliver it: befriending keepers; learning their rites as craft; riding the train; staging the silent play; reading the treaty; witnessing a wedding; choosing who speaks.
+
+THE BIG QUESTION
+The Concordat's tools have started to act before their keepers. What is the Concordat actually owed, to whom, and what happens when the books finally balance?
+
+Central situation: a debt economy built on bodies, a Founder whose remains are waking, and a ledger no one dares add up. Most key characters care about it and want it to become different things.
+
+No-pressure test: there is no deadline. The relics wake at their own pace, the Auditors come up the coast at theirs, and nothing the engine plays is on a schedule. The question stands because the world is strange and the people are alive.
+
+Endings: the books can be declared balanced, hidden, rewritten, or ignored; the tools can speak, keep silent, or leave; the keepers can keep the rites or stop; the Founder can come home, be buried, or be planted. All are possible.
+
+FORCES IN MOTION
+
+1. THE LEDGER (the Guild and the Dry Auditors). Goal: keep the debt open. Reasons: the Guild's wealth and the Auditors' office both depend on a debt that never closes; the Master and the Chief Auditor know the principal was paid nine years ago. Means: the audit of shine, the shine tables, the bone-yard retirements, the hush-gauge, the licenses. Next moves: the road-cart reaches Wrack Quay; the Auditors announce a new measure of gloss; the Guild quietly retires keepers whose tools speak. Large world changes: new licences, a drum in the square, a rule against silent play. Faces: Casimir Pell, Bartholomeus Rask, Pim Oort (the doubter).
+
+2. THE RELICS (the Founder's clauses). Goal: to finish the contract. Reasons: the Founder pledged her body piece by piece as collateral for the Coast's debt, with a last clause that frees the pieces when the books balance. Means: the seven relics' waking, speaking, gripping, praying, hearing, and seeding. Next moves: the Molars warm further; the Hand grips a widow; the Ear says the sum aloud; the Jaw prays the Founder's name; the Fig seeds more. Large world changes: relics begin to travel by themselves; the platform board fills; the Smile bows. Faces: Agnete, Fenna, Hedvig, Ilse, Griet, Marit, Wiebke.
+
+Minor players: the Parish of the Gray Sea (the Abbess wants the Jaw back from the Guild's cases and will say so quietly to anyone who listens); the keepers at the Quiet Table (who gossip faster than the Auditors can measure).
+
+3. THE DRY PROVINCES. Goal: recover the Founder's seed. Reasons: the treaty gives the Provinces the Founder's heirs, and the Fig is her heir. Means: the trade-wife, the embassy, the black beach. Next moves: an embassy arrives at the beach; Sennet asks for a ferry; the Provinces lodge a claim. Large world changes: a new border post; a fig tree on the Coast side. Faces: Sennet Averil, the embassy's envoy.
+
+REVELATIONS
+1. The debt is paid. The Founder's principal was cleared nine years ago, and the Auditors' shine tables record the overpayment. Evidence: the Ear's whispered sums, which resolve to zero; the last treaty page in the eleventh witness's pocket; the Auditors' shine tables, which taper to nothing; the Seal Licker's forbidden contracts; Pim's gauge, which has been reading wrong.
+2. The relics are the Founder's clauses, waking in order. The Smile is assent, the Lips are passage, the Ear is accounts, the Hand is refusal, the Molars are assay, the Jaw is absolution, and the Fig is heirs. When the debt is paid, the relics walk home to the treaty beach. Evidence: Agnete's timetable lists seven stations that match the seven hollows in the black rock; the Hand grips; the Jaw's prayer names the Founder; the Fig's seeds.
+3. The last clause ends the Silence. When the books balance, every tool may speak and every keeper may answer. The Silence of the Trade was the Founder's way of keeping the contract private, not of keeping the tools quiet. Evidence: the treaty's last page; the Smile answering the audience; the Lips speaking aloud during a rite, which voids their own contract (the first coupling to void itself, on purpose); the Auditors' habit of measuring silence, which is how they know when the first tool will break it.
+4. The trade-wife is not pregnant. Sennet keeps a Fig seed, the Founder's heir, in a sealed pouch under her cloak and rests a hand over it, which started the rumor. Evidence: Griet's secret; the Provinces' interest; the pouch itself; the wedding's planting rite.
+
+KEY CHARACTERS' GOALS, STANCES, ARC QUESTIONS, SECRETS
+- Agnete: wants to know what the Lips are saying; secret: they named her husband; arc question: can she let the Lips go? Brought out by: the train.
+- Fenna: wants to keep the Smile; secret: it mimics her face; arc question: can she share a stage with her own prop? Brought out by: the silent play.
+- Hedvig: wants the Jaw to belong to the Parish; secret: the Jaw prays the Founder's name; arc question: will she speak what she hears? Brought out by: the nave or the Abbess.
+- Ilse: wants the books closed until she knows; secret: the sum is zero; arc question: can she trust a number she cannot check? Brought out by: the treaty page.
+- Griet: wants to plant a seed; secret: she gave one to Sennet; arc question: will she let go of what she has grown? Brought out by: the wedding.
+- Marit: fears the Hand is choosing for her; arc question: who decides whom she may marry? Brought out by: a suitor.
+- Wiebke: wants the Molars' warmth explained; arc question: is warm good or bad? Brought out by: an assay.
+
+Likeable: Agnete (tea and calm), Griet (feast), Fenna (generous), Dorte (funny). Working against the protagonist: Casimir (if they threaten the books), Rask (if they threaten the Guild), Ilse (if they interrupt), some Parish elders.
+
+PROTAGONIST ARC QUESTION
+What does the protagonist want to be bound to, if anything: a tool, a person, a trade, a debt, a silence, or nothing at all? The engine asks for the protagonist's goal if none is given, and never decides the answer.
+
+ROOM TO GROW
+A reputation as the Coast's witness; a trade of the protagonist's choosing; a bed in the humidor or the platform office; a seat at the Quiet Table; a place at the Provinces' table; a say in what the tools say.
+
+SIDE PLOTS
+1. Marit and the Hand: from a suitor to the Hand's grip to a choice. Possible developments: the Hand refuses her suitor; the Hand grips a stranger; the Hand opens; she remarries on her own terms. Crosses the spine through the Hand.
+2. Pim's gauge: from a trembling needle to a second gauge to a refusal. Possible developments: Pim shows the protagonist the readings; he is reassigned; he quits; he becomes an ally. Crosses the spine through the Ledger.
+3. Wiebke and the Molars: from warmth to a taste to a decision. Possible developments: the Molars heat a kettle; they bite; they are carried to the beach. Crosses the spine through the relics.
+Reserve:
+- The Ink Sweetheart's self-signing portraits.
+- The Seal Licker's forbidden contract.
+- The Fizz Sister's bubbles spelling.
+- Dorte and Old Ballast's anniversary.
+- The Pod Warden's nine-day pod.
+
+PHASE SKETCH (possibilities)
+Discovery: meeting the keepers and hearing the relics. Engagement: following one of the undertakings. Turn: the debt is paid. Rising stakes: the Auditors arrive in force and the relics move. Climax: the train, the play, the wedding, or the reading. Resolution: the Silence ends or is kept.
+
+LANDMARKS
+1. The Silent Play: the Odeon; Fenna, the Smile, the house; brought about by the protagonist's help with the house; what becomes possible: a public turning; the world after: the Smile bows and the Coast sees it.
+2. The Night Train: the Coast Line; Agnete, the Lips, the carriages; brought about by the protagonist sitting in the unclaimed seat; what becomes possible: the relics travel; the world after: the old line runs.
+3. The Wedding: the black beach; Sennet, Old Ballast, Griet; brought about by the protagonist attending as neutral witness; what becomes possible: the Fig is planted; the world after: a tree grows on the border.
+
+DEVELOPMENT STOCK (non-urgent changes the world goes through)
+1. The Auditors' road-cart reaches the next town down the line.
+2. The Smile wakes earlier each night.
+3. The porter chalks another station on the platform board.
+4. The Hand grips a stranger.
+5. A new batch of fig seeds sprouts in the vault.
+6. The Odeon's matinee sells out.
+7. The Molars heat a cup of water.
+8. The hush-gauge needle stops moving.
+9. The bone-yard's mounds breathe a little harder.
+10. A fig tree is seen on the Provinces' side of the beach.
+11. Children start laughing in the dawn chorus before the tools do.
+12. A new rule from the Guild is posted and ignored.
+
+SEEDS AND PAYOFFS
+- The sealed ticket booth on the platform → the old line's ticket stub.
+- The loose knot in the Parish cord → the seventh relic.
+- The eleventh witness's stitched pocket → the treaty's last page.
+- The seven hollows in the black rock → the relics' places.
+- The unclaimed seat on the Lips' timetable → the protagonist's place.
+- The Ear's counting → the sum of zero.
+- The Smile mimicking Fenna → the Smile's own face.
+- The fig seeds on Griet's windowsill → the tree on the border.
+
+ON-PAGE ANCHORS
+In the first scenes: the Lips reciting; the shaking hush-gauge; the warm handrails; a lip-print on a carriage door; a half-chalked board; the dawn chorus; a bell that rang unpulled.
+
+CURRENT PHASE: Discovery. The first morning the Lips have spoken.
+
+KNOWLEDGE AND OPEN QUESTIONS
+
+Claims versus facts:
+- The Guild claims the debt is large and unpaid. The Auditors claim the shine is declining. The Coast believes the relics are sick. None of these is confirmed.
+- Tools do not lie; they cannot. Keepers sometimes do.
+
+What the protagonist knows at the start: public rumor and what their role gives them. They know the Lips have spoken, the Auditors are coming, and the tools are restless. They do not know why.
+
+Hidden truths not covered above: the Founder's remains are in the black rock beneath the beach; the seven relics belong to one body.
+
+Builder's proposals (the source files leave these open; the packet fixes them as replaceable defaults): that the debt is paid; that the relics are the Founder's clauses; that the last clause ends the Silence; that the trade-wife carries a fig seed. Also invented here: the character names (Agnete Brandt, Fenna Kolb, Hedvig Aal, Ilse Dreyer, Griet Wexel, Marit Skov, Wiebke Tann, Casimir Pell, Pim Oort, Bartholomeus Rask, Sennet Averil, Dorte Hyll, Ludo Fenn, Old Ballast), the town of Wrack Quay, the Coast Line, the Black Rock Halt, the Old Opera House, the Gauge House, and the Quiet Table.
+
+Questions deliberately left open:
+- What the first words of the tools will be.
+- Whether the Founder wants to come home or be left.
+- Whether the keepers want to be free.
+- Whether the Auditors can be persuaded.
+- What the Provinces want with the seed.
+- Whether the relics can be reunited.
+- Whether the Silence is a law or a courtesy.
+- What becomes of the debt.
+
+END PACKET
