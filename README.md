@@ -8,7 +8,7 @@
 
 ## Quick start
 
-1. **Download two files:** [Interactive_Story_Engine_R112.txt](Interactive_Story_Engine_R112.txt) (the rules) and [Zombie_Generator_Packet.txt](Zombie_Generator_Packet.txt) (a zombie survival story). To get everything at once, click **Code → Download ZIP** at the top of this page.
+1. **Download two files:** [Interactive_Story_Engine_R113.txt](Interactive_Story_Engine_R113.txt) (the rules) and [Zombie_Generator_Packet.txt](Zombie_Generator_Packet.txt) (a zombie survival story). To get everything at once, click **Code → Download ZIP** at the top of this page.
 2. **Open a new chat** in your AI app and upload both files.
 3. **Copy this message, paste it in, and send it:**
 
@@ -107,7 +107,7 @@ The compact holds only what you already know, so it's safe to read.
 | The menu disappeared | `OOC: show the menu.` |
 | Accents, descriptions, or the writing got weaker | `OOC: refresh` |
 | It did something you didn't choose for your character | `OOC: undo that. My character wouldn't do that.` |
-| It wraps up the scene or skips ahead before you're done | `OOC: I decide when a scene ends. Stay here.` |
+| It wraps up the scene, cuts away, or skips ahead before you're done | `OOC: I decide when a scene ends. Go back and stay in it.` |
 | Something happens "suddenly," or someone keeps interrupting, offering you jobs, or asking for your help | `OOC: nothing arrives out of nowhere, and no job offers or favors. Let me do what I want.` |
 | Characters lecture you, gang up on you, or always win the argument | `OOC: no verdicts. My choices stand, and I can win an argument.` |
 | It rushes you ("it's getting late," "tomorrow you must") or tacks a new event onto the end of a scene | `OOC: no clocks and nothing bolted on. I set the pace.` |
@@ -168,7 +168,7 @@ quiet scenes stay quiet; secrets stay secret; finish the moment, then the seven-
 
 | File | What it's for |
 | --- | --- |
-| [Interactive_Story_Engine_R112.txt](Interactive_Story_Engine_R112.txt) | The rules that run every story. Always upload this one. |
+| [Interactive_Story_Engine_R113.txt](Interactive_Story_Engine_R113.txt) | The rules that run every story. Always upload this one. |
 | [Zombie_Generator_Packet.txt](Zombie_Generator_Packet.txt) | A ready-to-play zombie survival story, different every time. |
 | [Story_Packet_Builder_R41.txt](Story_Packet_Builder_R41.txt) | A helper for making your own story packets. |
 

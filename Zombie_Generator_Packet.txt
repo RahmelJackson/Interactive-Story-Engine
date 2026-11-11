@@ -9,7 +9,7 @@ STORY_LEDGER: PAGE
 GENERATOR SPECIFICATION
 ==================================================
 
-Story Packet Builder R41 format for Interactive Story Engine R112. A generator with no authored story: every run builds a new world, cast, and plot from the player's choices. The engine runs the story; this packet supplies the setup screens and what makes it a zombie story.
+Story Packet Builder R41 format for Interactive Story Engine R113. A generator with no authored story: every run builds a new world, cast, and plot from the player's choices. The engine runs the story; this packet supplies the setup screens and what makes it a zombie story.
 
 ## 1. Launch screen
 

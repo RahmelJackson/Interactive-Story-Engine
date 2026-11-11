@@ -1,6 +1,6 @@
 # STORY PACKET BUILDER
 Revision R41
-Companion engine: Interactive Story Engine R112
+Companion engine: Interactive Story Engine R113
 
 Use this builder to create, revise, rebuild, or continue a Story Packet for the engine. Import stories, notes, play logs, CYOAs, screenshots, and other narrative generators. Produce either a fixed packet from choices made here, or a reusable generator packet whose choices are made through the engine before play. The builder prepares source material; it never begins play.
 
