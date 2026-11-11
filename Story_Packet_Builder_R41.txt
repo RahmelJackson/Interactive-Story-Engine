@@ -1,6 +1,6 @@
 # STORY PACKET BUILDER
-Revision R37
-Companion engine: Interactive Story Engine R74
+Revision R41
+Companion engine: Interactive Story Engine R113
 
 Use this builder to create, revise, rebuild, or continue a Story Packet for the engine. Import stories, notes, play logs, CYOAs, screenshots, and other narrative generators. Produce either a fixed packet from choices made here, or a reusable generator packet whose choices are made through the engine before play. The builder prepares source material; it never begins play.
 
@@ -40,14 +40,14 @@ Only an exported final packet, or an authoring document the user explicitly asks
 | --- | --- |
 | Has a big question worth chasing, forces with grand goals, and revelations with planted evidence. | Lists possible hooks with no direction, so play becomes a string of unrelated problems. |
 | Offers hooks as grand invitations the player can ignore at no cost. | Offers favors, errands, deadlines, and "someone needs you" problems that turn play into a task list. |
-| Builds every request around what only the protagonist can bring, leading to a set piece worth the trip. | Has people hand over problems they could solve themselves, or turns a leader's role into approvals and status reports. |
+| Builds every situation around what only the protagonist can bring, found in the world and leading to a set piece worth the trip. | Has people ask the protagonist for help, hand over problems they could solve themselves, or turn a leader's role into meetings, approvals, and status reports. |
 | Gives the cast varied temperaments, real humor, and warmth toward people they like. | Fills the cast with cool, clever, guarded people who talk down to the protagonist. |
 | Gives each key character values, wants, mixed motives, and a voice described feature by feature. | Gives adjective lists and an accent name, so every character talks the same. |
 | States what each NPC does not care about, so they don't object to everything. | Leaves values blank, so the engine fills them with generic disapproval. |
 | Gives places a function, people in them, and something to do there. | Describes scenery and history the player can never touch. |
 | Supplies the actual material of activities: the show's acts, the dish, the clue, the route. | Says "a festival is happening" and leaves the engine to invent it mid-scene. |
 | Marks what the reader needs now, soon, and later. | Puts everything at equal weight, so the opening becomes a lore dump. |
-| Varies its undertakings by what the player does. | Offers five missions that are all "visit a contact, enter a building, face a guard." |
+| Varies its situations by what the player does. | Offers five situations that are all "visit a contact, enter a building, face a guard." |
 | Keeps background characters to a line and spends detail on the people who matter. | Gives twenty people equal dossiers and buries the four who carry the story. |
 
 **Write material, not instructions.** Saying a character has a distinctive voice is an instruction; describing exactly how she talks (her vocabulary, rhythm, habits, and the subjects she always returns to) is material. Saying a town has rich history is an instruction; a specific past event and the visible trace it left today is material.
@@ -73,7 +73,7 @@ Use this order when building or substantially developing a packet. It is how a s
 3. **Big story.** Build the big question, forces in motion, revelations, key characters, and arcs (Section 8). Do this before filling in the cast, so that the cast serves the story.
 4. **People.** Build key characters in full, supporting characters briefly, background characters in a line (Section 9). Then their relationships (Section 10).
 5. **World.** Build the places where the story happens and the lore with handles (Section 11).
-6. **Activities.** Build the undertakings, slice-of-life material, routes, and investigations the story needs (Section 12).
+6. **Activities.** Build the situations, slice-of-life material, routes, and investigations the story needs (Section 12).
 7. **Opening.** Build the first situation, tagged for what the reader needs now (Section 13).
 8. **Review and export.** Check the actual material (Section 15) and output the packet (Section 14).
 
@@ -209,7 +209,7 @@ Selecting an option accepts its explained starting facts, capabilities, limits, 
 
 ## F. Turn choices into one connected story
 
-For FIXED, do this here. For SELECT_AT_START, export it as a recipe the engine follows (engine section "Source, Setup, and the Opening").
+For FIXED, do this here. For SELECT_AT_START, export it as a recipe the engine follows (engine section "Setup, Save, and Continuity").
 
 1. Resolve and validate the configuration. Apply invariants and only the selected conditional effects.
 2. Build outward in the source's causal order: a location determines environment and dependencies; an era determines history and knowledge; company determines whether to build a household, a crew, one companion, or a solo start.
@@ -219,7 +219,7 @@ For FIXED, do this here. For SELECT_AT_START, export it as a recipe the engine f
 
 **A reusable recipe specifies** its inputs, generation order, fixed limits, conditions, and required outputs, including a big-story recipe: how selections determine the big question, what kinds of forces fit each major branch, and what revelations each branch can support. "Generate something interesting" is not a recipe. Supply short templates or worked illustrations where they clarify. Do not prebuild every possible city or cast where the source deliberately leaves generation open.
 
-**Test the recipe with two different builds.** If both produce essentially the same big question, cast roles, and first undertaking, the recipe needs more branching.
+**Test the recipe with two different builds.** If both produce essentially the same big question, cast roles, and first situation, the recipe needs more branching.
 
 ## G. Worked conversion: a point-buy CYOA
 
@@ -262,7 +262,7 @@ A FIXED export contains the rig and glider, their exact abilities and limits, an
 
 ## Themes
 
-Themes come from the big story: what the forces in motion want, what the key characters disagree about, and what the protagonist arc question presses. Build them into material arrangements (who owns what, who can access what, what people celebrate or depend on) and give different characters different stakes. **No character exists to voice the theme, and the packet never prescribes the answer.** Check that the theme's question allows every answer: a story about trust must contain people who are actually trustworthy, and a story about power must allow sincere and generous use of it.
+Themes come from the big story: what the forces in motion want, what the key characters disagree about, and what the campaign puts at stake. Build them into material arrangements (who owns what, who can access what, what people celebrate or depend on) and give different characters different stakes. **No character exists to voice the theme, and the packet never prescribes the answer.** A theme lives in situations and what people do; nobody states it, and no two characters hold the same stance on it. Check that the theme's question allows every answer: a story about trust must contain people who are actually trustworthy, and a story about power must allow sincere and generous use of it.
 
 ## The protagonist
 
@@ -270,7 +270,7 @@ Themes come from the big story: what the forces in motion want, what the key cha
 
 **CREATE_AT_START**: the player creates the protagonist through the engine. Supply a spoiler-free world synopsis, playable roles and starts with real differences in access and ability, resources, limits, optional presets, and conditional ties ("the foreman is your mentor only if you pick the apprentice background"). A role enables participation; it does not impose an oath, mission, allegiance, romance, or debt.
 
-**What only the protagonist can do.** In either mode, note what the protagonist's role, history, ties, possessions, and nature let them do that nobody else can: a leader's word and presence, a past in a certain place, a rare skill, a key, a face people know. Requests and undertakings are built on it (Section 12). A leader's role plays as what only a leader does in person (walking into a rival's house, giving their word, judging, claiming, facing a crowd, choosing who goes), never as approvals, sign-offs, or status reports.
+**What only the protagonist can do.** In either mode, note what the protagonist's role, history, ties, possessions, and nature let them do that nobody else can: a leader's word and presence, a past in a certain place, a rare skill, a key, a face people know. Situations are built on it (Section 12). A leader's role plays as what only a leader does in person (walking into a rival's house, giving their word, judging, claiming, facing a crowd, choosing who goes), never as approvals, sign-offs, or status reports.
 
 Do not restart creation for a missing minor detail. For a new protagonist, clarify whether this is a fresh run or a change to the existing timeline.
 
@@ -280,22 +280,31 @@ Do not restart creation for a missing minor detail. For a new protagonist, clari
 
 ## Build it
 
-**Start from the pleasure.** Name what this story lets the player do and enjoy (outwit stronger people, belong somewhere, explore, build a home, fall in love, provoke a rival) and the actions that deliver it (a thief's story needs chances to case, plan, deceive, and steal). Name the genre engines it needs (engine section "Scenes": mystery, romance, comedy, drama, ideas, wonder, action, horror); for a mystery, fix the truth, the timeline, the suspects with their own secrets, and where each core clue sits. Everything below should feed it, and the opening should give a first taste.
+**Start from the pleasure.** Name what this story lets the player do and enjoy (outwit stronger people, belong somewhere, explore, build a home, fall in love, provoke a rival) and the actions that deliver it (a thief's story needs chances to case, plan, deceive, and steal). Name the genre engines it needs (engine section "Scenes and Prose": cinematic, sensual, philosophical, restful or wondrous, comic, tense, heartfelt, intrigue); for a mystery, fix the truth, the timeline, the suspects with their own secrets, and where each core clue sits. Everything below should feed it, and the opening should give a first taste.
 
-1. **The big question and central situation.** The engine runs on a story web (engine section "The Story"): a central situation that most key characters care about and have different visions for. Name the situation concretely (a contested place, a coming change, a prize, a mystery, a power vacuum, a family coming apart) and the big question it raises. A large, intriguing question or possibility that makes the world bigger: a mystery, a prize, a frontier, an ambition, a rising power, a buried truth, a chance to change how things are. Test: would a player chase this even if nothing bad happened for ignoring it? If it only works as a threat or a deadline, replace it.
+1. **The big question and central situation.** The engine runs on a story web (engine section "The World and the Long Story"): a central situation that most key characters care about and have different visions for. Name the situation concretely (a contested place, a coming change, a prize, a mystery, a power vacuum, a family coming apart) and the big question it raises. A large, intriguing question or possibility that makes the world bigger: a mystery, a prize, a frontier, an ambition, a rising power, a buried truth, a chance to change how things are. Test: would a player chase this even if nothing bad happened for ignoring it? If it only works as a threat or a deadline, replace it.
    - Weak: a deadline or a threat (pay up before eviction), or something vague and abstract (whether good will triumph).
    - Strong: a concrete, intriguing open question tied to this world's particulars: a sealed place nobody has opened, a job that would make someone legendary, a person whose return would change everything.
 2. **Forces in motion.** Give every force a face: one or more named representatives with their own voice and wants, whom the protagonist can meet. One to three major players (people, factions, phenomena) with grand goals of their own, a reason that makes sense from their side, and means. List a few large changes they will make to the world over time, each something interesting to hear about or witness (a new power rising, a border closing, a discovery made public), never a chore or a loss aimed at the protagonist. Forces react to the protagonist only after the protagonist gets involved with them.
 3. **Revelations.** Two to four hidden truths that will change how the big question looks. For each, list two or three places evidence exists (a person who knows, a document, a physical trace).
 4. **Key characters and their visions.** Three to five recurring people who matter to the central situation. For each: their **vision** (what they want the central situation and their own life to become), their **want now** (the next concrete step), their **fear**, their stake in the protagonist, their own arc question, a **secret** (what, kept from whom, why, and what would bring it out), and something likeable or fascinating about them. **At least two visions must clearly conflict.** At least one character should be someone the protagonist might love spending time with, and at least one should have reasons to work against them.
-5. **Protagonist arc question.** A question the player answers through their choices, about what kind of life the protagonist wants or who they become as their situation changes. Never decide the answer. If the user names the protagonist's goal (what they're after and what it means to them), record it; otherwise leave it for the engine to ask or for the story to find, and build the big story so several likely goals cross it.
+5. **The campaign offer.** The protagonist's journey is whatever the player chooses; never supply an arc, wound, flaw, or lesson for them. If the user names the protagonist's goal, record it. Otherwise write the campaign as an offer the engine states plainly in its premise: something big the protagonist could change, gain, discover, create, or join, why it appeals, and a concrete first approach, with nothing vowed and nothing urgent.
 6. **Room to grow.** What the protagonist could become or build: a reputation, a home, a crew, power, wealth, love, a legacy. This is the ladder the story climbs; opportunities should get bigger as the protagonist rises.
 7. **Side plots.** Two or three secondary threads, each with its own beginning, middle, and possible endings, each a pleasure to follow on its own, and each crossing the big story through a person, place, or cause: a key character's personal want, a rivalry, a romance, a local mystery, a feud, a strange place, a faction's scheme, a project being built. Add two or three more in reserve to start when one ends. The engine moves threads as time passes and choices land, so give each side plot several possible developments.
 8. **Phase sketch.** One or two lines for how the story could develop as the player engages (discovery, engagement, turn, rising stakes, climax, resolution), written as possibilities, never as protagonist choices or deadlines.
 9. **On-page anchors.** What in the first few scenes will make the big story visible: a glimpse of the big question, a key character worth knowing, a sign that great forces are moving. The engine only remembers what reaches the page.
 10. **Landmarks.** Two or three possible turning points (a confrontation, a discovery, an achievement, an arrival), each with its place, the people involved, what becomes possible there, what would bring it about, and how the world would differ afterward. Possibilities the player can bypass or replace, not a script.
-11. **Development stock.** Eight to twelve changes the world and cast can go through on their own, so the world keeps changing offscreen, ready to be found when the player goes out: things getting built or finished, seasons and events, arrivals of interesting people, celebrations, characters' projects succeeding or failing, relationship milestones, visible progress of the forces in motion. None is a problem or a deadline, and none needs to cut into a scene to arrive.
+11. **Development stock.** Eight to twelve changes the world and cast can go through on their own, so the world keeps changing offscreen, ready to be found when the player goes out: things getting built or finished, seasons and events, arrivals of interesting people, celebrations, characters' projects succeeding or failing, relationship milestones, visible progress of the forces in motion. None is a problem or a deadline, and none needs to cut into a scene to arrive. Mark four to six of them, good and bad, as the **starting horizon** (a festival, an arrival, a wedding, a tournament, an election; a rival's push, a shortage, a succession, a trial), each with signs visible now, who is driving it, what it will change when it lands, what the protagonist could make of it, and how the people involved settle it if the protagonist never touches it. The engine names the horizon in its premise and moves it only when the player chooses to move on.
 12. **Seeds and payoffs.** A handful of details to plant early (an object, a promise, a rumor, a character's dream, a locked door) and the payoff each could grow into. Payoffs recall where they began and change the world.
+
+## The campaign frame
+
+Close the big story with the five lines the engine reads at setup, each concrete:
+- PRESENT CONDITION: what is contested, controlled, damaged, coveted, forbidden, or unexplored, and who lives with it.
+- OPPOSITION: a face, aim, territory, resources, allies, limits, and activity already underway.
+- AVAILABLE CAMPAIGN: the campaign offer (item 5).
+- DEVELOPMENT: a foothold, a possible turning point, and a possible culmination, as changed conditions; causes fixed, outcomes open.
+- PAYOFF: what winning settles and what the world keeps.
 
 ## Quality tests
 
@@ -335,10 +344,14 @@ Deepen key characters before adding more people. A new character who would do th
 
 **Core.** One or two short present-tense statements of who they are and what drives them, written as description, never as their dialogue. Short declarative identity lines survive long chats and compacts better than anything else in a character entry, so make them specific to this person, not a type.
 
+**Contrast line.** One line the engine can hold onto: their drive (status, love, money, safety, revenge, pleasure, belonging, mastery, freedom, faith, legacy); an appetite or vice; something they're proud of; something they're wrong about; what they find funny; how they treat people above and below them; and one trait against type (the pious smuggler, the shy duelist). Add what they want from the protagonist (attention, desire, money, power, protection, a title, a laugh, a rival, an audience, to be left alone); some people want what a cautious writer would steer them away from (the crown, to be kept, to rule beside someone), and that is theirs to want.
+
+**Agenda.** Their current project, the rival or obstacle in its way, and their next move, pursued whether or not the protagonist is watching.
+
 **Identity and appearance.** Name, role, cultural and linguistic background, relationship to the protagonist or a relevant peer, and why they are in the story. An **appearance hook** for first sight (role, one or two distinctive visual details), then the full portrait: ethnicity or heritage and skin tone (or equivalent), age impression, height, build and body type, face, hair, usual clothing and what it says about them, characteristic movement. If they are beautiful or striking, say specifically what makes them so; if their clothing is alluring, say how. Express beauty, roughness, or strangeness through actual features and movement. Give them **an oddity that grows out of their life** (a habit, obsession, superstition, skill, or contradiction rooted in their work, history, or culture, never a quirk pasted on), and **a name** a real family from their culture, region, class, and generation would choose, avoiding the names language models overuse and any name (or near-copy) already in the packet. Keep age, experience, reasoning, and emotional control separate; long life does not mean perfect insight.
 
-**The four values** (these drive every reaction the engine writes for them; engine section "Characters"):
-- What they value and protect.
+**The four values** (these decide what they do, and the engine shows them in action, never as speeches; engine section "People"):
+- What they value and protect: particular people, places, things, and ways of life, never principles (independence, dignity, freedom), which turn into speeches.
 - What they are indifferent to. Be generous here: this is what stops the engine from making them object to everything.
 - What they have done, or would do, themselves. This is what stops hypocritical judgment.
 - What they want from the current situation.
@@ -360,19 +373,25 @@ Skip biographies that never affect play, automatic tragic backstories, and hidde
 
 **Temperament, humor, and warmth.** Give each key character a distinct temperament (cheerful, goofy, earnest, sentimental, hot-headed, shy, chatty, dramatic, blunt, dreamy) and their own sense of humor: what they joke about and how they take a joke. Say how they show warmth to people they like. In any cast, at most one character is the cool, dry, analytical type. Vary intelligence too: sharp, ordinary, brilliant at one thing and foolish at others. Nobody exists to talk down to the protagonist.
 
-**Emotional style.** How they handle feelings, especially vulnerable ones: retreating into work or logistics, tactical focus, theatricality, jokes, anger, bluntness, silence, bossing people around, flirting. Different key characters need different styles, wounds, and backstory shapes; never give the whole cast the same inner crisis or confession.
+**Emotional style.** How they handle feelings, especially vulnerable ones: retreating into work or logistics, tactical focus, theatricality, jokes, anger, bluntness, silence, bossing people around, flirting. Different key characters need different styles, wounds, and backstory shapes; never give the whole cast the same fear, grievance, inner crisis, or confession.
 
-**Personal expedition.** Make it cross the big story: the thing they want is held by a faction, lies in contested ground, or depends on a force in motion, so helping them means engaging with the wider world. A specific place beyond the usual haunts tied to their most important want: where they came from, someone they lost, something they need, a truth about themselves, a dream. When their arc ripens, they invite the protagonist there, and the arc's peak happens on the page (engine section "The Story"). Make these places alluring: wonder, irreplaceable things, mystery, meaning.
+**Personal expedition.** Make it cross the big story: the thing they want is held by a faction, lies in contested ground, or depends on a force in motion, so helping them means engaging with the wider world. A specific place beyond the usual haunts tied to their most important want: where they came from, someone they lost, something they need, a truth about themselves, a dream. When their arc ripens, they set out, the protagonist can come along, and the arc's peak happens on the page (engine section "The World and the Long Story"). Make these places alluring: wonder, irreplaceable things, mystery, meaning.
 
 **Initiative.** What they are doing, have started, or want to offer, make, contest, or pursue right now, with the means and reason to do it. Include moves toward peers as well as the protagonist. No portrait should consist of waiting for the protagonist's direction.
 
-**Personal project and arc stages.** A project or dream they work on offscreen (a garden, a song, a business, a romance, learning a skill, a grudge), and 3-4 stages their arc could move through. The engine advances these on its own so characters visibly change over time (engine section "The Story").
+**Personal project and arc stages.** A project or dream they work on offscreen (a garden, a song, a business, a romance, learning a skill, a grudge), and 3-4 stages their arc could move through. The engine advances these on its own so characters visibly change over time (engine section "The World and the Long Story").
 
 **Current feelings** that matter, each with a cause and an effect on what they notice, say, or do. A mood label alone is not material.
 
+## Define the cast against each other
+
+A model's default person is measured, reasonable, articulate, and mildly wary; almost nobody in the packet should be that person. Across the key characters, no two share a drive, a sense of humor, or a stance toward the protagonist, and each holds a stated opinion of at least two of the others. Two tests: describe each person without name, job, or looks, and if the description fits anyone else, rebuild; imagine the same event reaching all of them, and if any two would react alike, give them different reasons to care.
+
 ## Voice
 
-**Every speaking character must have a distinct voice with an accent or dialect** (engine section "Voices, Accents, and Languages"). If the source doesn't give one, assign one that fits their origin: region, culture, community, class, generation, and profession; in an invented world, a coherent dialect from that world's cultures. Give **voice markers** the engine can use directly: **sound** (two or more real sound changes of that dialect, and how to spell them every time the sound comes up), **grammar** (two or more real habits from their dialect or first language: verb forms, negatives, dropped articles or helper verbs, word order, literal idioms), **words** (a wide stock to rotate: slang, oaths, endearments, fillers, forms of address, jargon, first-language words, food, faith, places, sayings), and **mind** (what they notice first, what they compare things to, what they steer back to, how they dodge feelings). Note how the voice sounds when they are moved or hurt, so it holds in emotional scenes. Make it strong: favor the accent's authenticity over easy readability, and say how it should look on the page (dropped or changed sounds, nonstandard grammar, regional words, where phonetic spelling helps). Keep it respectful (specific and authentic, never caricature). **List the languages each character speaks**, which one is their first, and when they switch into it (swearing, praying, tenderness, talking to their own people, hiding something from the protagonist). Note which languages the protagonist understands, so the engine knows what stays untranslated. People from the same region can share an accent, but each needs their own vocabulary, rhythm, and habits.
+**Every speaking character must have a distinct voice with an accent or dialect** (engine section "Voices and Languages"). If the source doesn't give one, assign one that fits their origin: region, culture, community, class, generation, and profession; in an invented world, a coherent dialect from that world's cultures. Give **voice markers** the engine can use directly: **sound** (two or more real sound changes of that dialect, and how to spell them every time the sound comes up), **grammar** (two or more real habits from their dialect or first language: verb forms, negatives, dropped articles or helper verbs, word order, literal idioms), **words** (a wide stock to rotate: slang, oaths, endearments, fillers, forms of address, jargon, first-language words, food, faith, places, sayings), and **mind** (what they notice first, what they compare things to, what they steer back to, how they dodge feelings). Note how the voice sounds when they are moved or hurt, so it holds in emotional scenes. Make it strong: favor the accent's authenticity over easy readability, and say how it should look on the page (dropped or changed sounds, nonstandard grammar, regional words, where phonetic spelling helps). Keep it respectful (specific and authentic, never caricature). **List the languages each character speaks**, which one is their first, and when they switch into it (swearing, praying, tenderness, talking to their own people, hiding something from the protagonist). Note which languages the protagonist understands, so the engine knows what stays untranslated. People from the same region can share an accent, but each needs their own vocabulary, rhythm, and habits.
+
+**Write it as a voice key** the engine can use as is: the origin stated precisely in one line (region or city, community, class, generation, first language), which the engine puts into the character's introduction; three or four sound-to-spelling patterns; two or three grammar features; a word stock (terms of address, intensifiers, fillers, oaths, endearments, favorite comparisons); rhythm (sentence length, pace, how they joke, dodge, and swear); and, for a second-language speaker, what their first language does to this one and how fluent they are. Vary origins across the cast wherever the world allows: a cast that all sounds alike wastes the easiest way to make people memorable.
 
 **Describe voices; don't script them.** Sample lines in a packet tend to get repeated word for word during play. Describe each voice through its features (origin, accent, grammar habits, rhythm, favorite subjects, how they address people) instead of writing example quotes, unless the user supplies canonical lines.
 
@@ -394,7 +413,7 @@ Skip biographies that never affect play, automatic tragic backstories, and hidde
 
 **Supply the good as well as the difficult**: company someone welcomes, work they trust, pleasure they share, care they accept. Stable happiness and comfortable familiarity need material too.
 
-**Ground disagreements** in a particular offer, method, risk, resource, history, or boundary. Give refusals their own causes.
+**Ground disagreements** in a particular offer, method, risk, resource, history, or boundary. Give refusals their own causes, played as reactions and deeds, never as speeches about principle or terms for a relationship.
 
 **Connect NPCs to each other**, not only to the protagonist: friendship, rivalry, debt, family, shared projects, disagreements over method. Give them reasons to talk, tease, help, compete, and settle things without the protagonist in the middle. Make sure the key characters have at least one tension among themselves that the spine can press.
 
@@ -441,30 +460,31 @@ Skip biographies that never affect play, automatic tragic backstories, and hidde
 
 Supply the actual material of the experiences the story offers, so the engine plays them instead of announcing them.
 
-## Undertakings and missions
+## Situations
 
-**Supply a slate of 3-5 possible undertakings**, most tied to the big story and one or two marked as local. The engine offers them as menu options or as things the protagonist can notice and seek out, never handed over unprompted, so give each a way in the protagonist can find (a place, a rumor, a person they could approach). Every one must pass the hook test (engine section "The Story"): appealing on its own, no deadline, no penalty for ignoring it, not a favor (anything asked of the protagonist needs something only they have), and big enough to matter. Each needs a **centerpiece** the player will remember: a place, a discovery, a confrontation, a spectacle, a feat. Design each backward from its peak (engine section "The Story"). Never build one as a chain of intermediaries (talk to A, who wants you to talk to B), and keep paperwork, permits, and small negotiations offscreen. For each:
-- **Promise:** what the objective is, why a player would want it, and what makes this one distinctive.
-- **Why the protagonist** (when someone else brings it): what only they bring (rank or word, face or reputation, a relationship, their past, a skill, a possession, their nature, a decision that's theirs to make), and what the asker does themselves. If anyone else could do it, it's color, not an undertaking.
-- **The ask:** who brings it (if anyone), in person, with what in hand, for what reason of their own, and what they've already tried.
-- **Participants:** who is involved, what they want, and what they can do.
-- **Entry:** the place, entry conditions, and the situation at the start.
+**Supply a slate of 3-5 situations in motion**, most grown from the big story and one or two marked as local (engine section "The World and the Long Story"). A situation is something already happening that the protagonist could step into: someone in trouble, a fight brewing, a party with an agenda, a rival's move, a standoff, a hunt, a heist being planned, a contest, a strange sign, a body found. The engine shows each as something the protagonist can notice where they already are, or as a menu option, never handed over by an NPC, a call, or a messenger, and nobody asks the protagonist for help. Each must be appealing on its own, carry no deadline or penalty for ignoring it, and be big enough to matter. A meeting, purchase, permission, or negotiation is never a situation, politics plays as events (a riot, an arrest, a bridge held), and nothing is built as a chain of intermediaries (talk to A, who wants you to talk to B). Design each backward from its peak. For each:
+- **What's visible now:** the image the protagonist can notice in passing, where and when, and what it hints at.
+- **Who wants what:** the people involved, what each wants and can do, with someone the protagonist cares about, or could, among them.
+- **What happens if nobody steps in:** the next moves of the people involved, as they'd happen in the world; never a deadline aimed at the player.
+- **The truth:** what's really going on, fixed in advance, and where its evidence sits. It can be exactly what it appears to be; never a culprit behind the culprit or a chain of people who point to other people.
+- **Why the protagonist:** what only they bring (rank or word, face or reputation, a relationship, their past, a skill, a possession, their nature). If anyone else could do it, it's color, not a situation.
 - **Set piece:** the place at its heart, worth the trip: its physics, scale, light, and sound, something in motion, and the image the player will remember.
-- **Middle stages:** two to four stages in which **each produces something the next uses**: new knowledge, changed access, a different relationship, an acquired resource, a changed opponent, or a revised understanding of the objective. Note other actors moving at the same time, and alternative orders or approaches. Never a trail that recedes through copies of the same clue.
-- **The turn:** what changes the undertaking's meaning partway (the lost one doesn't want saving, a rival wants the same prize, the prize is alive).
-- **Opposition:** wants, means, limits, and what they actually do. For physical resistance: perception, movement, reach, terrain, cover, equipment. For social resistance: leverage, alternatives, terms.
+- **Beats:** two to four stages in which **each produces something the next uses**: new knowledge, changed access, a different relationship, an acquired resource, a changed opponent. Note other actors moving at the same time and alternative orders. Never a trail that recedes through copies of the same clue.
+- **Opposition:** wants, means, limits, and what they actually do. For physical resistance: perception, movement, reach, terrain, cover, equipment. For social resistance: leverage, allies, and the moves they make (a rumor spread, a door closed, a vote bought).
 - **Approaches:** two or three materially different ways in, each leading to different scenes.
-- **Peak and ending:** the decision or act only the protagonist can make, face to face; what counts as success, partial success, and failure; what ends the resistance; and, if the protagonist sends others, what they bring back that only the protagonist can decide.
-- **Payoff:** the concrete reward, answer, or changed circumstance, how it can be used, and how it moves the big story or the protagonist up the ladder.
+- **Peak and ending:** the act only the protagonist can make, in person; what counts as success, partial success, and failure; and what ends the resistance.
+- **Aftermath:** the concrete reward, answer, or changed circumstance, who saw, how it can be used, and the new situations it opens.
 
-**Vary the slate by what the player does.** Each undertaking should differ from the others on at least two of these:
+**Vary the slate by what the player does.** Each situation should differ from the others on at least two of these:
 - **Information:** clear, misunderstood, concealed, or for the player to define.
-- **Participation:** investigating, persuading, building, navigating, protecting, performing, coordinating.
+- **Participation:** investigating, deceiving, fighting, building, navigating, protecting, performing, stealing.
 - **Structure:** linear, branching approaches, leads in any order, moving actors, revisited places.
 - **Company:** alone, with an expert, alongside a rival, helping someone with different priorities.
 - **Outcome:** an answer, a working creation, a rescued person, access, recognition, reconciliation, changed living conditions.
 
-Keep accepted objectives, optional opportunities, and independent NPC activity distinct. No undertaking carries a deadline or a penalty for ignoring it.
+**Build each from the cast:** two or three key people or factions whose wants collide, a place that matters to them, a prize, and one true thing that complicates it. A good situation has a clear question, sides that each have a point, something personal at stake for someone present, one detail nobody would predict, a lever the protagonist could pull, and an ending that changes something.
+
+Keep accepted objectives, optional situations, and independent NPC activity distinct. No situation carries a deadline or a penalty for ignoring it.
 
 ## Slice of life
 
@@ -493,7 +513,7 @@ Supply the event's actual content: the acts on the bill, the rival competitors a
 | SOON | History, customs, politics, and backgrounds to bring in through contact and questions. | Why the river guild hates the toll bridge. |
 | LATER | Unvisited places, secondary biographies, distant events, secrets. | The landlord's real backer. |
 
-These guide how the engine orients a new reader without lore dumps (engine section "Prose," under Orientation). An opening fails when it gives SOON material before NOW material.
+These guide how the engine orients a new reader without lore dumps (engine section "Places"). An opening fails when it gives SOON material before NOW material.
 
 **Define important terms** by ordinary category, function, and relevant limit, without chains of other undefined terms. Note which informed characters can explain what, and why they would.
 
@@ -505,7 +525,7 @@ These guide how the engine orients a new reader without lore dumps (engine secti
 - The one or two foreground people, with appearance hooks and voices.
 - The NOW facts, and what makes this moment worth experiencing.
 - At least one big-story anchor: a glimpse of the big question, a key character worth knowing, or a sign that great forces are moving. It invites; it does not pressure.
-- Two or three directions the player could take from here, each with a concrete attraction and none urgent. These are available, not accepted. The opening is a moment to enjoy and explore, not a problem to solve.
+- Two or three directions the player could take from here, each with a concrete attraction and none urgent. These are available, not accepted. The opening is a moment to enjoy and explore, not a problem to solve: no emergency, summons, arriving messenger, scheduled meeting, or countdown.
 
 Keep it focused: one place, one or two foreground people, normally no more than four new names before the first choice. Leave the protagonist's first reaction, emotion, and commitment open.
 
@@ -521,14 +541,14 @@ Do not turn letters, visitors, summonses, or someone searching for the protagoni
 
 Output only the final packet, between STORY PACKET and END PACKET. Fill each section with actual content; omit sections that do not apply and never leave placeholders. Keep important custom fields from imports. State each fact once, in its natural section, and cross-reference elsewhere.
 
-**Length.** Honor explicit length limits; identify counts as estimates unless a tokenizer is available. If a budget conflicts with the requested scope, ask about the tradeoff rather than silently cutting. When compressing, cut in this order: repeated material, background-tier detail, SOON and LATER lore, supporting-character depth. Keep the big story, key characters' values and voices, NOW facts, the opening, and undertaking payoffs.
+**Length.** Honor explicit length limits; identify counts as estimates unless a tokenizer is available. If a budget conflicts with the requested scope, ask about the tradeoff rather than silently cutting. When compressing, cut in this order: repeated material, background-tier detail, SOON and LATER lore, supporting-character depth. Keep the big story, key characters' values and voices, NOW facts, the opening, and situation payoffs.
 
 STORY PACKET
 TITLE: [Title]
 MODE: [NEW or CONTINUE]
 CHARACTER_SETUP: [READY or CREATE_AT_START]
 SETUP_MODE: [FIXED or SELECT_AT_START; omitted in older packets means FIXED.]
-STORY_LEDGER: [Optional. PAGE (default). HIDDEN_COMMENT is legacy and treated as PAGE. See the engine section "Source, Setup, and the Opening."]
+STORY_LEDGER: [Optional. PAGE (default). HIDDEN_COMMENT is legacy and treated as PAGE. See the engine section "Setup, Save, and Continuity."]
 
 GENERATOR SPECIFICATION
 [Required for SELECT_AT_START; optional after FIXED as a source for future runs. Source title, edition, and scope; invariants; complete category and option catalogs with stable identifiers, plain meanings, and exact effects; costs, grants, prerequisites, exclusions, counts, and formulas; branching and random procedures; presets, defaults, and custom-input rules; generation order and recipes with required outputs, including the big-story recipe; adaptations and source gaps. Must run without the original attachment. Inactive for CONTINUE unless a fresh run is requested.]
@@ -544,13 +564,13 @@ PLAY SPECIFICATIONS
 
 PROTAGONIST
 [READY: supplied or delegated identity, appearance, culture, role, competence, resources, established history and ties, and what is deliberately open. CREATE_AT_START: fixed material only.]
-ACCEPTED OBJECTIVE: [None, or the actual accepted undertaking with scope and terms.]
+ACCEPTED OBJECTIVE: [None, or the situation the player actually took up, with scope.]
 
 CHARACTER CREATOR
 [CREATE_AT_START only: spoiler-free synopsis, roles and starts, resources and limits, presets, conditional ties.]
 
 KEY CHARACTERS
-[Per key character: core statement, identity, appearance hook and full portrait, the four values, mixed motives, useful history, capabilities and limits, range, current feelings with effects, initiative, and a detailed voice description (origin, accent, grammar, rhythm, habits, subjects, how it changes with mood).
+[Per key character: core statement, contrast line, agenda, opinions of at least two other key characters, identity, appearance hook and full portrait, the four values, mixed motives, useful history, capabilities and limits, range, current feelings with effects, initiative, and a voice key (origin line, sound-to-spelling patterns, grammar features, word stock, rhythm, languages and switching, how it changes with mood).]
 
 SUPPORTING AND BACKGROUND CHARACTERS
 [Supporting: identity, role, appearance hook, two values, current want, a short voice description. Background: one line each.]
@@ -570,8 +590,8 @@ READER ORIENTATION
 OPENING OR RESUME SITUATION
 [Premise card material (the story; who you are), place, time, protagonist position, activity underway, foreground people, spine anchor, available directions. CONTINUE preserves the exact moment. No scripted reaction and no menu.]
 
-UNDERTAKINGS
-[The slate: promise, why the protagonist, the ask, participants, entry, set piece, middle stages that feed each other, the turn, opposition, approaches, peak and ending, payoff, and spine link or "local".]
+SITUATIONS
+[The slate: what's visible now, who wants what, what happens if nobody steps in, the truth, why the protagonist, set piece, beats that feed each other, opposition, approaches, peak and ending, aftermath, and spine link or "local".]
 
 EVERYDAY LIFE AND LOCAL MOMENTS
 [Slice-of-life stock and local attractions, each with its specific appeal.]
@@ -580,7 +600,7 @@ PLAYED HISTORY AND PRESENT CIRCUMSTANCES
 [CONTINUE only: relevant events, completed or abandoned work, commitments, corrections, relationship changes, knowledge, possessions, conditions, and a coherent calendar.]
 
 STORY_SPINE (SPOILERS: ENGINE USE)
-[The pleasure (what the player gets to do and enjoy, and the actions that deliver it); big question; forces in motion with goals, reasons, means, their next two or three moves, and the large world changes they will make; revelations with evidence locations; key characters' goals, stances, arc questions, secrets (with keepers and what would bring each out), and appeal; the protagonist's goal if given; protagonist arc question; room to grow; subplots; phase sketch; landmarks; development stock; seeds and payoffs; on-page anchors; current phase and chapter for CONTINUE. For SELECT_AT_START, the big-story recipe.]
+[The pleasure (what the player gets to do and enjoy, and the actions that deliver it); big question; forces in motion with goals, reasons, means, their next two or three moves, and the large world changes they will make; revelations with evidence locations; key characters' goals, stances, arc questions, secrets (with keepers and what would bring each out), and appeal; the protagonist's goal if given; the campaign frame (present condition, opposition, available campaign, development, payoff); the starting horizon; room to grow; subplots; phase sketch; landmarks; development stock; seeds and payoffs; on-page anchors; current phase and chapter for CONTINUE. For SELECT_AT_START, the big-story recipe.]
 
 KNOWLEDGE AND OPEN QUESTIONS
 [Claims versus facts, what the protagonist knows at the start, fixed hidden truths not covered by the spine, and questions deliberately left open.]
@@ -594,14 +614,14 @@ Check the packet's actual material, not its promises. Repair routine defects dir
 | Check | Look for |
 | --- | --- |
 | Big story | A named pleasure with actions that deliver it; a big question that passes the no-pressure test and has more than one ending; forces in motion with grand goals; revelations with two or more evidence locations; room to grow; on-page anchors in the opening. |
-| Hooks | Every undertaking and opening direction is an invitation: no deadline, no penalty for ignoring it, no favors or errands, no intermediary chains, no paperwork; each has a centerpiece, each request needs something only the protagonist has, and none is handed over unprompted by an NPC, a call, or a messenger. |
+| Hooks | Every situation and opening direction is an invitation: no deadline, no penalty for ignoring it, no favors or errands, no intermediary chains, no paperwork; each has a centerpiece and needs something only the protagonist has; nobody asks the protagonist for help, a favor, or an approval, and none is handed over by an NPC, a call, or a messenger. |
 | Warmth and humor | Key characters have distinct temperaments, their own humor, and visible warmth; at most one cool analytical type; nobody built to talk down to the protagonist. |
-| Key characters | All four values, generously filled on "indifferent to"; mixed motives; initiative; range beyond function; at least one tension among them; no two share a name, a wound, or a backstory shape. |
-| Voice | Each key character has a strong accent or dialect, their languages, and personal habits described clearly enough that their dialogue could not be confused with anyone else's; no quoted sample lines unless canonical. |
-| No built-in moralizing | No character exists only to judge, warn, or advise the protagonist; nobody condemns what they would do themselves; no theme the whole cast voices at the protagonist. |
-| Activities | Undertakings with a set piece, middle stages that feed each other, a turn, and a peak only the protagonist can resolve; a slate varied on at least two axes; slice-of-life material with specific appeal; set pieces with actual content. |
+| Key characters | A contrast line and an agenda each, no two sharing a drive, humor, or stance toward the protagonist, each with opinions of two others; all four values, generously filled on "indifferent to"; mixed motives; initiative; range beyond function; at least one tension among them; no two share a name, a wound, or a backstory shape. |
+| Voice | Each key character has a voice key with a precise origin line, origins vary across the cast, and their languages and personal habits are described clearly enough that their dialogue could not be confused with anyone else's; no quoted sample lines unless canonical. |
+| No built-in moralizing | No character exists only to judge, warn, or advise the protagonist; nobody condemns what they would do themselves; no theme the whole cast voices at the protagonist; no two key characters share a fear, a grievance, or a stance toward the protagonist; values are particular, never principles. |
+| Activities | Situations with something visible now, a fixed truth, a set piece, beats that feed each other, and a peak only the protagonist can resolve; a slate varied on at least two axes; slice-of-life material with specific appeal; set pieces with actual content. |
 | Places and lore | Significant places have a signature, architecture and conditions, density, an oddity, events of their own, lore people tell, regulars, rhythm, and something to discover; recurring places have zones; places pass the swap test. |
-| Momentum and payoff | A development stock of 8-12 non-urgent changes; key characters have projects and arc stages; seeds are planted with payoffs in mind; two or three landmarks. |
+| Momentum and payoff | A development stock of 8-12 non-urgent changes with four to six marked as the starting horizon, good and bad; a complete campaign frame; key characters have projects and arc stages; seeds are planted with payoffs in mind; two or three landmarks. |
 | Reader orientation | NOW facts and definitions are present; the opening does not depend on SOON or LATER material. |
 | Opening | Starts mid-activity, focused, with a big-story anchor and open, non-urgent directions; no scripted reaction, no menu. |
 | Authority and fidelity | Accepted specifics, names, counts, exclusions, played outcomes, and corrections are intact; proposals are distinct from commitments. |
